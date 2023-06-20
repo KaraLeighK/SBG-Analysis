@@ -1,0 +1,831 @@
+﻿Student ID,Status,Class Of,Gender,Ethnicity,Language,Birth date,Course Title,Class Name,TEACHERID,ClassID,S1 Grade,S1 Avg,S1 GPA,S1 Passing,S2 Grade,S2 Avg,S2 GPA,S2 Passing,Year
+10852,Graduate,2022,Male,Hispanic/Latino,Spanish,07/27/2004,PE I,PE I,26,431,,0,0,false,A,100,4,true,2018-2019
+10833,Withdrawn,2022,Male,Non-Hispanic/Latino,English,08/08/2004,PE I,PE I,26,431,,0,0,false,,0,0,false,2018-2019
+10861,Withdrawn,2022,Female,Non-Hispanic/Latino,English,03/27/2004,PE I,PE I,26,431,,0,0,false,A,100,4,true,2018-2019
+10764,Withdrawn,2022,Female,,English,07/14/2003,PE I,PE I,26,431,,0,0,false,A,100,4,true,2018-2019
+10767,Withdrawn,2022,Female,,English,08/02/2004,PE I,PE I,26,431,,0,0,false,A,100,4,true,2018-2019
+10821,Withdrawn,2022,Male,Non-Hispanic/Latino,English,11/24/2003,PE I,PE I,26,498,,0,0,false,A,100,4,true,2018-2019
+10603,Graduate,2021,Male,,English,07/02/2002,PE II,PE II,26,432,A,100,4,true,A,100,4,true,2018-2019
+10604,Graduate,2021,Male,,English,01/29/2003,PE II,PE II,26,432,A,100,4,true,A,100,4,true,2018-2019
+10888,Graduate,2022,Female,Non-Hispanic/Latino,English,06/10/2004,PE I,PE I,26,431,,0,0,false,A,100,4,true,2018-2019
+10605,Withdrawn,2021,Female,,English,08/09/2002,PE II,PE II,26,432,,0,0,false,A,100,4,true,2018-2019
+10760,Withdrawn,2022,Male,Non-Hispanic/Latino,English,06/25/2004,PE I,PE I,26,431,,0,0,false,A,100,4,true,2018-2019
+10898,Withdrawn,2022,Male,Hispanic/Latino,Spanish,02/04/2000,PE II,PE II,26,432,A,100,4,true,A,100,4,true,2018-2019
+10662,Withdrawn,2021,Female,Non-Hispanic/Latino,English,02/09/2003,PE II,PE II,26,432,A,100,4,true,A,100,4,true,2018-2019
+10773,Graduate,2022,Male,,English,11/05/2003,PE I,PE I,26,498,,0,0,false,A,100,4,true,2018-2019
+10607,Graduate,2021,Male,Non-Hispanic/Latino,English,07/03/2002,PE II,PE II,26,432,,0,0,false,A,100,4,true,2018-2019
+10608,Graduate,2021,Female,Hispanic/Latino,Spanish,02/28/2003,PE II,PE II,26,432,A,100,4,true,A,100,4,true,2018-2019
+10776,Graduate,2022,Female,,,01/29/2004,PE I,PE I,26,431,,0,0,false,A,100,4,true,2018-2019
+10830,Graduate,2022,Male,,English,09/01/2003,PE I,PE I,26,498,,0,0,false,A,100,4,true,2018-2019
+10848,Withdrawn,2022,Female,,,01/26/2003,PE I,PE I,26,431,,0,0,false,A,100,4,true,2018-2019
+10849,Withdrawn,2022,Male,,English,04/28/2004,PE I,PE I,26,498,,0,0,false,A,100,4,true,2018-2019
+10779,Graduate,2022,Female,,English,12/18/2003,PE I,PE I,26,431,,0,0,false,A,100,4,true,2018-2019
+10609,Graduate,2021,Female,,English,10/22/2002,PE II,PE II,26,432,A,100,4,true,A,100,4,true,2018-2019
+10610,Graduate,2021,Male,,English,09/03/2002,PE II,PE II,26,432,A,100,4,true,A,100,4,true,2018-2019
+10629,Graduate,2021,Female,,English,09/19/2002,PE II,PE II,26,432,A,100,4,true,A,100,4,true,2018-2019
+10840,Withdrawn,2022,Female,,English,06/12/2004,PE I,PE I,26,498,,0,0,false,A,100,4,true,2018-2019
+10816,Graduate,2022,Male,,English,08/14/2003,PE I,PE I,26,431,,0,0,false,A,100,4,true,2018-2019
+10782,Withdrawn,2022,Male,,English,05/06/2003,PE I,PE I,26,498,,0,0,false,A,100,4,true,2018-2019
+10819,Graduate,2022,Male,,English,10/07/2003,PE I,PE I,26,431,,0,0,false,A,100,4,true,2018-2019
+10626,Graduate,2021,Male,Hispanic/Latino,English,05/03/2003,PE II,PE II,26,432,A,100,4,true,A,100,4,true,2018-2019
+10850,Graduate,2022,Female,,English,08/24/2004,PE I,PE I,26,431,,0,0,false,A,100,4,true,2018-2019
+10611,Graduate,2021,Female,Non-Hispanic/Latino,English,10/09/2002,PE II,PE II,26,432,A,100,4,true,A,100,4,true,2018-2019
+10788,Graduate,2022,Male,Hispanic/Latino,English,08/12/2003,PE I,PE I,26,498,,0,0,false,A,100,4,true,2018-2019
+10836,Graduate,2022,Male,Non-Hispanic/Latino,English,01/15/2003,PE I,PE I,26,431,,0,0,false,A,100,4,true,2018-2019
+10742,Graduate,2022,Male,,English,12/05/2003,PE I,PE I,26,498,,0,0,false,A,100,4,true,2018-2019
+10749,Graduate,2022,Female,Hispanic/Latino,English,10/26/2003,PE I,PE I,26,431,,0,0,false,A,100,4,true,2018-2019
+10827,Withdrawn,2022,Female,Asian/Pacific Island,English,10/09/2003,PE I,PE I,26,498,,0,0,false,A,100,4,true,2018-2019
+10894,Withdrawn,2022,Female,,,10/20/2001,PE I,PE I,26,431,,0,0,false,A,100,4,true,2018-2019
+10914,Graduate,2020,Male,,English,03/27/2002,PE I,PE I,26,498,,0,0,false,A,100,4,true,2018-2019
+10858,Graduate,2022,Female,Hispanic/Latino,Spanish,04/26/2004,PE I,PE I,26,431,,0,0,false,A,100,4,true,2018-2019
+10750,Graduate,2022,Female,Non-Hispanic/Latino,English,11/01/2003,PE I,PE I,26,431,,0,0,false,A,100,4,true,2018-2019
+10745,Graduate,2022,Female,Hispanic/Latino,English,09/06/2003,PE I,PE I,26,498,,0,0,false,A,100,4,true,2018-2019
+10793,Graduate,2022,Male,Non-Hispanic/Latino,English,03/02/2003,PE I,PE I,26,498,,0,0,false,A,100,4,true,2018-2019
+10903,Graduate,2021,Female,Hispanic/Latino,English,05/28/2003,PE II,PE II,26,432,,0,0,false,A,100,4,true,2018-2019
+10663,Withdrawn,2021,Female,,English,03/24/2003,PE II,PE II,26,432,A,100,4,true,A,100,4,true,2018-2019
+10794,Graduate,2022,Male,Hispanic/Latino,Spanish,06/03/2004,PE I,PE I,26,498,,0,0,false,A,100,4,true,2018-2019
+10797,Withdrawn,2022,Male,,,07/03/2002,PE I,PE I,26,498,,0,0,false,A,100,4,true,2018-2019
+10613,Graduate,2021,Female,,,01/12/2004,PE II,PE II,26,432,A,100,4,true,A,100,4,true,2018-2019
+10864,Withdrawn,2022,Female,Non-Hispanic/Latino,English,12/04/2003,PE I,PE I,26,498,,0,0,false,A,100,4,true,2018-2019
+10614,Withdrawn,2021,Female,Non-Hispanic/Latino,English,07/12/2002,PE II,PE II,26,432,,0,0,false,A,100,4,true,2018-2019
+10799,Graduate,2022,Female,Non-Hispanic/Latino,English,02/25/2004,PE I,PE I,26,498,,0,0,false,A,100,4,true,2018-2019
+10806,Graduate,2022,Female,Non-Hispanic/Latino,English,09/28/2003,PE I,PE I,26,498,,0,0,false,A,100,4,true,2018-2019
+10807,Withdrawn,2022,Male,Non-Hispanic/Latino,English,03/02/2005,PE I,PE I,26,431,,0,0,false,A,100,4,true,2018-2019
+10810,Withdrawn,2022,Female,Non-Hispanic/Latino,English,03/02/2005,PE I,PE I,26,498,,0,0,false,A,100,4,true,2018-2019
+10867,Graduate,2022,Female,Hispanic/Latino,English,08/17/2003,PE I,PE I,26,498,,0,0,false,A,100,4,true,2018-2019
+10802,Graduate,2022,Female,Hispanic/Latino,English,08/20/2004,PE I,PE I,26,498,,0,0,false,A,100,4,true,2018-2019
+10748,Withdrawn,2022,Female,Hispanic/Latino,Spanish,08/22/2004,PE I,PE I,26,431,,0,0,false,A,100,4,true,2018-2019
+10656,Graduate,2021,Female,,,06/04/2003,PE II,PE II,26,432,,0,0,false,A,100,4,true,2018-2019
+10671,Withdrawn,2021,Male,,English,10/11/2002,PE II,PE II,26,432,A,100,4,true,A,100,4,true,2018-2019
+10619,Graduate,2021,Male,Non-Hispanic/Latino,English,02/06/2003,PE II,PE II,26,432,,0,0,false,A,100,4,true,2018-2019
+10618,Graduate,2021,Male,,,03/14/2003,PE II,PE II,26,432,,0,0,false,A,100,4,true,2018-2019
+10781,Graduate,2022,Female,,English,08/24/2003,PE I,PE I,26,498,,0,0,false,A,100,4,true,2018-2019
+10839,Withdrawn,2022,Female,Non-Hispanic/Latino,English,04/14/2004,PE I,PE I,26,498,,0,0,false,A,100,4,true,2018-2019
+10620,Graduate,2021,Female,Non-Hispanic/Latino,English,09/06/2002,PE II,PE II,26,432,A,100,4,true,A,100,4,true,2018-2019
+10874,Withdrawn,2022,Male,Non-Hispanic/Latino,English,07/28/2003,PE I,PE I,26,498,,0,0,false,A,100,4,true,2018-2019
+10846,Graduate,2022,Female,Hispanic/Latino,Spanish,05/12/2004,PE I,PE I,26,498,,0,0,false,A,100,4,true,2018-2019
+10622,Graduate,2021,Male,,English,03/26/2003,PE II,PE II,26,432,,0,0,false,A,100,4,true,2018-2019
+10814,Graduate,2022,Female,Non-Hispanic/Latino,English,08/31/2003,PE I,PE I,26,498,,0,0,false,A,100,4,true,2018-2019
+10763,Graduate,2022,Female,,English,04/05/2004,PE I,PE I,26,431,,0,0,false,A,100,4,true,2018-2019
+10906,Withdrawn,2022,Male,,English,02/26/2004,PE I,PE I,26,431,,0,0,false,A,100,4,true,2018-2019
+10761,Withdrawn,2022,Male,,English,06/04/2004,PE I,PE I,26,431,,0,0,false,A,100,4,true,2018-2019
+10535,Graduate,2019,Male,Non-Hispanic/Latino,Chinese,06/19/1999,PE II,PE II,26,432,,0,0,false,A,100,4,true,2018-2019
+10895,Withdrawn,2022,Male,,,02/02/2002,PE I,PE I,26,431,,0,0,false,A,100,4,true,2018-2019
+10852,Graduate,2022,Male,Hispanic/Latino,Spanish,07/27/2004,Physical Science,PHY SCI,96,491,C,73.7,2,true,D,63.8,1,true,2018-2019
+10833,Withdrawn,2022,Male,Non-Hispanic/Latino,English,08/08/2004,Physical Science,PHY SCI,96,435,A,97.7,4,true,A,97.25,4,true,2018-2019
+10861,Withdrawn,2022,Female,Non-Hispanic/Latino,English,03/27/2004,Physical Science,PHY SCI,96,491,C+,77,2.3,true,C+,76.59,2.3,true,2018-2019
+10764,Withdrawn,2022,Female,,English,07/14/2003,Physical Science,PHY SCI,96,435,A,93.2,4,true,A,98.19,4,true,2018-2019
+10767,Withdrawn,2022,Female,,English,08/02/2004,Physical Science,PHY SCI,96,491,A,93.1,4,true,A,92.41,4,true,2018-2019
+10821,Withdrawn,2022,Male,Non-Hispanic/Latino,English,11/24/2003,Physical Science,PHY SCI,96,491,A-,90.2,3.7,true,B+,87.18,3.3,true,2018-2019
+10888,Graduate,2022,Female,Non-Hispanic/Latino,English,06/10/2004,Physical Science,PHY SCI,96,435,A,94.9,4,true,A,99.67,4,true,2018-2019
+10843,Withdrawn,2022,Female,Hispanic/Latino,Spanish,06/19/2004,Algebra I,ALG l,96,514,,0,0,false,B+,88.71,3.3,true,2018-2019
+10843,Withdrawn,2022,Female,Hispanic/Latino,Spanish,06/19/2004,Physical Science,PHY SCI,96,491,B-,81.2,2.7,true,B,83.14,3,true,2018-2019
+10760,Withdrawn,2022,Male,Non-Hispanic/Latino,English,06/25/2004,Physical Science,PHY SCI,96,491,A,97.7,4,true,A,94.63,4,true,2018-2019
+10898,Withdrawn,2022,Male,Hispanic/Latino,Spanish,02/04/2000,Physical Science,PHY SCI,96,435,B,85.6,3,true,D,61.66,1,true,2018-2019
+10773,Graduate,2022,Male,,English,11/05/2003,Physical Science,PHY SCI,96,435,B,85.1,3,true,B-,79.51,2.7,true,2018-2019
+10776,Graduate,2022,Female,,,01/29/2004,Physical Science,PHY SCI,96,435,C+,79.1,2.3,true,B,82.71,3,true,2018-2019
+10830,Graduate,2022,Male,,English,09/01/2003,Physical Science,PHY SCI,96,435,A-,91.1,3.7,true,A-,90.67,3.7,true,2018-2019
+10848,Withdrawn,2022,Female,,,01/26/2003,Physical Science,PHY SCI,96,435,B,85.4,3,true,B+,86.88,3.3,true,2018-2019
+10849,Withdrawn,2022,Male,,English,04/28/2004,Physical Science,PHY SCI,96,435,C,75.4,2,true,B-,78.82,2.7,true,2018-2019
+10779,Graduate,2022,Female,,English,12/18/2003,Physical Science,PHY SCI,96,435,A-,90.1,3.7,true,A,96.67,4,true,2018-2019
+10840,Withdrawn,2022,Female,,English,06/12/2004,Physical Science,PHY SCI,96,491,A,96.4,4,true,A,98.52,4,true,2018-2019
+10816,Graduate,2022,Male,,English,08/14/2003,Physical Science,PHY SCI,96,491,B-,81,2.7,true,B-,80.68,2.7,true,2018-2019
+10782,Withdrawn,2022,Male,,English,05/06/2003,Physical Science,PHY SCI,96,435,A-,90.5,3.7,true,A,95.78,4,true,2018-2019
+10819,Graduate,2022,Male,,English,10/07/2003,Physical Science,PHY SCI,96,491,B,86.1,3,true,B,82.32,3,true,2018-2019
+10667,Withdrawn,2021,Male,,,02/20/2003,Algebra I,ALG l,96,514,,0,0,false,F,44.87,0,false,2018-2019
+10667,Withdrawn,2021,Male,,,02/20/2003,Physical Science,PHY SCI,96,491,D,64.9,1,true,F,47.61,0,false,2018-2019
+10850,Graduate,2022,Female,,English,08/24/2004,Physical Science,PHY SCI,96,491,A,96,4,true,A-,91.95,3.7,true,2018-2019
+10788,Graduate,2022,Male,Hispanic/Latino,English,08/12/2003,Physical Science,PHY SCI,96,491,A,95.4,4,true,A,97.34,4,true,2018-2019
+10836,Graduate,2022,Male,Non-Hispanic/Latino,English,01/15/2003,Physical Science,PHY SCI,96,435,C,73.3,2,true,C-,69.72,1.7,true,2018-2019
+10742,Graduate,2022,Male,,English,12/05/2003,Physical Science,PHY SCI,96,435,B,84.8,3,true,A,92.65,4,true,2018-2019
+10749,Graduate,2022,Female,Hispanic/Latino,English,10/26/2003,Physical Science,PHY SCI,96,435,C-,70.3,1.7,true,D,62.24,1,true,2018-2019
+10827,Withdrawn,2022,Female,Asian/Pacific Island,English,10/09/2003,Physical Science,PHY SCI,96,435,A,93.6,4,true,A,96.4,4,true,2018-2019
+10894,Withdrawn,2022,Female,,,10/20/2001,Physical Science,PHY SCI,96,491,A-,90.5,3.7,true,A,92.11,4,true,2018-2019
+10858,Graduate,2022,Female,Hispanic/Latino,Spanish,04/26/2004,Physical Science,PHY SCI,96,435,D+,68.6,1.3,true,C+,77.01,2.3,true,2018-2019
+10750,Graduate,2022,Female,Non-Hispanic/Latino,English,11/01/2003,Physical Science,PHY SCI,96,491,A,93.9,4,true,A,94.52,4,true,2018-2019
+10745,Graduate,2022,Female,Hispanic/Latino,English,09/06/2003,Physical Science,PHY SCI,96,435,A,95.7,4,true,A,99.31,4,true,2018-2019
+10793,Graduate,2022,Male,Non-Hispanic/Latino,English,03/02/2003,Physical Science,PHY SCI,96,491,A,99,4,true,A,100.42,4,true,2018-2019
+10794,Graduate,2022,Male,Hispanic/Latino,Spanish,06/03/2004,Physical Science,PHY SCI,96,491,B+,89.2,3.3,true,A,94.58,4,true,2018-2019
+10797,Withdrawn,2022,Male,,,07/03/2002,Physical Science,PHY SCI,96,491,C,74.5,2,true,D,63.22,1,true,2018-2019
+10442,Graduate,2020,Male,,English,11/06/2001,Physical Science,PHY SCI,96,435,C-,70.6,1.7,true,C-,71.48,1.7,true,2018-2019
+10864,Withdrawn,2022,Female,Non-Hispanic/Latino,English,12/04/2003,Physical Science,PHY SCI,96,435,C,73.4,2,true,B-,78.47,2.7,true,2018-2019
+10614,Withdrawn,2021,Female,Non-Hispanic/Latino,English,07/12/2002,Physical Science,PHY SCI,96,491,D,61.1,1,true,,0,0,false,2018-2019
+10799,Graduate,2022,Female,Non-Hispanic/Latino,English,02/25/2004,Physical Science,PHY SCI,96,491,A,99.5,4,true,A,99.5,4,true,2018-2019
+10806,Graduate,2022,Female,Non-Hispanic/Latino,English,09/28/2003,Physical Science,PHY SCI,96,435,A,95.2,4,true,A,99.34,4,true,2018-2019
+10807,Withdrawn,2022,Male,Non-Hispanic/Latino,English,03/02/2005,Physical Science,PHY SCI,96,435,A,94.8,4,true,A,96.3,4,true,2018-2019
+10810,Withdrawn,2022,Female,Non-Hispanic/Latino,English,03/02/2005,Physical Science,PHY SCI,96,435,A,99.2,4,true,A,98.34,4,true,2018-2019
+10867,Graduate,2022,Female,Hispanic/Latino,English,08/17/2003,Physical Science,PHY SCI,96,491,A-,90.4,3.7,true,B-,80.49,2.7,true,2018-2019
+10802,Graduate,2022,Female,Hispanic/Latino,English,08/20/2004,Physical Science,PHY SCI,96,435,B-,82.2,2.7,true,B+,86.21,3.3,true,2018-2019
+10748,Withdrawn,2022,Female,Hispanic/Latino,Spanish,08/22/2004,Physical Science,PHY SCI,96,491,C+,77.3,2.3,true,C+,76.14,2.3,true,2018-2019
+10781,Graduate,2022,Female,,English,08/24/2003,Physical Science,PHY SCI,96,435,A,93.5,4,true,A,95.33,4,true,2018-2019
+10839,Withdrawn,2022,Female,Non-Hispanic/Latino,English,04/14/2004,Physical Science,PHY SCI,96,491,B+,88.7,3.3,true,A-,88.61,3.7,true,2018-2019
+10874,Withdrawn,2022,Male,Non-Hispanic/Latino,English,07/28/2003,Physical Science,PHY SCI,96,491,C-,72.2,1.7,true,C-,68.43,1.7,true,2018-2019
+10846,Graduate,2022,Female,Hispanic/Latino,Spanish,05/12/2004,Physical Science,PHY SCI,96,491,C-,71.8,1.7,true,B-,79.85,2.7,true,2018-2019
+10814,Graduate,2022,Female,Non-Hispanic/Latino,English,08/31/2003,Physical Science,PHY SCI,96,491,B+,87,3.3,true,A,92.14,4,true,2018-2019
+10763,Graduate,2022,Female,,English,04/05/2004,Physical Science,PHY SCI,96,435,A,98.5,4,true,A,99.62,4,true,2018-2019
+10906,Withdrawn,2022,Male,,English,02/26/2004,Physical Science,PHY SCI,96,435,C+,78.8,2.3,true,A-,88.05,3.7,true,2018-2019
+10880,Graduate,2022,Male,Non-Hispanic/Latino,English,08/07/2004,Algebra I,ALG l,96,514,,0,0,false,B,84.42,3,true,2018-2019
+10880,Graduate,2022,Male,Non-Hispanic/Latino,English,08/07/2004,Physical Science,PHY SCI,96,491,B+,87,3.3,true,B,84.84,3,true,2018-2019
+10761,Withdrawn,2022,Male,,English,06/04/2004,Physical Science,PHY SCI,96,491,B-,81.2,2.7,true,A-,89.88,3.7,true,2018-2019
+10895,Withdrawn,2022,Male,,,02/02/2002,Physical Science,PHY SCI,96,491,C-,72.9,1.7,true,C+,75.72,2.3,true,2018-2019
+10603,Graduate,2021,Male,,English,07/02/2002,World History,WR HIS,93,466,B,85.2,3,true,C,77.6,2,true,2018-2019
+10604,Graduate,2021,Male,,English,01/29/2003,World History,WR HIS,93,466,C,76.5,2,true,C-,70.6,1.7,true,2018-2019
+10181,Graduate,2019,Male,Caucasian,English,04/04/2001,Civics,SR SS,93,473,,0,0,false,C,74,2,true,2018-2019
+10181,Graduate,2019,Male,Caucasian,English,04/04/2001,U. S. Government,US GVT,93,424,C,77.9,2,true,,0,0,false,2018-2019
+10605,Withdrawn,2021,Female,,English,08/09/2002,World History,WR HIS,93,466,C,75.5,2,true,C-,0,1.7,true,2018-2019
+10606,Graduate,2019,Male,Non-Hispanic/Latino,English,04/04/2001,Civics,SR SS,93,473,,0,0,false,B,85.9,3,true,2018-2019
+10606,Graduate,2019,Male,Non-Hispanic/Latino,English,04/04/2001,U. S. Government,US GVT,93,424,B-,82.1,2.7,true,,0,0,false,2018-2019
+10146,Graduate,2019,Male,Non-Hispanic/Latino,English,12/19/1999,Civics,SR SS,93,473,,0,0,false,B+,88,3.3,true,2018-2019
+10146,Graduate,2019,Male,Non-Hispanic/Latino,English,12/19/1999,U. S. Government,US GVT,93,424,A-,92,3.7,true,,0,0,false,2018-2019
+10662,Withdrawn,2021,Female,Non-Hispanic/Latino,English,02/09/2003,World History,WR HIS,93,466,B,86.2,3,true,B-,81.5,2.7,true,2018-2019
+10607,Graduate,2021,Male,Non-Hispanic/Latino,English,07/03/2002,World History,WR HIS,93,466,A,98.9,4,true,A,98.3,4,true,2018-2019
+10608,Graduate,2021,Female,Hispanic/Latino,Spanish,02/28/2003,World History,WR HIS,93,466,B,87.4,3,true,C,76.9,2,true,2018-2019
+10182,Graduate,2019,Male,Caucasian,English,02/14/2001,Civics,SR SS,93,473,,0,0,false,A,93.3,4,true,2018-2019
+10182,Graduate,2019,Male,Caucasian,English,02/14/2001,U. S. Government,US GVT,93,424,A,97.4,4,true,,0,0,false,2018-2019
+10609,Graduate,2021,Female,,English,10/22/2002,World History,WR HIS,93,466,A-,90.5,3.7,true,A-,92.1,3.7,true,2018-2019
+10183,Graduate,2019,Male,Caucasian,English,07/15/2001,Civics,SR SS,93,473,,0,0,false,C-,71,1.7,true,2018-2019
+10183,Graduate,2019,Male,Caucasian,English,07/15/2001,U. S. Government,US GVT,93,424,D+,69,1.3,true,,0,0,false,2018-2019
+10629,Graduate,2021,Female,,English,09/19/2002,World History,WR HIS,93,466,C,73.9,2,true,C,77.5,2,true,2018-2019
+10630,Withdrawn,2021,Female,,,09/18/2003,World History,WR HIS,93,466,A,98.1,4,true,A,98.5,4,true,2018-2019
+10127,Graduate,2019,Female,Caucasian,English,07/26/2001,Civics,SR SS,93,473,,0,0,false,A,98.8,4,true,2018-2019
+10127,Graduate,2019,Female,Caucasian,English,07/26/2001,U. S. Government,US GVT,93,424,A,99.6,4,true,,0,0,false,2018-2019
+10626,Graduate,2021,Male,Hispanic/Latino,English,05/03/2003,World History,WR HIS,93,466,B-,80.2,2.7,true,B-,80.5,2.7,true,2018-2019
+10120,Graduate,2019,Female,Caucasian,English,11/20/2000,Civics,SR SS,93,473,,0,0,false,A,98.9,4,true,2018-2019
+10120,Graduate,2019,Female,Caucasian,English,11/20/2000,U. S. Government,US GVT,93,424,A,99.6,4,true,,0,0,false,2018-2019
+10667,Withdrawn,2021,Male,,,02/20/2003,World History,WR HIS,93,466,F,0,0,false,F,0,0,false,2018-2019
+10520,Graduate,2020,Male,Non-Hispanic/Latino,English,05/18/2002,World History,WR HIS,93,466,,0,0,false,C,73.9,2,true,2018-2019
+10611,Graduate,2021,Female,Non-Hispanic/Latino,English,10/09/2002,World History,WR HIS,93,466,B,85.8,3,true,B-,82.5,2.7,true,2018-2019
+10612,Graduate,2019,Male,,,12/05/2000,Civics,SR SS,93,473,,0,0,false,A-,91.5,3.7,true,2018-2019
+10612,Graduate,2019,Male,,,12/05/2000,U. S. Government,US GVT,93,424,A,94.8,4,true,,0,0,false,2018-2019
+10164,Graduate,2019,Female,Non-Hispanic/Latino,English,03/05/2001,U. S. Government,US GVT,93,424,A,97,4,true,,0,0,false,2018-2019
+10184,Graduate,2019,Female,,English,10/20/2000,U. S. Government,US GVT,93,424,A,94.1,4,true,,0,0,false,2018-2019
+10438,Graduate,2019,Female,,English,01/23/2001,Civics,SR SS,93,473,,0,0,false,B-,82.5,2.7,true,2018-2019
+10438,Graduate,2019,Female,,English,01/23/2001,U. S. Government,US GVT,93,424,B,87.2,3,true,,0,0,false,2018-2019
+10694,Graduate,2019,Male,,,05/17/2001,Civics,SR SS,93,473,,0,0,false,A-,92.9,3.7,true,2018-2019
+10694,Graduate,2019,Male,,,05/17/2001,U. S. Government,US GVT,93,424,A,93.8,4,true,,0,0,false,2018-2019
+10186,Graduate,2019,Female,,English,08/04/2000,Civics,SR SS,93,473,,0,0,false,A-,92.3,3.7,true,2018-2019
+10186,Graduate,2019,Female,,English,08/04/2000,U. S. Government,US GVT,93,424,A,98.2,4,true,,0,0,false,2018-2019
+10903,Graduate,2021,Female,Hispanic/Latino,English,05/28/2003,World History,WR HIS,93,466,C-,70.9,1.7,true,C-,70.8,1.7,true,2018-2019
+10663,Withdrawn,2021,Female,,English,03/24/2003,World History,WR HIS,93,466,D+,69.3,1.3,true,C+,78,2.3,true,2018-2019
+10613,Graduate,2021,Female,,,01/12/2004,World History,WR HIS,93,466,B,86.7,3,true,A-,92.4,3.7,true,2018-2019
+10614,Withdrawn,2021,Female,Non-Hispanic/Latino,English,07/12/2002,World History,WR HIS,93,466,F,0,0,false,F,0,0,false,2018-2019
+10185,Graduate,2019,Female,,English,11/09/2000,Civics,SR SS,93,473,,0,0,false,A,96.1,4,true,2018-2019
+10185,Graduate,2019,Female,,English,11/09/2000,U. S. Government,US GVT,93,424,A,99.5,4,true,,0,0,false,2018-2019
+10193,Graduate,2019,Male,,English,09/08/2000,Civics,SR SS,93,473,,0,0,false,C+,79.5,2.3,true,2018-2019
+10193,Graduate,2019,Male,,English,09/08/2000,U. S. Government,US GVT,93,424,A,98.5,4,true,,0,0,false,2018-2019
+10656,Graduate,2021,Female,,,06/04/2003,World History,WR HIS,93,466,A,96.4,4,true,A,95.5,4,true,2018-2019
+10671,Withdrawn,2021,Male,,English,10/11/2002,World History,WR HIS,93,466,F,0,0,false,F,0,0,false,2018-2019
+10619,Graduate,2021,Male,Non-Hispanic/Latino,English,02/06/2003,World History,WR HIS,93,466,C,73.2,2,true,B-,80.3,2.7,true,2018-2019
+10618,Graduate,2021,Male,,,03/14/2003,World History,WR HIS,93,466,C-,72.3,1.7,true,D+,69.6,1.3,true,2018-2019
+10133,Graduate,2019,Male,,English,05/01/2000,Civics,SR SS,93,473,,0,0,false,A-,90.7,3.7,true,2018-2019
+10133,Graduate,2019,Male,,English,05/01/2000,U. S. Government,US GVT,93,424,A,96.3,4,true,,0,0,false,2018-2019
+10620,Graduate,2021,Female,Non-Hispanic/Latino,English,09/06/2002,World History,WR HIS,93,466,A-,91.3,3.7,true,A,96.5,4,true,2018-2019
+10621,Graduate,2021,Male,,English,03/19/2003,World History,WR HIS,93,466,A-,91.4,3.7,true,A-,92.8,3.7,true,2018-2019
+10200,Graduate,2019,Female,Hispanic/Latino,Spanish,12/31/2000,Civics,SR SS,93,473,,0,0,false,B,84.4,3,true,2018-2019
+10200,Graduate,2019,Female,Hispanic/Latino,Spanish,12/31/2000,U. S. Government,US GVT,93,424,A,96.1,4,true,,0,0,false,2018-2019
+10622,Graduate,2021,Male,,English,03/26/2003,World History,WR HIS,93,466,A-,0,3.7,true,A,95.7,4,true,2018-2019
+10188,Graduate,2019,Female,,English,07/16/2000,Civics,SR SS,93,473,,0,0,false,B,85.7,3,true,2018-2019
+10188,Graduate,2019,Female,,English,07/16/2000,U. S. Government,US GVT,93,424,C+,78.2,2.3,true,,0,0,false,2018-2019
+10106,Graduate,2019,Male,,English,07/11/2001,Civics,SR SS,93,473,,0,0,false,B,85.8,3,true,2018-2019
+10106,Graduate,2019,Male,,English,07/11/2001,U. S. Government,US GVT,93,424,A-,91.1,3.7,true,,0,0,false,2018-2019
+10144,Graduate,2019,Female,,,08/10/2001,U. S. Government,US GVT,93,424,A,99.6,4,true,,0,0,false,2018-2019
+10535,Graduate,2019,Male,Non-Hispanic/Latino,Chinese,06/19/1999,U. S. Government,US GVT,93,424,B+,89.4,3.3,true,,0,0,false,2018-2019
+10764,Withdrawn,2022,Female,,English,07/14/2003,Spanish I,SPAN l,90,438,A,98.57,4,true,A,97.93,4,true,2018-2019
+10767,Withdrawn,2022,Female,,English,08/02/2004,Spanish I,SPAN l,90,438,A,98.65,4,true,A-,92.08,3.7,true,2018-2019
+10821,Withdrawn,2022,Male,Non-Hispanic/Latino,English,11/24/2003,Spanish I,SPAN l,90,438,A,93.69,4,true,A-,91.96,3.7,true,2018-2019
+10603,Graduate,2021,Male,,English,07/02/2002,Bible II,BIB ll,90,410,A,93.85,4,true,A,93.08,4,true,2018-2019
+10604,Graduate,2021,Male,,English,01/29/2003,Bible II,BIB ll,90,410,C-,70.18,1.7,true,B+,89.21,3.3,true,2018-2019
+10888,Graduate,2022,Female,Non-Hispanic/Latino,English,06/10/2004,Spanish I,SPAN l,90,438,A,99.11,4,true,A,99.5,4,true,2018-2019
+10181,Graduate,2019,Male,Caucasian,English,04/04/2001,Bible IV,BIB lV,90,412,B-,80.85,2.7,true,C-,72.68,1.7,true,2018-2019
+10605,Withdrawn,2021,Female,,English,08/09/2002,Bible II,BIB ll,90,410,C,76.52,2,true,B+,88.43,3.3,true,2018-2019
+10760,Withdrawn,2022,Male,Non-Hispanic/Latino,English,06/25/2004,Spanish I,SPAN l,90,438,A,97.26,4,true,A,94.79,4,true,2018-2019
+10426,Graduate,2020,Female,Caucasian,English,11/07/2001,Bible III,BIB lll,90,411,A,99.74,4,true,A,97.41,4,true,2018-2019
+10426,Graduate,2020,Female,Caucasian,English,11/07/2001,Spanish I,SPAN l,90,438,A,98.57,4,true,A,95.91,4,true,2018-2019
+10606,Graduate,2019,Male,Non-Hispanic/Latino,English,04/04/2001,Bible IV,BIB lV,90,412,B-,81.99,2.7,true,B,85.96,3,true,2018-2019
+10146,Graduate,2019,Male,Non-Hispanic/Latino,English,12/19/1999,Bible IV,BIB lV,90,412,B+,88.92,3.3,true,B+,89.76,3.3,true,2018-2019
+10662,Withdrawn,2021,Female,Non-Hispanic/Latino,English,02/09/2003,Bible II,BIB ll,90,410,B-,81.35,2.7,true,B-,82.68,2.7,true,2018-2019
+10420,Graduate,2020,Female,Caucasian,English,01/30/2002,Bible III,BIB lll,90,411,A,98.64,4,true,A,99.35,4,true,2018-2019
+10607,Graduate,2021,Male,Non-Hispanic/Latino,English,07/03/2002,Bible II,BIB ll,90,410,A,98.31,4,true,A,99.54,4,true,2018-2019
+10607,Graduate,2021,Male,Non-Hispanic/Latino,English,07/03/2002,Spanish I,SPAN l,90,500,A,99.29,4,true,A,97.6,4,true,2018-2019
+10608,Graduate,2021,Female,Hispanic/Latino,Spanish,02/28/2003,Bible II,BIB ll,90,410,A-,92.61,3.7,true,A,97.78,4,true,2018-2019
+10448,Graduate,2020,Male,Caucasian,English,04/20/2002,Bible III,BIB lll,90,411,A,99.34,4,true,A,98.26,4,true,2018-2019
+10182,Graduate,2019,Male,Caucasian,English,02/14/2001,Bible IV,BIB lV,90,412,A,95.18,4,true,A-,92.78,3.7,true,2018-2019
+10779,Graduate,2022,Female,,English,12/18/2003,Spanish I,SPAN l,90,438,A,98.27,4,true,A,96.49,4,true,2018-2019
+10531,Graduate,2020,Male,Caucasian,English,09/14/2000,Bible III,BIB lll,90,411,B,85.49,3,true,C,75.74,2,true,2018-2019
+10609,Graduate,2021,Female,,English,10/22/2002,Bible II,BIB ll,90,410,A,95.28,4,true,A-,92.76,3.7,true,2018-2019
+10609,Graduate,2021,Female,,English,10/22/2002,Spanish I,SPAN l,90,500,A,94.68,4,true,A-,92.01,3.7,true,2018-2019
+10429,Graduate,2020,Female,Caucasian,English,07/31/2002,Bible III,BIB lll,90,411,B-,82.97,2.7,true,B+,89.13,3.3,true,2018-2019
+10610,Graduate,2021,Male,,English,09/03/2002,Bible II,BIB ll,90,410,D,63.08,1,true,C+,78.56,2.3,true,2018-2019
+10183,Graduate,2019,Male,Caucasian,English,07/15/2001,Bible IV,BIB lV,90,412,C-,72.21,1.7,true,C,74.07,2,true,2018-2019
+10629,Graduate,2021,Female,,English,09/19/2002,Bible II,BIB ll,90,410,A-,90.08,3.7,true,A-,90.91,3.7,true,2018-2019
+10629,Graduate,2021,Female,,English,09/19/2002,Spanish I,SPAN l,90,500,A,95.54,4,true,A-,90.88,3.7,true,2018-2019
+10840,Withdrawn,2022,Female,,English,06/12/2004,Spanish I,SPAN l,90,438,A,98.08,4,true,A,98.62,4,true,2018-2019
+10630,Withdrawn,2021,Female,,,09/18/2003,Bible II,BIB ll,90,410,A,99.03,4,true,A,98.8,4,true,2018-2019
+10127,Graduate,2019,Female,Caucasian,English,07/26/2001,Bible IV,BIB lV,90,412,A,99.24,4,true,A,96.49,4,true,2018-2019
+10626,Graduate,2021,Male,Hispanic/Latino,English,05/03/2003,Bible II,BIB ll,90,410,C+,79.67,2.3,true,C+,79.04,2.3,true,2018-2019
+10120,Graduate,2019,Female,Caucasian,English,11/20/2000,Bible IV,BIB lV,90,412,A,98.04,4,true,A,96.29,4,true,2018-2019
+10667,Withdrawn,2021,Male,,,02/20/2003,Bible II,BIB ll,90,410,D,61.61,1,true,D,60.02,1,true,2018-2019
+10493,Graduate,2020,Female,Hispanic/Latino,Spanish,08/02/2002,Bible III,BIB lll,90,411,A-,91.09,3.7,true,A,94.23,4,true,2018-2019
+10850,Graduate,2022,Female,,English,08/24/2004,Spanish I,SPAN l,90,438,A,99.36,4,true,A,97.46,4,true,2018-2019
+10520,Graduate,2020,Male,Non-Hispanic/Latino,English,05/18/2002,Bible III,BIB lll,90,411,,0,0,false,C+,77.45,2.3,true,2018-2019
+10611,Graduate,2021,Female,Non-Hispanic/Latino,English,10/09/2002,Bible II,BIB ll,90,410,B+,88.24,3.3,true,A,96.57,4,true,2018-2019
+10836,Graduate,2022,Male,Non-Hispanic/Latino,English,01/15/2003,Spanish I,SPAN l,90,438,B-,81.82,2.7,true,C-,72.91,1.7,true,2018-2019
+10742,Graduate,2022,Male,,English,12/05/2003,Spanish I,SPAN l,90,438,A,93.74,4,true,A-,90.29,3.7,true,2018-2019
+10612,Graduate,2019,Male,,,12/05/2000,Bible IV,BIB lV,90,412,A,94.63,4,true,A,95.53,4,true,2018-2019
+10451,Graduate,2020,Male,,English,08/26/2002,Bible III,BIB lll,90,411,D,66.39,1,true,C-,72.28,1.7,true,2018-2019
+10792,Graduate,2020,Female,Non-Hispanic/Latino,English,01/31/2002,Bible III,BIB lll,90,411,A,97.07,4,true,A,96.74,4,true,2018-2019
+10419,Graduate,2020,Male,Non-Hispanic/Latino,English,03/28/2002,Bible III,BIB lll,90,411,A,96.94,4,true,A,97.85,4,true,2018-2019
+10914,Graduate,2020,Male,,English,03/27/2002,Bible III,BIB lll,90,411,D,65.9,1,true,B+,87.12,3.3,true,2018-2019
+10164,Graduate,2019,Female,Non-Hispanic/Latino,English,03/05/2001,Bible IV,BIB lV,90,412,A,93.51,4,true,A,93.96,4,true,2018-2019
+10184,Graduate,2019,Female,,English,10/20/2000,Bible IV,BIB lV,90,412,A,95.93,4,true,A-,91.67,3.7,true,2018-2019
+10438,Graduate,2019,Female,,English,01/23/2001,Bible IV,BIB lV,90,412,C-,72.79,1.7,true,B-,80.36,2.7,true,2018-2019
+10694,Graduate,2019,Male,,,05/17/2001,Bible IV,BIB lV,90,412,A,97.51,4,true,B+,88.81,3.3,true,2018-2019
+10750,Graduate,2022,Female,Non-Hispanic/Latino,English,11/01/2003,Spanish I,SPAN l,90,438,A,98.23,4,true,A,98.4,4,true,2018-2019
+10745,Graduate,2022,Female,Hispanic/Latino,English,09/06/2003,Spanish I,SPAN l,90,438,A,99.61,4,true,A,98.54,4,true,2018-2019
+10186,Graduate,2019,Female,,English,08/04/2000,Bible IV,BIB lV,90,412,B+,89.52,3.3,true,A-,92.2,3.7,true,2018-2019
+10793,Graduate,2022,Male,Non-Hispanic/Latino,English,03/02/2003,Spanish I,SPAN l,90,438,A,97.29,4,true,A,94.82,4,true,2018-2019
+10903,Graduate,2021,Female,Hispanic/Latino,English,05/28/2003,Bible II,BIB ll,90,410,C,74.24,2,true,C+,77.01,2.3,true,2018-2019
+10903,Graduate,2021,Female,Hispanic/Latino,English,05/28/2003,Spanish I,SPAN l,90,438,A,95.79,4,true,C+,78.37,2.3,true,2018-2019
+10663,Withdrawn,2021,Female,,English,03/24/2003,Bible II,BIB ll,90,410,B,85.13,3,true,A-,91.19,3.7,true,2018-2019
+10663,Withdrawn,2021,Female,,English,03/24/2003,Spanish I,SPAN l,90,500,A-,91.36,3.7,true,B+,88.11,3.3,true,2018-2019
+10613,Graduate,2021,Female,,,01/12/2004,Bible II,BIB ll,90,410,A-,92.88,3.7,true,A,95.46,4,true,2018-2019
+10442,Graduate,2020,Male,,English,11/06/2001,Bible III,BIB lll,90,411,C-,72.69,1.7,true,D+,67.02,1.3,true,2018-2019
+10454,Graduate,2020,Male,,English,03/05/2002,Bible III,BIB lll,90,411,B+,89.56,3.3,true,A-,91.83,3.7,true,2018-2019
+10614,Withdrawn,2021,Female,Non-Hispanic/Latino,English,07/12/2002,Bible II,BIB ll,90,410,D,61.47,1,true,F,53.34,0,false,2018-2019
+10614,Withdrawn,2021,Female,Non-Hispanic/Latino,English,07/12/2002,Spanish I,SPAN l,90,500,B,83.66,3,true,A-,90.15,3.7,true,2018-2019
+10799,Graduate,2022,Female,Non-Hispanic/Latino,English,02/25/2004,Spanish I,SPAN l,90,438,A,99.63,4,true,A,97.89,4,true,2018-2019
+10806,Graduate,2022,Female,Non-Hispanic/Latino,English,09/28/2003,Spanish I,SPAN l,90,438,A,99.46,4,true,A,98.66,4,true,2018-2019
+10185,Graduate,2019,Female,,English,11/09/2000,Bible IV,BIB lV,90,412,A,98.46,4,true,A,96.21,4,true,2018-2019
+10810,Withdrawn,2022,Female,Non-Hispanic/Latino,English,03/02/2005,Spanish I,SPAN l,90,438,A,99.9,4,true,A,99.44,4,true,2018-2019
+10193,Graduate,2019,Male,,English,09/08/2000,Bible IV,BIB lV,90,412,A-,91.68,3.7,true,A-,90.29,3.7,true,2018-2019
+10617,Graduate,2020,Female,,English,02/06/2004,Bible III,BIB lll,90,411,A,99.01,4,true,A,96.38,4,true,2018-2019
+10867,Graduate,2022,Female,Hispanic/Latino,English,08/17/2003,Spanish I,SPAN l,90,438,B+,89.99,3.3,true,B,85,3,true,2018-2019
+10704,Graduate,2020,Female,Hispanic/Latino,English,02/08/2002,Bible III,BIB lll,90,411,A-,91.67,3.7,true,B+,87.83,3.3,true,2018-2019
+10656,Graduate,2021,Female,,,06/04/2003,Bible II,BIB ll,90,410,A-,92.06,3.7,true,C,76.44,2,true,2018-2019
+10671,Withdrawn,2021,Male,,English,10/11/2002,Bible II,BIB ll,90,410,C,73.37,2,true,D+,67.31,1.3,true,2018-2019
+10671,Withdrawn,2021,Male,,English,10/11/2002,Spanish I,SPAN l,90,500,A-,91.86,3.7,true,C+,78.74,2.3,true,2018-2019
+10445,Graduate,2020,Female,,English,11/10/2001,Bible III,BIB lll,90,411,A-,91.71,3.7,true,A,93.47,4,true,2018-2019
+10619,Graduate,2021,Male,Non-Hispanic/Latino,English,02/06/2003,Bible II,BIB ll,90,410,B+,87.08,3.3,true,B,84.67,3,true,2018-2019
+10618,Graduate,2021,Male,,,03/14/2003,Bible II,BIB ll,90,410,C+,77.07,2.3,true,D,64.88,1,true,2018-2019
+10618,Graduate,2021,Male,,,03/14/2003,Spanish I,SPAN l,90,500,A-,92.54,3.7,true,A-,90.29,3.7,true,2018-2019
+10869,Withdrawn,2022,Male,Non-Hispanic/Latino,English,07/17/2003,Spanish I,SPAN l,90,500,A,99.36,4,true,A,98.67,4,true,2018-2019
+10133,Graduate,2019,Male,,English,05/01/2000,Bible IV,BIB lV,90,412,B+,89.4,3.3,true,A-,90.43,3.7,true,2018-2019
+10781,Graduate,2022,Female,,English,08/24/2003,Spanish I,SPAN l,90,438,A,99.21,4,true,A,97.18,4,true,2018-2019
+10839,Withdrawn,2022,Female,Non-Hispanic/Latino,English,04/14/2004,Spanish I,SPAN l,90,438,A,97.07,4,true,B+,87.33,3.3,true,2018-2019
+10620,Graduate,2021,Female,Non-Hispanic/Latino,English,09/06/2002,Bible II,BIB ll,90,410,A,93.71,4,true,A,96.99,4,true,2018-2019
+10620,Graduate,2021,Female,Non-Hispanic/Latino,English,09/06/2002,Spanish I,SPAN l,90,500,A,97.68,4,true,A,96.09,4,true,2018-2019
+10621,Graduate,2021,Male,,English,03/19/2003,Bible II,BIB ll,90,410,A-,90.38,3.7,true,A,95.44,4,true,2018-2019
+10458,Graduate,2019,Female,,,02/19/2002,Bible III,BIB lll,90,411,A,99.85,4,true,A,100,4,true,2018-2019
+10528,Graduate,2020,Female,Hispanic/Latino,Spanish,09/04/2001,Bible III,BIB lll,90,411,A,93.61,4,true,A-,91.54,3.7,true,2018-2019
+10200,Graduate,2019,Female,Hispanic/Latino,Spanish,12/31/2000,Bible IV,BIB lV,90,412,B-,81.91,2.7,true,D,66.66,1,true,2018-2019
+10622,Graduate,2021,Male,,English,03/26/2003,Bible II,BIB ll,90,410,A,93.61,4,true,A,93.34,4,true,2018-2019
+10461,Graduate,2020,Female,,English,05/21/2002,Bible III,BIB lll,90,411,A,96.85,4,true,A-,91.85,3.7,true,2018-2019
+10814,Graduate,2022,Female,Non-Hispanic/Latino,English,08/31/2003,Spanish I,SPAN l,90,438,A,97.82,4,true,A-,92.93,3.7,true,2018-2019
+10188,Graduate,2019,Female,,English,07/16/2000,Bible IV,BIB lV,90,412,C+,78.96,2.3,true,C,76.4,2,true,2018-2019
+10763,Graduate,2022,Female,,English,04/05/2004,Spanish I,SPAN l,90,438,A,94.79,4,true,A,97.08,4,true,2018-2019
+10106,Graduate,2019,Male,,English,07/11/2001,Bible IV,BIB lV,90,412,B-,82.1,2.7,true,B,85.35,3,true,2018-2019
+10906,Withdrawn,2022,Male,,English,02/26/2004,Spanish I,SPAN l,90,438,A,94.21,4,true,A,93.72,4,true,2018-2019
+10144,Graduate,2019,Female,,,08/10/2001,Bible IV,BIB lV,90,412,A,97.37,4,true,A,97.02,4,true,2018-2019
+10761,Withdrawn,2022,Male,,English,06/04/2004,Spanish I,SPAN l,90,438,A,96.46,4,true,A-,91.1,3.7,true,2018-2019
+10689,Graduate,2020,Female,,,02/16/2001,Bible III,BIB lll,90,411,A,97.24,4,true,A,99.94,4,true,2018-2019
+10877,Withdrawn,2021,Male,Non-Hispanic/Latino,English,09/17/2003,Bible II,BIB ll,90,410,B,86.54,3,true,B-,82.2,2.7,true,2018-2019
+10182,Graduate,2019,Male,Caucasian,English,02/14/2001,Personal Finance,PER FIN,39,513,,0,0,false,A,98.33,4,true,2018-2019
+10612,Graduate,2019,Male,,,12/05/2000,Personal Finance,PER FIN,39,513,,0,0,false,A,98.8,4,true,2018-2019
+10186,Graduate,2019,Female,,English,08/04/2000,Personal Finance,PER FIN,39,513,,0,0,false,A,95.58,4,true,2018-2019
+10454,Graduate,2020,Male,,English,03/05/2002,Personal Finance,PER FIN,39,433,A,94.8,4,true,,0,0,false,2018-2019
+10185,Graduate,2019,Female,,English,11/09/2000,Personal Finance,PER FIN,39,433,A,99.8,4,true,,0,0,false,2018-2019
+10193,Graduate,2019,Male,,English,09/08/2000,Personal Finance,PER FIN,39,513,,0,0,false,A,93.04,4,true,2018-2019
+10133,Graduate,2019,Male,,English,05/01/2000,Personal Finance,PER FIN,39,433,A,98,4,true,,0,0,false,2018-2019
+10458,Graduate,2019,Female,,,02/19/2002,Personal Finance,PER FIN,39,433,A,100,4,true,,0,0,false,2018-2019
+10200,Graduate,2019,Female,Hispanic/Latino,Spanish,12/31/2000,Personal Finance,PER FIN,39,513,,0,0,false,C,77.21,2,true,2018-2019
+10603,Graduate,2021,Male,,English,07/02/2002,Biology,BIO,44,413,C-,68.09,1.7,true,C+,77.51,2.3,true,2018-2019
+10604,Graduate,2021,Male,,English,01/29/2003,Biology,BIO,44,413,C-,66.03,1.7,true,D,51.28,1,true,2018-2019
+10605,Withdrawn,2021,Female,,English,08/09/2002,Biology,BIO,44,413,C+,0,2.3,true,D,55.83,1,true,2018-2019
+10426,Graduate,2020,Female,Caucasian,English,11/07/2001,Climbing,CLIMBING,44,483,,0,0,false,A,100,4,true,2018-2019
+10606,Graduate,2019,Male,Non-Hispanic/Latino,English,04/04/2001,Climbing,CLIMBING,44,512,,0,0,false,A-,92.3,3.7,true,2018-2019
+10146,Graduate,2019,Male,Non-Hispanic/Latino,English,12/19/1999,Anatomy and Physiology,A & P,44,504,C+,78.34,2.3,true,B,86.23,3,true,2018-2019
+10662,Withdrawn,2021,Female,Non-Hispanic/Latino,English,02/09/2003,Biology,BIO,44,413,C,70.12,2,true,C-,67.7,1.7,true,2018-2019
+10420,Graduate,2020,Female,Caucasian,English,01/30/2002,Chemistry,CHEM,44,414,A,93.3,4,true,A,94,4,true,2018-2019
+10420,Graduate,2020,Female,Caucasian,English,01/30/2002,Climbing,CLIMBING,44,483,,0,0,false,A,100,4,true,2018-2019
+10607,Graduate,2021,Male,Non-Hispanic/Latino,English,07/03/2002,Biology,BIO,44,413,A,0,4,true,A,93.49,4,true,2018-2019
+10608,Graduate,2021,Female,Hispanic/Latino,Spanish,02/28/2003,Biology,BIO,44,413,D+,60.96,1.3,true,C,74.71,2,true,2018-2019
+10448,Graduate,2020,Male,Caucasian,English,04/20/2002,Climbing,CLIMBING,44,483,,0,0,false,A,100,4,true,2018-2019
+10182,Graduate,2019,Male,Caucasian,English,02/14/2001,Chemistry,CHEM,44,414,B-,0,2.7,true,B,84.2,3,true,2018-2019
+10182,Graduate,2019,Male,Caucasian,English,02/14/2001,Climbing,CLIMBING,44,512,,0,0,false,A,95.1,4,true,2018-2019
+10531,Graduate,2020,Male,Caucasian,English,09/14/2000,Climbing,CLIMBING,44,483,,0,0,false,B,83.1,3,true,2018-2019
+10610,Graduate,2021,Male,,English,09/03/2002,Biology,BIO,44,413,C-,0,1.7,true,D,50.28,1,true,2018-2019
+10183,Graduate,2019,Male,Caucasian,English,07/15/2001,Climbing,CLIMBING,44,483,,0,0,false,A,100,4,true,2018-2019
+10629,Graduate,2021,Female,,English,09/19/2002,Biology,BIO,44,413,D,54.19,1,true,C-,65.76,1.7,true,2018-2019
+10630,Withdrawn,2021,Female,,,09/18/2003,Biology,BIO,44,413,A,0,4,true,A,97.29,4,true,2018-2019
+10626,Graduate,2021,Male,Hispanic/Latino,English,05/03/2003,Biology,BIO,44,413,C,70.81,2,true,C-,67.11,1.7,true,2018-2019
+10611,Graduate,2021,Female,Non-Hispanic/Latino,English,10/09/2002,Biology,BIO,44,413,D+,62.15,1.3,true,C,70.58,2,true,2018-2019
+10612,Graduate,2019,Male,,,12/05/2000,Anatomy and Physiology,A & P,44,504,B,84.85,3,true,A-,92.25,3.7,true,2018-2019
+10612,Graduate,2019,Male,,,12/05/2000,Climbing,CLIMBING,44,512,,0,0,false,A,94.8,4,true,2018-2019
+10419,Graduate,2020,Male,Non-Hispanic/Latino,English,03/28/2002,Climbing,CLIMBING,44,483,,0,0,false,A,100,4,true,2018-2019
+10914,Graduate,2020,Male,,English,03/27/2002,Chemistry,CHEM,44,414,C,0,2,true,,0,0,false,2018-2019
+10164,Graduate,2019,Female,Non-Hispanic/Latino,English,03/05/2001,Climbing,CLIMBING,44,512,,0,0,false,A,93.1,4,true,2018-2019
+10184,Graduate,2019,Female,,English,10/20/2000,Anatomy and Physiology,A & P,44,504,B,87.39,3,true,B,83.83,3,true,2018-2019
+10184,Graduate,2019,Female,,English,10/20/2000,Climbing,CLIMBING,44,512,,0,0,false,A-,90.7,3.7,true,2018-2019
+10186,Graduate,2019,Female,,English,08/04/2000,Anatomy and Physiology,A & P,44,504,A-,92.42,3.7,true,A-,90.12,3.7,true,2018-2019
+10186,Graduate,2019,Female,,English,08/04/2000,Climbing,CLIMBING,44,512,,0,0,false,A-,91.1,3.7,true,2018-2019
+10663,Withdrawn,2021,Female,,English,03/24/2003,Biology,BIO,44,413,D+,61.16,1.3,true,D,58.19,1,true,2018-2019
+10613,Graduate,2021,Female,,,01/12/2004,Biology,BIO,44,413,C+,79.93,2.3,true,C,70.17,2,true,2018-2019
+10614,Withdrawn,2021,Female,Non-Hispanic/Latino,English,07/12/2002,Biology,BIO,44,413,F,0,0,false,F,0,0,false,2018-2019
+10806,Graduate,2022,Female,Non-Hispanic/Latino,English,09/28/2003,Climbing,CLIMBING,44,483,,0,0,false,A,100,4,true,2018-2019
+10185,Graduate,2019,Female,,English,11/09/2000,Anatomy and Physiology,A & P,44,504,A,94.42,4,true,A,95.23,4,true,2018-2019
+10185,Graduate,2019,Female,,English,11/09/2000,Climbing,CLIMBING,44,483,,0,0,false,A,100,4,true,2018-2019
+10193,Graduate,2019,Male,,English,09/08/2000,Anatomy and Physiology,A & P,44,504,B-,81.55,2.7,true,B-,81.69,2.7,true,2018-2019
+10193,Graduate,2019,Male,,English,09/08/2000,Climbing,CLIMBING,44,512,,0,0,false,B-,81.3,2.7,true,2018-2019
+10617,Graduate,2020,Female,,English,02/06/2004,Anatomy and Physiology,A & P,44,504,A-,92.61,3.7,true,A,95.96,4,true,2018-2019
+10617,Graduate,2020,Female,,English,02/06/2004,Climbing,CLIMBING,44,512,,0,0,false,A,94,4,true,2018-2019
+10704,Graduate,2020,Female,Hispanic/Latino,English,02/08/2002,Climbing,CLIMBING,44,512,,0,0,false,A,93,4,true,2018-2019
+10656,Graduate,2021,Female,,,06/04/2003,Biology,BIO,44,413,B+,88.01,3.3,true,B,84.03,3,true,2018-2019
+10671,Withdrawn,2021,Male,,English,10/11/2002,Biology,BIO,44,413,F,0,0,false,F,0,0,false,2018-2019
+10619,Graduate,2021,Male,Non-Hispanic/Latino,English,02/06/2003,Biology,BIO,44,413,D+,60.89,1.3,true,C-,65.11,1.7,true,2018-2019
+10618,Graduate,2021,Male,,,03/14/2003,Biology,BIO,44,413,D,58.89,1,true,D,53.25,1,true,2018-2019
+10869,Withdrawn,2022,Male,Non-Hispanic/Latino,English,07/17/2003,Biology,BIO,44,413,A,96.74,4,true,A,94.35,4,true,2018-2019
+10133,Graduate,2019,Male,,English,05/01/2000,Anatomy and Physiology,A & P,44,504,B,83.71,3,true,B,86.61,3,true,2018-2019
+10133,Graduate,2019,Male,,English,05/01/2000,Climbing,CLIMBING,44,483,,0,0,false,A,100,4,true,2018-2019
+10620,Graduate,2021,Female,Non-Hispanic/Latino,English,09/06/2002,Biology,BIO,44,413,B-,82.23,2.7,true,C,75.39,2,true,2018-2019
+10621,Graduate,2021,Male,,English,03/19/2003,Biology,BIO,44,413,B,85.38,3,true,B,83.89,3,true,2018-2019
+10458,Graduate,2019,Female,,,02/19/2002,Anatomy and Physiology,A & P,44,504,A,97.37,4,true,A,97.92,4,true,2018-2019
+10458,Graduate,2019,Female,,,02/19/2002,Climbing,CLIMBING,44,512,,0,0,false,A,99.1,4,true,2018-2019
+10622,Graduate,2021,Male,,English,03/26/2003,Biology,BIO,44,413,B,84.46,3,true,B-,82.03,2.7,true,2018-2019
+10188,Graduate,2019,Female,,English,07/16/2000,Anatomy and Physiology,A & P,44,504,C-,72.82,1.7,true,C-,70.07,1.7,true,2018-2019
+10106,Graduate,2019,Male,,English,07/11/2001,Anatomy and Physiology,A & P,44,504,C+,78.85,2.3,true,B,83.06,3,true,2018-2019
+10144,Graduate,2019,Female,,,08/10/2001,Anatomy and Physiology,A & P,44,504,A,93.61,4,true,A,94.73,4,true,2018-2019
+10877,Withdrawn,2021,Male,Non-Hispanic/Latino,English,09/17/2003,Biology,BIO,44,413,C-,66.06,1.7,true,D,54.64,1,true,2018-2019
+10605,Withdrawn,2021,Female,,English,08/09/2002,Algebra II,ALG ll,12,404,C,74.61,2,true,WF,14.96,,,2018-2019
+10426,Graduate,2020,Female,Caucasian,English,11/07/2001,Algebra II,ALG ll,12,403,A,93.09,4,true,A,95.74,4,true,2018-2019
+10606,Graduate,2019,Male,Non-Hispanic/Latino,English,04/04/2001,Physics,PHYSICS,12,436,C+,0,2.3,true,C,75.69,2,true,2018-2019
+10420,Graduate,2020,Female,Caucasian,English,01/30/2002,Algebra II,ALG ll,12,403,A,94.78,4,true,A,94.61,4,true,2018-2019
+10607,Graduate,2021,Male,Non-Hispanic/Latino,English,07/03/2002,Algebra II,ALG ll,12,404,A,97.14,4,true,A,98.64,4,true,2018-2019
+10448,Graduate,2020,Male,Caucasian,English,04/20/2002,AP Calculus,AP Calc,12,477,A,94.84,5,true,A,96.71,5,true,2018-2019
+10182,Graduate,2019,Male,Caucasian,English,02/14/2001,AP Calculus,AP Calc,12,477,B,84.25,4,true,B,83.1,4,true,2018-2019
+10183,Graduate,2019,Male,Caucasian,English,07/15/2001,Algebra II,ALG ll,12,403,D,0,1,true,D,65,1,true,2018-2019
+10183,Graduate,2019,Male,Caucasian,English,07/15/2001,Physics,PHYSICS,12,436,D,0,1,true,C-,71.64,1.7,true,2018-2019
+10630,Withdrawn,2021,Female,,,09/18/2003,Algebra II,ALG ll,12,404,A,98.72,4,true,A,101.48,4,true,2018-2019
+10630,Withdrawn,2021,Female,,,09/18/2003,Physics,PHYSICS,12,436,A,96.91,4,true,A,100.46,4,true,2018-2019
+10493,Graduate,2020,Female,Hispanic/Latino,Spanish,08/02/2002,Algebra II,ALG ll,12,403,B-,81.18,2.7,true,D+,68.46,1.3,true,2018-2019
+10520,Graduate,2020,Male,Non-Hispanic/Latino,English,05/18/2002,Algebra II,ALG ll,12,403,,0,0,false,D,65.62,1,true,2018-2019
+10451,Graduate,2020,Male,,English,08/26/2002,Algebra II,ALG ll,12,403,D,64.77,1,true,D+,67.52,1.3,true,2018-2019
+10792,Graduate,2020,Female,Non-Hispanic/Latino,English,01/31/2002,Algebra II,ALG ll,12,403,C+,78.25,2.3,true,B+,87.98,3.3,true,2018-2019
+10419,Graduate,2020,Male,Non-Hispanic/Latino,English,03/28/2002,Pre-Calculus,PRECAL,12,437,A-,91.06,3.7,true,A,93.52,4,true,2018-2019
+10914,Graduate,2020,Male,,English,03/27/2002,Pre-Calculus,PRECAL,12,437,A-,90.11,3.7,true,B,84.41,3,true,2018-2019
+10164,Graduate,2019,Female,Non-Hispanic/Latino,English,03/05/2001,Physics,PHYSICS,12,436,B-,0,2.7,true,A,94.36,4,true,2018-2019
+10454,Graduate,2020,Male,,English,03/05/2002,Algebra II,ALG ll,12,403,A,93.17,4,true,B+,88.2,3.3,true,2018-2019
+10656,Graduate,2021,Female,,,06/04/2003,Algebra II,ALG ll,12,404,A,96.16,4,true,A-,92.23,3.7,true,2018-2019
+10445,Graduate,2020,Female,,English,11/10/2001,Algebra II,ALG ll,12,403,B-,80.93,2.7,true,D,65.46,1,true,2018-2019
+10619,Graduate,2021,Male,Non-Hispanic/Latino,English,02/06/2003,Algebra II,ALG ll,12,404,C+,78.98,2.3,true,B,83.59,3,true,2018-2019
+10618,Graduate,2021,Male,,,03/14/2003,Algebra II,ALG ll,12,404,C+,77.09,2.3,true,B+,87.15,3.3,true,2018-2019
+10869,Withdrawn,2022,Male,Non-Hispanic/Latino,English,07/17/2003,Algebra II,ALG ll,12,404,A,99.61,4,true,A,98.98,4,true,2018-2019
+10621,Graduate,2021,Male,,English,03/19/2003,Algebra II,ALG ll,12,404,B+,88.89,3.3,true,A,95.27,4,true,2018-2019
+10622,Graduate,2021,Male,,English,03/26/2003,Algebra II,ALG ll,12,404,A-,91.5,3.7,true,B+,87.14,3.3,true,2018-2019
+10461,Graduate,2020,Female,,English,05/21/2002,Algebra II,ALG ll,12,403,B-,80.48,2.7,true,C+,78.05,2.3,true,2018-2019
+10689,Graduate,2020,Female,,,02/16/2001,Algebra II,ALG ll,12,404,A,96.43,4,true,A,101.05,4,true,2018-2019
+10535,Graduate,2019,Male,Non-Hispanic/Latino,Chinese,06/19/1999,Physics,PHYSICS,12,436,D,62.05,1,true,,0,0,false,2018-2019
+10833,Withdrawn,2022,Male,Non-Hispanic/Latino,English,08/08/2004,Geometry,GEOM,82,501,A,97.07,4,true,A,97.6,4,true,2018-2019
+10861,Withdrawn,2022,Female,Non-Hispanic/Latino,English,03/27/2004,Algebra I,ALG l,82,402,D,61.2,1,true,,0,0,false,2018-2019
+10764,Withdrawn,2022,Female,,English,07/14/2003,Algebra I,ALG l,82,402,A,92,4,true,B+,89.4,3.3,true,2018-2019
+10767,Withdrawn,2022,Female,,English,08/02/2004,Algebra I,ALG l,82,402,A-,90,3.7,true,C+,78,2.3,true,2018-2019
+10821,Withdrawn,2022,Male,Non-Hispanic/Latino,English,11/24/2003,Algebra I,ALG l,82,402,B+,88.1,3.3,true,B-,80,2.7,true,2018-2019
+10603,Graduate,2021,Male,,English,07/02/2002,Geometry,GEOM,82,423,B,86.3,3,true,B,83,3,true,2018-2019
+10604,Graduate,2021,Male,,English,01/29/2003,Geometry,GEOM,82,423,C-,71.4,1.7,true,D,61.9,1,true,2018-2019
+10888,Graduate,2022,Female,Non-Hispanic/Latino,English,06/10/2004,Geometry,GEOM,82,501,A-,90.46,3.7,true,B,86.3,3,true,2018-2019
+10181,Graduate,2019,Male,Caucasian,English,04/04/2001,AP Human Geography,AP HUM G,82,492,D,62.5,1,true,F,56.7,0,false,2018-2019
+10760,Withdrawn,2022,Male,Non-Hispanic/Latino,English,06/25/2004,Geometry,GEOM,82,501,B+,89.09,3.3,true,A-,90,3.7,true,2018-2019
+10426,Graduate,2020,Female,Caucasian,English,11/07/2001,U. S. History,US HIS,82,449,A,95.43,4,true,A-,90.2,3.7,true,2018-2019
+10898,Withdrawn,2022,Male,Hispanic/Latino,Spanish,02/04/2000,Algebra I,ALG l,82,402,F,37,0,false,F,15.7,0,false,2018-2019
+10606,Graduate,2019,Male,Non-Hispanic/Latino,English,04/04/2001,AP Human Geography,AP HUM G,82,492,B,87.7,4,true,B,87.2,4,true,2018-2019
+10662,Withdrawn,2021,Female,Non-Hispanic/Latino,English,02/09/2003,Geometry,GEOM,82,423,A,93.3,4,true,A,93.8,4,true,2018-2019
+10420,Graduate,2020,Female,Caucasian,English,01/30/2002,U. S. History,US HIS,82,449,A,99.27,4,true,A,96.1,4,true,2018-2019
+10608,Graduate,2021,Female,Hispanic/Latino,Spanish,02/28/2003,Geometry,GEOM,82,423,B,85.5,3,true,A-,90.5,3.7,true,2018-2019
+10776,Graduate,2022,Female,,,01/29/2004,Algebra I,ALG l,82,402,B-,80.3,2.7,true,C,76.6,2,true,2018-2019
+10830,Graduate,2022,Male,,English,09/01/2003,Geometry,GEOM,82,501,B,82.87,3,true,B,82.4,3,true,2018-2019
+10448,Graduate,2020,Male,Caucasian,English,04/20/2002,AP Human Geography,AP HUM G,82,492,A,96.3,5,true,A,95.5,5,true,2018-2019
+10448,Graduate,2020,Male,Caucasian,English,04/20/2002,U. S. History,US HIS,82,449,A,98.97,4,true,A,96.8,4,true,2018-2019
+10779,Graduate,2022,Female,,English,12/18/2003,Algebra I,ALG l,82,402,A,92.6,4,true,B,82.7,3,true,2018-2019
+10531,Graduate,2020,Male,Caucasian,English,09/14/2000,Geometry,GEOM,82,423,D,60.1,1,true,D,60.8,1,true,2018-2019
+10531,Graduate,2020,Male,Caucasian,English,09/14/2000,U. S. History,US HIS,82,449,C,72.32,2,true,C,76.3,2,true,2018-2019
+10609,Graduate,2021,Female,,English,10/22/2002,Geometry,GEOM,82,423,B,83.4,3,true,C-,71.5,1.7,true,2018-2019
+10610,Graduate,2021,Male,,English,09/03/2002,Geometry,GEOM,82,423,D,62.6,1,true,D,60.1,1,true,2018-2019
+10629,Graduate,2021,Female,,English,09/19/2002,Geometry,GEOM,82,423,C-,71.9,1.7,true,D,62.7,1,true,2018-2019
+10840,Withdrawn,2022,Female,,English,06/12/2004,Algebra I,ALG l,82,402,A,92.9,4,true,A,93.3,4,true,2018-2019
+10816,Graduate,2022,Male,,English,08/14/2003,Algebra I,ALG l,82,402,C+,78.9,2.3,true,D,66.6,1,true,2018-2019
+10782,Withdrawn,2022,Male,,English,05/06/2003,Geometry,GEOM,82,501,B,82.03,3,true,B,85.5,3,true,2018-2019
+10819,Graduate,2022,Male,,English,10/07/2003,Algebra I,ALG l,82,402,B-,80.7,2.7,true,D,66.3,1,true,2018-2019
+10626,Graduate,2021,Male,Hispanic/Latino,English,05/03/2003,Geometry,GEOM,82,423,C,76.8,2,true,C-,70,1.7,true,2018-2019
+10667,Withdrawn,2021,Male,,,02/20/2003,Geometry,GEOM,82,423,F,44.4,0,false,F,28.8,0,false,2018-2019
+10493,Graduate,2020,Female,Hispanic/Latino,Spanish,08/02/2002,U. S. History,US HIS,82,449,B,87.75,3,true,A-,90.2,3.7,true,2018-2019
+10850,Graduate,2022,Female,,English,08/24/2004,Algebra I,ALG l,82,402,A,95.8,4,true,A,93.5,4,true,2018-2019
+10520,Graduate,2020,Male,Non-Hispanic/Latino,English,05/18/2002,U. S. History,US HIS,82,449,,0,0,false,B-,80.3,2.7,true,2018-2019
+10611,Graduate,2021,Female,Non-Hispanic/Latino,English,10/09/2002,Geometry,GEOM,82,423,C,74.3,2,true,D,66.8,1,true,2018-2019
+10788,Graduate,2022,Male,Hispanic/Latino,English,08/12/2003,Geometry,GEOM,82,501,A-,90.65,3.7,true,A-,90,3.7,true,2018-2019
+10836,Graduate,2022,Male,Non-Hispanic/Latino,English,01/15/2003,Algebra I,ALG l,82,402,C,74.7,2,true,F,41.6,0,false,2018-2019
+10742,Graduate,2022,Male,,English,12/05/2003,Geometry,GEOM,82,501,B,82.28,3,true,B,84.7,3,true,2018-2019
+10451,Graduate,2020,Male,,English,08/26/2002,U. S. History,US HIS,82,449,C-,71.01,1.7,true,C,72.9,2,true,2018-2019
+10792,Graduate,2020,Female,Non-Hispanic/Latino,English,01/31/2002,U. S. History,US HIS,82,449,A,93.71,4,true,A,93,4,true,2018-2019
+10827,Withdrawn,2022,Female,Asian/Pacific Island,English,10/09/2003,Algebra I,ALG l,82,402,A,92.8,4,true,A,93.3,4,true,2018-2019
+10894,Withdrawn,2022,Female,,,10/20/2001,Algebra I,ALG l,82,402,A-,90.1,3.7,true,A,95.2,4,true,2018-2019
+10419,Graduate,2020,Male,Non-Hispanic/Latino,English,03/28/2002,AP Human Geography,AP HUM G,82,492,A-,90.1,4.7,true,B+,88.4,4.3,true,2018-2019
+10419,Graduate,2020,Male,Non-Hispanic/Latino,English,03/28/2002,U. S. History,US HIS,82,449,A,92.34,4,true,A,92.2,4,true,2018-2019
+10914,Graduate,2020,Male,,English,03/27/2002,U. S. History,US HIS,82,449,C,75.95,2,true,C+,78.5,2.3,true,2018-2019
+10164,Graduate,2019,Female,Non-Hispanic/Latino,English,03/05/2001,AP Human Geography,AP HUM G,82,492,B,87.8,4,true,B,87.3,4,true,2018-2019
+10750,Graduate,2022,Female,Non-Hispanic/Latino,English,11/01/2003,Geometry,GEOM,82,501,B,87.69,3,true,B,84.4,3,true,2018-2019
+10745,Graduate,2022,Female,Hispanic/Latino,English,09/06/2003,Geometry,GEOM,82,501,A-,91.3,3.7,true,A,93.6,4,true,2018-2019
+10793,Graduate,2022,Male,Non-Hispanic/Latino,English,03/02/2003,Geometry,GEOM,82,501,A,95.1,4,true,A,96.5,4,true,2018-2019
+10663,Withdrawn,2021,Female,,English,03/24/2003,Geometry,GEOM,82,423,D,67.2,1,true,F,40.2,0,false,2018-2019
+10794,Graduate,2022,Male,Hispanic/Latino,Spanish,06/03/2004,Algebra I,ALG l,82,402,A,93.7,4,true,A-,90,3.7,true,2018-2019
+10613,Graduate,2021,Female,,,01/12/2004,Geometry,GEOM,82,423,A,92.3,4,true,A-,90.2,3.7,true,2018-2019
+10442,Graduate,2020,Male,,English,11/06/2001,Geometry,GEOM,82,501,F,29.24,0,false,F,24.4,0,false,2018-2019
+10442,Graduate,2020,Male,,English,11/06/2001,U. S. History,US HIS,82,449,F,28.78,0,false,F,15.1,0,false,2018-2019
+10454,Graduate,2020,Male,,English,03/05/2002,U. S. History,US HIS,82,449,A-,90.52,3.7,true,B+,88.1,3.3,true,2018-2019
+10614,Withdrawn,2021,Female,Non-Hispanic/Latino,English,07/12/2002,Geometry,GEOM,82,423,F,43.1,0,false,F,44.1,0,false,2018-2019
+10799,Graduate,2022,Female,Non-Hispanic/Latino,English,02/25/2004,Algebra I,ALG l,82,402,A,96.2,4,true,A,93.8,4,true,2018-2019
+10806,Graduate,2022,Female,Non-Hispanic/Latino,English,09/28/2003,Algebra I,ALG l,82,402,A,94.8,4,true,A,94.1,4,true,2018-2019
+10807,Withdrawn,2022,Male,Non-Hispanic/Latino,English,03/02/2005,Geometry,GEOM,82,501,B,87.05,3,true,B,83.6,3,true,2018-2019
+10810,Withdrawn,2022,Female,Non-Hispanic/Latino,English,03/02/2005,Geometry,GEOM,82,501,A,92.88,4,true,A,93.2,4,true,2018-2019
+10617,Graduate,2020,Female,,English,02/06/2004,AP Human Geography,AP HUM G,82,492,A,96.7,5,true,A,96.4,5,true,2018-2019
+10704,Graduate,2020,Female,Hispanic/Latino,English,02/08/2002,AP Human Geography,AP HUM G,82,492,C-,70.4,1.7,true,,,,,2018-2019
+10704,Graduate,2020,Female,Hispanic/Latino,English,02/08/2002,U. S. History,US HIS,82,449,B-,81.12,2.7,true,B-,80.7,2.7,true,2018-2019
+10748,Withdrawn,2022,Female,Hispanic/Latino,Spanish,08/22/2004,Geometry,GEOM,82,501,B-,80.01,2.7,true,C,73.2,2,true,2018-2019
+10671,Withdrawn,2021,Male,,English,10/11/2002,Geometry,GEOM,82,423,C-,71.1,1.7,true,D,60.8,1,true,2018-2019
+10445,Graduate,2020,Female,,English,11/10/2001,U. S. History,US HIS,82,449,B-,80.39,2.7,true,B,83.7,3,true,2018-2019
+10869,Withdrawn,2022,Male,Non-Hispanic/Latino,English,07/17/2003,Geometry,GEOM,82,501,A,96.08,4,true,A,98.5,4,true,2018-2019
+10781,Graduate,2022,Female,,English,08/24/2003,Algebra I,ALG l,82,402,B+,88.1,3.3,true,A-,90.1,3.7,true,2018-2019
+10839,Withdrawn,2022,Female,Non-Hispanic/Latino,English,04/14/2004,Geometry,GEOM,82,501,B,85.16,3,true,C,73.1,2,true,2018-2019
+10620,Graduate,2021,Female,Non-Hispanic/Latino,English,09/06/2002,Geometry,GEOM,82,423,B,87.7,3,true,B,84.5,3,true,2018-2019
+10528,Graduate,2020,Female,Hispanic/Latino,Spanish,09/04/2001,AP Human Geography,AP HUM G,82,492,B,84.9,4,true,B,84.3,4,true,2018-2019
+10528,Graduate,2020,Female,Hispanic/Latino,Spanish,09/04/2001,U. S. History,US HIS,82,449,A,92,4,true,A,95.2,4,true,2018-2019
+10461,Graduate,2020,Female,,English,05/21/2002,U. S. History,US HIS,82,449,B,84.54,3,true,B,84.9,3,true,2018-2019
+10814,Graduate,2022,Female,Non-Hispanic/Latino,English,08/31/2003,Algebra I,ALG l,82,402,C,73.9,2,true,C-,70.2,1.7,true,2018-2019
+10763,Graduate,2022,Female,,English,04/05/2004,Algebra I,ALG l,82,402,A,93.8,4,true,A,92.5,4,true,2018-2019
+10906,Withdrawn,2022,Male,,English,02/26/2004,Geometry,GEOM,82,501,C,72,2,true,C,74.3,2,true,2018-2019
+10144,Graduate,2019,Female,,,08/10/2001,AP Human Geography,AP HUM G,82,492,A,95.2,5,true,A,94,5,true,2018-2019
+10761,Withdrawn,2022,Male,,English,06/04/2004,Algebra I,ALG l,82,402,D+,68.4,1.3,true,D,63.8,1,true,2018-2019
+10689,Graduate,2020,Female,,,02/16/2001,U. S. History,US HIS,82,449,A,94.83,4,true,A,94.3,4,true,2018-2019
+10895,Withdrawn,2022,Male,,,02/02/2002,Algebra I,ALG l,82,402,D,66.8,1,true,C,75.6,2,true,2018-2019
+10877,Withdrawn,2021,Male,Non-Hispanic/Latino,English,09/17/2003,AP Human Geography,AP HUM G,82,492,B-,80,3.7,true,D,60.5,1,true,2018-2019
+10877,Withdrawn,2021,Male,Non-Hispanic/Latino,English,09/17/2003,Geometry,GEOM,82,423,B,86,3,true,C,76.2,2,true,2018-2019
+10833,Withdrawn,2022,Male,Non-Hispanic/Latino,English,08/08/2004,Graphic Design,GRAPHIC DES,54,508,A,99.1,4,true,A,97.82,4,true,2018-2019
+10604,Graduate,2021,Male,,English,01/29/2003,Photography,PHOTO,54,434,A-,91.4,3.7,true,B-,81.82,2.7,true,2018-2019
+10181,Graduate,2019,Male,Caucasian,English,04/04/2001,Graphic Design,GRAPHIC DES,54,508,A-,92.8,3.7,true,C,77.94,2,true,2018-2019
+10830,Graduate,2022,Male,,English,09/01/2003,Graphic Design,GRAPHIC DES,54,508,A,95,4,true,B+,89.91,3.3,true,2018-2019
+10448,Graduate,2020,Male,Caucasian,English,04/20/2002,Graphic Design,GRAPHIC DES,54,508,A,100,4,true,A,100,4,true,2018-2019
+10429,Graduate,2020,Female,Caucasian,English,07/31/2002,Photography,PHOTO,54,434,A,96.1,4,true,A,95.7,4,true,2018-2019
+10816,Graduate,2022,Male,,English,08/14/2003,Graphic Design,GRAPHIC DES,54,508,A,97.3,4,true,B,87.55,3,true,2018-2019
+10782,Withdrawn,2022,Male,,English,05/06/2003,Graphic Design,GRAPHIC DES,54,508,A,97.8,4,true,A,97.15,4,true,2018-2019
+10819,Graduate,2022,Male,,English,10/07/2003,Graphic Design,GRAPHIC DES,54,508,A,99,4,true,B,87.2,3,true,2018-2019
+10788,Graduate,2022,Male,Hispanic/Latino,English,08/12/2003,Graphic Design,GRAPHIC DES,54,508,A,99.4,4,true,A,98.29,4,true,2018-2019
+10827,Withdrawn,2022,Female,Asian/Pacific Island,English,10/09/2003,Graphic Design,GRAPHIC DES,54,508,A,96.2,4,true,A,94.31,4,true,2018-2019
+10419,Graduate,2020,Male,Non-Hispanic/Latino,English,03/28/2002,Graphic Design,GRAPHIC DES,54,508,A,99.1,4,true,A,98.1,4,true,2018-2019
+10914,Graduate,2020,Male,,English,03/27/2002,Photography,PHOTO,54,434,A,96.9,4,true,A-,91.6,3.7,true,2018-2019
+10438,Graduate,2019,Female,,English,01/23/2001,Photography,PHOTO,54,434,C+,79.7,2.3,true,C,75.54,2,true,2018-2019
+10807,Withdrawn,2022,Male,Non-Hispanic/Latino,English,03/02/2005,Graphic Design,GRAPHIC DES,54,508,A,95.8,4,true,A-,91.48,3.7,true,2018-2019
+10621,Graduate,2021,Male,,English,03/19/2003,Photography,PHOTO,54,434,A,93.2,4,true,A-,90.92,3.7,true,2018-2019
+10200,Graduate,2019,Female,Hispanic/Latino,Spanish,12/31/2000,Photography,PHOTO,54,434,B,84.4,3,true,,0,0,false,2018-2019
+10622,Graduate,2021,Male,,English,03/26/2003,Photography,PHOTO,54,434,A,93.6,4,true,A-,92.74,3.7,true,2018-2019
+10188,Graduate,2019,Female,,English,07/16/2000,Photography,PHOTO,54,434,B,85.1,3,true,,,,,2018-2019
+10689,Graduate,2020,Female,,,02/16/2001,Photography,PHOTO,54,434,A,98.2,4,true,A,98.13,4,true,2018-2019
+10535,Graduate,2019,Male,Non-Hispanic/Latino,Chinese,06/19/1999,Graphic Design,GRAPHIC DES,54,508,A-,92.2,3.7,true,C,77.71,2,true,2018-2019
+10535,Graduate,2019,Male,Non-Hispanic/Latino,Chinese,06/19/1999,Photography,PHOTO,54,434,B,84.9,3,true,B,86.78,3,true,2018-2019
+10603,Graduate,2021,Male,,English,07/02/2002,English II,ENG ll,59,420,B,87.9,3,true,B,86.04,3,true,2018-2019
+10604,Graduate,2021,Male,,English,01/29/2003,English II,ENG ll,59,420,B-,80.7,2.7,true,C,74.92,2,true,2018-2019
+10181,Graduate,2019,Male,Caucasian,English,04/04/2001,English IV,ENG lV,59,422,D+,68.4,1.3,true,C-,71.63,1.7,true,2018-2019
+10605,Withdrawn,2021,Female,,English,08/09/2002,English II,ENG ll,59,420,B+,89.4,3.3,true,C,74.14,2,true,2018-2019
+10426,Graduate,2020,Female,Caucasian,English,11/07/2001,English III,ENG lll,59,421,A,97,4,true,A,96.33,4,true,2018-2019
+10898,Withdrawn,2022,Male,Hispanic/Latino,Spanish,02/04/2000,English II,ENG ll,59,420,,0,0,false,,0,0,false,2018-2019
+10606,Graduate,2019,Male,Non-Hispanic/Latino,English,04/04/2001,AP English Language,AP ENG LANG,59,476,A-,90.6,4.7,true,B+,88.56,4.3,true,2018-2019
+10146,Graduate,2019,Male,Non-Hispanic/Latino,English,12/19/1999,English IV,ENG lV,59,422,B-,80.3,2.7,true,B+,0,3.3,true,2018-2019
+10662,Withdrawn,2021,Female,Non-Hispanic/Latino,English,02/09/2003,English II,ENG ll,59,420,A-,91.7,3.7,true,A,96.15,4,true,2018-2019
+10420,Graduate,2020,Female,Caucasian,English,01/30/2002,AP English Literature,AP ENG LIT,59,405,A,97.38,5,true,A,98.05,5,true,2018-2019
+10607,Graduate,2021,Male,Non-Hispanic/Latino,English,07/03/2002,English II,ENG ll,59,420,A,100,4,true,A,99.9,4,true,2018-2019
+10608,Graduate,2021,Female,Hispanic/Latino,Spanish,02/28/2003,English II,ENG ll,59,420,A,94.2,4,true,A-,91.61,3.7,true,2018-2019
+10448,Graduate,2020,Male,Caucasian,English,04/20/2002,AP English Literature,AP ENG LIT,59,405,A,96.45,5,true,A,96.81,5,true,2018-2019
+10182,Graduate,2019,Male,Caucasian,English,02/14/2001,AP English Language,AP ENG LANG,59,476,B,87.4,4,true,B+,0,4.3,true,2018-2019
+10531,Graduate,2020,Male,Caucasian,English,09/14/2000,English III,ENG lll,59,421,C+,78,2.3,true,C,76.39,2,true,2018-2019
+10609,Graduate,2021,Female,,English,10/22/2002,English II,ENG ll,59,420,A,97.8,4,true,A,94.91,4,true,2018-2019
+10610,Graduate,2021,Male,,English,09/03/2002,English II,ENG ll,59,420,D,60,1,true,D,61.15,1,true,2018-2019
+10183,Graduate,2019,Male,Caucasian,English,07/15/2001,English IV,ENG lV,59,422,D,60.6,1,true,D,60.62,1,true,2018-2019
+10629,Graduate,2021,Female,,English,09/19/2002,English II,ENG ll,59,420,C,77.7,2,true,B-,81.41,2.7,true,2018-2019
+10630,Withdrawn,2021,Female,,,09/18/2003,English II,ENG ll,59,420,A,100,4,true,A,97.29,4,true,2018-2019
+10127,Graduate,2019,Female,Caucasian,English,07/26/2001,AP English Language,AP ENG LANG,59,476,A,97.5,5,true,A,96.92,5,true,2018-2019
+10626,Graduate,2021,Male,Hispanic/Latino,English,05/03/2003,English II,ENG ll,59,420,B-,81.9,2.7,true,B,85.19,3,true,2018-2019
+10120,Graduate,2019,Female,Caucasian,English,11/20/2000,AP English Language,AP ENG LANG,59,476,A,99.4,5,true,A,99.33,5,true,2018-2019
+10667,Withdrawn,2021,Male,,,02/20/2003,English II,ENG ll,59,420,F,0,0,false,F,37.53,0,false,2018-2019
+10493,Graduate,2020,Female,Hispanic/Latino,Spanish,08/02/2002,English III,ENG lll,59,421,A-,91,3.7,true,B+,89.66,3.3,true,2018-2019
+10520,Graduate,2020,Male,Non-Hispanic/Latino,English,05/18/2002,English III,ENG lll,59,421,,0,0,false,C-,71.52,1.7,true,2018-2019
+10611,Graduate,2021,Female,Non-Hispanic/Latino,English,10/09/2002,English II,ENG ll,59,420,A,0,4,true,B+,88.49,3.3,true,2018-2019
+10612,Graduate,2019,Male,,,12/05/2000,English IV,ENG lV,59,422,A-,90,3.7,true,A,93.52,4,true,2018-2019
+10451,Graduate,2020,Male,,English,08/26/2002,English III,ENG lll,59,421,D,67,1,true,C-,70.91,1.7,true,2018-2019
+10792,Graduate,2020,Female,Non-Hispanic/Latino,English,01/31/2002,AP English Literature,AP ENG LIT,59,405,A-,90.67,4.7,true,B+,89.34,4.3,true,2018-2019
+10419,Graduate,2020,Male,Non-Hispanic/Latino,English,03/28/2002,AP English Literature,AP ENG LIT,59,405,B,84.69,4,true,B,84.67,4,true,2018-2019
+10914,Graduate,2020,Male,,English,03/27/2002,English III,ENG lll,59,421,A-,91,3.7,true,,0,0,false,2018-2019
+10164,Graduate,2019,Female,Non-Hispanic/Latino,English,03/05/2001,AP English Language,AP ENG LANG,59,476,A,96.1,5,true,A,95.87,5,true,2018-2019
+10184,Graduate,2019,Female,,English,10/20/2000,AP English Language,AP ENG LANG,59,476,A,93.5,5,true,B+,88.09,4.3,true,2018-2019
+10438,Graduate,2019,Female,,English,01/23/2001,English IV,ENG lV,59,422,D,66.4,1,true,C+,78.06,2.3,true,2018-2019
+10694,Graduate,2019,Male,,,05/17/2001,AP English Language,AP ENG LANG,59,476,A,96.5,5,true,A,94.86,5,true,2018-2019
+10186,Graduate,2019,Female,,English,08/04/2000,AP English Language,AP ENG LANG,59,476,A-,90,4.7,true,B,86.66,4,true,2018-2019
+10903,Graduate,2021,Female,Hispanic/Latino,English,05/28/2003,English II,ENG ll,59,420,C-,70.6,1.7,true,D,61.02,1,true,2018-2019
+10663,Withdrawn,2021,Female,,English,03/24/2003,English II,ENG ll,59,420,B-,82.4,2.7,true,C-,72.7,1.7,true,2018-2019
+10613,Graduate,2021,Female,,,01/12/2004,English II,ENG ll,59,420,A,93,4,true,A-,91.98,3.7,true,2018-2019
+10442,Graduate,2020,Male,,English,11/06/2001,English III,ENG lll,59,421,F,0,0,false,D,61.31,1,true,2018-2019
+10454,Graduate,2020,Male,,English,03/05/2002,English III,ENG lll,59,421,A,94,4,true,B,85.16,3,true,2018-2019
+10614,Withdrawn,2021,Female,Non-Hispanic/Latino,English,07/12/2002,English II,ENG ll,59,420,D,60.3,1,true,D,67.19,1,true,2018-2019
+10185,Graduate,2019,Female,,English,11/09/2000,AP English Language,AP ENG LANG,59,476,A,96.4,5,true,A,94.8,5,true,2018-2019
+10193,Graduate,2019,Male,,English,09/08/2000,English IV,ENG lV,59,422,A-,92.5,3.7,true,A-,92.19,3.7,true,2018-2019
+10617,Graduate,2020,Female,,English,02/06/2004,AP English Literature,AP ENG LIT,59,405,A-,91.62,4.7,true,A,95.42,5,true,2018-2019
+10617,Graduate,2020,Female,,English,02/06/2004,English III,ENG lll,59,421,,0,0,false,A,98.99,4,true,2018-2019
+10704,Graduate,2020,Female,Hispanic/Latino,English,02/08/2002,English III,ENG lll,59,421,B,83,3,true,B,87.79,3,true,2018-2019
+10656,Graduate,2021,Female,,,06/04/2003,English II,ENG ll,59,420,B,87.5,3,true,A-,90.19,3.7,true,2018-2019
+10671,Withdrawn,2021,Male,,English,10/11/2002,English II,ENG ll,59,420,C-,0,1.7,true,D,0,1,true,2018-2019
+10445,Graduate,2020,Female,,English,11/10/2001,English III,ENG lll,59,421,B+,89,3.3,true,A-,92.45,3.7,true,2018-2019
+10619,Graduate,2021,Male,Non-Hispanic/Latino,English,02/06/2003,English II,ENG ll,59,420,C-,71.5,1.7,true,C,77.08,2,true,2018-2019
+10618,Graduate,2021,Male,,,03/14/2003,English II,ENG ll,59,420,C-,0,1.7,true,C-,71.76,1.7,true,2018-2019
+10133,Graduate,2019,Male,,English,05/01/2000,AP English Language,AP ENG LANG,59,476,B,83.4,4,true,C+,78.59,2.3,true,2018-2019
+10620,Graduate,2021,Female,Non-Hispanic/Latino,English,09/06/2002,English II,ENG ll,59,420,A,98.7,4,true,A,98.28,4,true,2018-2019
+10621,Graduate,2021,Male,,English,03/19/2003,English II,ENG ll,59,420,A,94.1,4,true,A-,91.76,3.7,true,2018-2019
+10458,Graduate,2019,Female,,,02/19/2002,AP English Language,AP ENG LANG,59,476,A,97.1,5,true,A,97.23,5,true,2018-2019
+10458,Graduate,2019,Female,,,02/19/2002,AP English Literature,AP ENG LIT,59,405,A,95.34,5,true,A,95.16,5,true,2018-2019
+10528,Graduate,2020,Female,Hispanic/Latino,Spanish,09/04/2001,English III,ENG lll,59,421,B+,89,3.3,true,B+,89.42,3.3,true,2018-2019
+10200,Graduate,2019,Female,Hispanic/Latino,Spanish,12/31/2000,English IV,ENG lV,59,422,C-,70.4,1.7,true,C+,79.03,2.3,true,2018-2019
+10622,Graduate,2021,Male,,English,03/26/2003,English II,ENG ll,59,420,A-,90.4,3.7,true,B,87.67,3,true,2018-2019
+10461,Graduate,2020,Female,,English,05/21/2002,English III,ENG lll,59,421,B+,89,3.3,true,A-,91.18,3.7,true,2018-2019
+10188,Graduate,2019,Female,,English,07/16/2000,English IV,ENG lV,59,422,D,63.5,1,true,C,75.03,2,true,2018-2019
+10106,Graduate,2019,Male,,English,07/11/2001,AP English Language,AP ENG LANG,59,476,C+,79.5,2.3,true,B-,80.2,3.7,true,2018-2019
+10144,Graduate,2019,Female,,,08/10/2001,AP English Language,AP ENG LANG,59,476,A,95.3,5,true,A,95.61,5,true,2018-2019
+10689,Graduate,2020,Female,,,02/16/2001,English III,ENG lll,59,421,A,97,4,true,A,96.41,4,true,2018-2019
+10535,Graduate,2019,Male,Non-Hispanic/Latino,Chinese,06/19/1999,English IV,ENG lV,59,422,C,75.6,2,true,D+,68.1,1.3,true,2018-2019
+10877,Withdrawn,2021,Male,Non-Hispanic/Latino,English,09/17/2003,English II,ENG ll,59,420,A-,90.8,3.7,true,C,74.08,2,true,2018-2019
+10852,Graduate,2022,Male,Hispanic/Latino,Spanish,07/27/2004,English I,ENG l,2,419,D,63.3,1,true,B,83.2,3,true,2018-2019
+10833,Withdrawn,2022,Male,Non-Hispanic/Latino,English,08/08/2004,English I,ENG l,2,419,A,95,4,true,A,97.5,4,true,2018-2019
+10861,Withdrawn,2022,Female,Non-Hispanic/Latino,English,03/27/2004,English I,ENG l,2,494,A-,91.2,3.7,true,A,93.4,4,true,2018-2019
+10764,Withdrawn,2022,Female,,English,07/14/2003,English I,ENG l,2,494,A,97.3,4,true,A,96.7,4,true,2018-2019
+10767,Withdrawn,2022,Female,,English,08/02/2004,English I,ENG l,2,494,A,96.9,4,true,A,98.2,4,true,2018-2019
+10821,Withdrawn,2022,Male,Non-Hispanic/Latino,English,11/24/2003,English I,ENG l,2,494,A-,92.6,3.7,true,A,96.6,4,true,2018-2019
+10888,Graduate,2022,Female,Non-Hispanic/Latino,English,06/10/2004,English I,ENG l,2,419,A,100,4,true,A,98.3,4,true,2018-2019
+10181,Graduate,2019,Male,Caucasian,English,04/04/2001,Adv. Film Production,ADV FILM PROD,2,482,,0,0,false,A,100,4,true,2018-2019
+10181,Graduate,2019,Male,Caucasian,English,04/04/2001,Film Production,FLM PROD,2,471,A,100,4,true,,0,0,false,2018-2019
+10843,Withdrawn,2022,Female,Hispanic/Latino,Spanish,06/19/2004,English I,ENG l,2,419,A,93.5,4,true,B-,82.7,2.7,true,2018-2019
+10760,Withdrawn,2022,Male,Non-Hispanic/Latino,English,06/25/2004,English I,ENG l,2,419,A,96.1,4,true,A,96.2,4,true,2018-2019
+10146,Graduate,2019,Male,Non-Hispanic/Latino,English,12/19/1999,Film Production,FLM PROD,2,471,A,96,4,true,,0,0,false,2018-2019
+10773,Graduate,2022,Male,,English,11/05/2003,English I,ENG l,2,419,B,84,3,true,C,76.9,2,true,2018-2019
+10776,Graduate,2022,Female,,,01/29/2004,English I,ENG l,2,494,A-,91,3.7,true,A-,91.1,3.7,true,2018-2019
+10830,Graduate,2022,Male,,English,09/01/2003,English I,ENG l,2,419,A,95.8,4,true,A,93.6,4,true,2018-2019
+10848,Withdrawn,2022,Female,,,01/26/2003,English I,ENG l,2,419,A,97.7,4,true,A-,92,3.7,true,2018-2019
+10849,Withdrawn,2022,Male,,English,04/28/2004,English I,ENG l,2,419,B+,89.2,3.3,true,B+,88.2,3.3,true,2018-2019
+10779,Graduate,2022,Female,,English,12/18/2003,English I,ENG l,2,494,A,97.5,4,true,A,99.8,4,true,2018-2019
+10609,Graduate,2021,Female,,English,10/22/2002,Film Production,FLM PROD,2,471,A,99,4,true,,0,0,false,2018-2019
+10840,Withdrawn,2022,Female,,English,06/12/2004,English I,ENG l,2,494,A,98.3,4,true,A,98.7,4,true,2018-2019
+10816,Graduate,2022,Male,,English,08/14/2003,English I,ENG l,2,494,C,74.2,2,true,A-,92.2,3.7,true,2018-2019
+10782,Withdrawn,2022,Male,,English,05/06/2003,English I,ENG l,2,419,A,97.9,4,true,A,96.5,4,true,2018-2019
+10819,Graduate,2022,Male,,English,10/07/2003,English I,ENG l,2,494,A,95.8,4,true,A,95.7,4,true,2018-2019
+10850,Graduate,2022,Female,,English,08/24/2004,English I,ENG l,2,494,A,99.3,4,true,A,96.7,4,true,2018-2019
+10788,Graduate,2022,Male,Hispanic/Latino,English,08/12/2003,English I,ENG l,2,419,A,100,4,true,A,96.2,4,true,2018-2019
+10836,Graduate,2022,Male,Non-Hispanic/Latino,English,01/15/2003,English I,ENG l,2,494,C-,72.9,1.7,true,C+,78.7,2.3,true,2018-2019
+10742,Graduate,2022,Male,,English,12/05/2003,English I,ENG l,2,419,A,94.3,4,true,A,95.5,4,true,2018-2019
+10612,Graduate,2019,Male,,,12/05/2000,Adv. Film Production,ADV FILM PROD,2,482,,0,0,false,A,100,4,true,2018-2019
+10612,Graduate,2019,Male,,,12/05/2000,Film Production,FLM PROD,2,471,A,100,4,true,,0,0,false,2018-2019
+10749,Graduate,2022,Female,Hispanic/Latino,English,10/26/2003,English I,ENG l,2,419,C,77.1,2,true,C+,79.1,2.3,true,2018-2019
+10827,Withdrawn,2022,Female,Asian/Pacific Island,English,10/09/2003,English I,ENG l,2,494,A,93.6,4,true,A,98.6,4,true,2018-2019
+10858,Graduate,2022,Female,Hispanic/Latino,Spanish,04/26/2004,English I,ENG l,2,419,B,85.7,3,true,C,77.6,2,true,2018-2019
+10750,Graduate,2022,Female,Non-Hispanic/Latino,English,11/01/2003,English I,ENG l,2,419,A,98.8,4,true,A,98.8,4,true,2018-2019
+10745,Graduate,2022,Female,Hispanic/Latino,English,09/06/2003,English I,ENG l,2,419,A,100,4,true,A,99.8,4,true,2018-2019
+10186,Graduate,2019,Female,,English,08/04/2000,Film Production,FLM PROD,2,471,A,99,4,true,,0,0,false,2018-2019
+10793,Graduate,2022,Male,Non-Hispanic/Latino,English,03/02/2003,English I,ENG l,2,419,A,99.1,4,true,A,97.4,4,true,2018-2019
+10794,Graduate,2022,Male,Hispanic/Latino,Spanish,06/03/2004,English I,ENG l,2,494,A,94,4,true,A,99.2,4,true,2018-2019
+10797,Withdrawn,2022,Male,,,07/03/2002,English I,ENG l,2,419,A-,91.9,3.7,true,B,84.6,3,true,2018-2019
+10864,Withdrawn,2022,Female,Non-Hispanic/Latino,English,12/04/2003,English I,ENG l,2,419,A,98.4,4,true,A-,91.6,3.7,true,2018-2019
+10799,Graduate,2022,Female,Non-Hispanic/Latino,English,02/25/2004,English I,ENG l,2,494,A,99.1,4,true,A,99.8,4,true,2018-2019
+10806,Graduate,2022,Female,Non-Hispanic/Latino,English,09/28/2003,English I,ENG l,2,494,A,98.2,4,true,A,99.7,4,true,2018-2019
+10807,Withdrawn,2022,Male,Non-Hispanic/Latino,English,03/02/2005,English I,ENG l,2,419,A,97.8,4,true,A,96.9,4,true,2018-2019
+10810,Withdrawn,2022,Female,Non-Hispanic/Latino,English,03/02/2005,English I,ENG l,2,419,A,100,4,true,A,97.7,4,true,2018-2019
+10867,Graduate,2022,Female,Hispanic/Latino,English,08/17/2003,English I,ENG l,2,419,C+,78.1,2.3,true,C,75.6,2,true,2018-2019
+10802,Graduate,2022,Female,Hispanic/Latino,English,08/20/2004,English I,ENG l,2,419,A,95.7,4,true,A,95.5,4,true,2018-2019
+10748,Withdrawn,2022,Female,Hispanic/Latino,Spanish,08/22/2004,English I,ENG l,2,419,B,87.8,3,true,B,84.1,3,true,2018-2019
+10869,Withdrawn,2022,Male,Non-Hispanic/Latino,English,07/17/2003,English I,ENG l,2,419,A,99.5,4,true,A,94.8,4,true,2018-2019
+10781,Graduate,2022,Female,,English,08/24/2003,English I,ENG l,2,494,A,98,4,true,A,97.7,4,true,2018-2019
+10839,Withdrawn,2022,Female,Non-Hispanic/Latino,English,04/14/2004,English I,ENG l,2,419,B,86.2,3,true,A,93.1,4,true,2018-2019
+10874,Withdrawn,2022,Male,Non-Hispanic/Latino,English,07/28/2003,English I,ENG l,2,419,B-,80.2,2.7,true,B,84.1,3,true,2018-2019
+10846,Graduate,2022,Female,Hispanic/Latino,Spanish,05/12/2004,English I,ENG l,2,419,D,67.5,1,true,B-,80.5,2.7,true,2018-2019
+10458,Graduate,2019,Female,,,02/19/2002,Adv. Film Production,ADV FILM PROD,2,482,,0,0,false,A,100,4,true,2018-2019
+10458,Graduate,2019,Female,,,02/19/2002,Film Production,FLM PROD,2,471,A,100,4,true,,0,0,false,2018-2019
+10200,Graduate,2019,Female,Hispanic/Latino,Spanish,12/31/2000,Film Production,FLM PROD,2,471,A,100,4,true,,0,0,false,2018-2019
+10814,Graduate,2022,Female,Non-Hispanic/Latino,English,08/31/2003,English I,ENG l,2,494,A,97.1,4,true,A,98.8,4,true,2018-2019
+10763,Graduate,2022,Female,,English,04/05/2004,English I,ENG l,2,494,A,98.1,4,true,A,98.4,4,true,2018-2019
+10106,Graduate,2019,Male,,English,07/11/2001,Adv. Film Production,ADV FILM PROD,2,482,,0,0,false,A,100,4,true,2018-2019
+10106,Graduate,2019,Male,,English,07/11/2001,Film Production,FLM PROD,2,471,A,95,4,true,,0,0,false,2018-2019
+10906,Withdrawn,2022,Male,,English,02/26/2004,English I,ENG l,2,419,D+,68,1.3,true,A-,92.7,3.7,true,2018-2019
+10880,Graduate,2022,Male,Non-Hispanic/Latino,English,08/07/2004,English I,ENG l,2,419,B,85.4,3,true,A,94.9,4,true,2018-2019
+10761,Withdrawn,2022,Male,,English,06/04/2004,English I,ENG l,2,494,A-,92.3,3.7,true,A-,90.4,3.7,true,2018-2019
+10852,Graduate,2022,Male,Hispanic/Latino,Spanish,07/27/2004,Bible I,BIB l,9,493,C-,71.4,1.7,true,C-,70.4,1.7,true,2018-2019
+10833,Withdrawn,2022,Male,Non-Hispanic/Latino,English,08/08/2004,Bible I,BIB l,9,493,A,99.3,4,true,A,100,4,true,2018-2019
+10861,Withdrawn,2022,Female,Non-Hispanic/Latino,English,03/27/2004,Bible I,BIB l,9,493,B-,80.2,2.7,true,A-,90.4,3.7,true,2018-2019
+10764,Withdrawn,2022,Female,,English,07/14/2003,Bible I,BIB l,9,493,A,97.8,4,true,A,100,4,true,2018-2019
+10767,Withdrawn,2022,Female,,English,08/02/2004,Bible I,BIB l,9,493,A,99.5,4,true,A,99.8,4,true,2018-2019
+10821,Withdrawn,2022,Male,Non-Hispanic/Latino,English,11/24/2003,Bible I,BIB l,9,409,A,93,4,true,A,98.7,4,true,2018-2019
+10888,Graduate,2022,Female,Non-Hispanic/Latino,English,06/10/2004,Bible I,BIB l,9,493,A,99,4,true,A,98.1,4,true,2018-2019
+10843,Withdrawn,2022,Female,Hispanic/Latino,Spanish,06/19/2004,Bible I,BIB l,9,409,A-,90.5,3.7,true,,0,0,false,2018-2019
+10843,Withdrawn,2022,Female,Hispanic/Latino,Spanish,06/19/2004,Bible I,BIB l,9,493,,0,0,false,A-,90.3,3.7,true,2018-2019
+10760,Withdrawn,2022,Male,Non-Hispanic/Latino,English,06/25/2004,Bible I,BIB l,9,493,A,98.1,4,true,A,97.8,4,true,2018-2019
+10898,Withdrawn,2022,Male,Hispanic/Latino,Spanish,02/04/2000,Bible I,BIB l,9,409,A,97.4,4,true,A,100,4,true,2018-2019
+10773,Graduate,2022,Male,,English,11/05/2003,Bible I,BIB l,9,409,A-,90.9,3.7,true,A,95.5,4,true,2018-2019
+10776,Graduate,2022,Female,,,01/29/2004,Bible I,BIB l,9,493,B-,80.1,2.7,true,A-,90.2,3.7,true,2018-2019
+10830,Graduate,2022,Male,,English,09/01/2003,Bible I,BIB l,9,409,A,93,4,true,A,99,4,true,2018-2019
+10848,Withdrawn,2022,Female,,,01/26/2003,Bible I,BIB l,9,493,A-,90.1,3.7,true,A,96.9,4,true,2018-2019
+10849,Withdrawn,2022,Male,,English,04/28/2004,Bible I,BIB l,9,409,A-,90,3.7,true,A-,90.6,3.7,true,2018-2019
+10779,Graduate,2022,Female,,English,12/18/2003,Bible I,BIB l,9,493,A,95.9,4,true,A,99.5,4,true,2018-2019
+10840,Withdrawn,2022,Female,,English,06/12/2004,Bible I,BIB l,9,409,A,96.3,4,true,A,100,4,true,2018-2019
+10816,Graduate,2022,Male,,English,08/14/2003,Bible I,BIB l,9,493,B-,80.4,2.7,true,B-,80.3,2.7,true,2018-2019
+10782,Withdrawn,2022,Male,,English,05/06/2003,Bible I,BIB l,9,409,A,96.7,4,true,A,100,4,true,2018-2019
+10819,Graduate,2022,Male,,English,10/07/2003,Bible I,BIB l,9,493,B-,80.1,2.7,true,B-,80.2,2.7,true,2018-2019
+10850,Graduate,2022,Female,,English,08/24/2004,Bible I,BIB l,9,493,A,98.3,4,true,A,99.5,4,true,2018-2019
+10788,Graduate,2022,Male,Hispanic/Latino,English,08/12/2003,Bible I,BIB l,9,409,A,93.8,4,true,A,100,4,true,2018-2019
+10836,Graduate,2022,Male,Non-Hispanic/Latino,English,01/15/2003,Bible I,BIB l,9,493,C-,71.6,1.7,true,A,0,4,true,2018-2019
+10742,Graduate,2022,Male,,English,12/05/2003,Bible I,BIB l,9,409,A,96.3,4,true,A,100,4,true,2018-2019
+10749,Graduate,2022,Female,Hispanic/Latino,English,10/26/2003,Bible I,BIB l,9,493,C,75.7,2,true,B-,80.8,2.7,true,2018-2019
+10827,Withdrawn,2022,Female,Asian/Pacific Island,English,10/09/2003,Bible I,BIB l,9,409,A,96.8,4,true,A,99.8,4,true,2018-2019
+10858,Graduate,2022,Female,Hispanic/Latino,Spanish,04/26/2004,Bible I,BIB l,9,493,B-,80.8,2.7,true,B-,80.2,2.7,true,2018-2019
+10750,Graduate,2022,Female,Non-Hispanic/Latino,English,11/01/2003,Bible I,BIB l,9,493,A-,90,3.7,true,A,99.5,4,true,2018-2019
+10745,Graduate,2022,Female,Hispanic/Latino,English,09/06/2003,Bible I,BIB l,9,409,A,97.8,4,true,A,99.8,4,true,2018-2019
+10793,Graduate,2022,Male,Non-Hispanic/Latino,English,03/02/2003,Bible I,BIB l,9,409,A,95.4,4,true,A,97.2,4,true,2018-2019
+10794,Graduate,2022,Male,Hispanic/Latino,Spanish,06/03/2004,Bible I,BIB l,9,409,A,97.1,4,true,A,99.8,4,true,2018-2019
+10797,Withdrawn,2022,Male,,,07/03/2002,Bible I,BIB l,9,409,A-,90.1,3.7,true,B-,80,2.7,true,2018-2019
+10864,Withdrawn,2022,Female,Non-Hispanic/Latino,English,12/04/2003,Bible I,BIB l,9,409,A,93.4,4,true,A,96.4,4,true,2018-2019
+10799,Graduate,2022,Female,Non-Hispanic/Latino,English,02/25/2004,Bible I,BIB l,9,409,A,95.5,4,true,A,100,4,true,2018-2019
+10806,Graduate,2022,Female,Non-Hispanic/Latino,English,09/28/2003,Bible I,BIB l,9,409,A,96.9,4,true,A,100,4,true,2018-2019
+10807,Withdrawn,2022,Male,Non-Hispanic/Latino,English,03/02/2005,Bible I,BIB l,9,493,A,95.4,4,true,A,97.7,4,true,2018-2019
+10810,Withdrawn,2022,Female,Non-Hispanic/Latino,English,03/02/2005,Bible I,BIB l,9,409,A,96.2,4,true,A,100,4,true,2018-2019
+10867,Graduate,2022,Female,Hispanic/Latino,English,08/17/2003,Bible I,BIB l,9,409,B,84.8,3,true,A,93.8,4,true,2018-2019
+10802,Graduate,2022,Female,Hispanic/Latino,English,08/20/2004,Bible I,BIB l,9,409,A-,92,3.7,true,A,97.4,4,true,2018-2019
+10748,Withdrawn,2022,Female,Hispanic/Latino,Spanish,08/22/2004,Bible I,BIB l,9,493,A,97.9,4,true,A,94.9,4,true,2018-2019
+10869,Withdrawn,2022,Male,Non-Hispanic/Latino,English,07/17/2003,Bible I,BIB l,9,493,A,98.8,4,true,A,96.8,4,true,2018-2019
+10781,Graduate,2022,Female,,English,08/24/2003,Bible I,BIB l,9,409,A,96.2,4,true,A,99.8,4,true,2018-2019
+10839,Withdrawn,2022,Female,Non-Hispanic/Latino,English,04/14/2004,Bible I,BIB l,9,409,A-,92.5,3.7,true,A-,90,3.7,true,2018-2019
+10874,Withdrawn,2022,Male,Non-Hispanic/Latino,English,07/28/2003,Bible I,BIB l,9,409,A-,90.8,3.7,true,A,93.8,4,true,2018-2019
+10846,Graduate,2022,Female,Hispanic/Latino,Spanish,05/12/2004,Bible I,BIB l,9,409,B,83.4,3,true,C,77.8,2,true,2018-2019
+10814,Graduate,2022,Female,Non-Hispanic/Latino,English,08/31/2003,Bible I,BIB l,9,409,A,93.2,4,true,A,99.5,4,true,2018-2019
+10763,Graduate,2022,Female,,English,04/05/2004,Bible I,BIB l,9,493,A,96.7,4,true,A,100,4,true,2018-2019
+10906,Withdrawn,2022,Male,,English,02/26/2004,Bible I,BIB l,9,493,B-,80,2.7,true,A,97.8,4,true,2018-2019
+10880,Graduate,2022,Male,Non-Hispanic/Latino,English,08/07/2004,Bible I,BIB l,9,493,A,98.1,4,true,A,94.9,4,true,2018-2019
+10761,Withdrawn,2022,Male,,English,06/04/2004,Bible I,BIB l,9,493,A,97.1,4,true,A,98.1,4,true,2018-2019
+10535,Graduate,2019,Male,Non-Hispanic/Latino,Chinese,06/19/1999,Bible I,BIB l,9,409,A-,90.1,3.7,true,C,77.8,2,true,2018-2019
+10852,Graduate,2022,Male,Hispanic/Latino,Spanish,07/27/2004,Health,HLTH,32,426,A,100,4,true,,0,0,false,2018-2019
+10833,Withdrawn,2022,Male,Non-Hispanic/Latino,English,08/08/2004,Health,HLTH,32,426,A,100,4,true,,0,0,false,2018-2019
+10861,Withdrawn,2022,Female,Non-Hispanic/Latino,English,03/27/2004,Health,HLTH,32,426,A,100,4,true,,0,0,false,2018-2019
+10764,Withdrawn,2022,Female,,English,07/14/2003,Health,HLTH,32,426,A,100,4,true,,0,0,false,2018-2019
+10767,Withdrawn,2022,Female,,English,08/02/2004,Health,HLTH,32,426,A,100,4,true,,0,0,false,2018-2019
+10821,Withdrawn,2022,Male,Non-Hispanic/Latino,English,11/24/2003,Health,HLTH,32,497,A,100,4,true,,0,0,false,2018-2019
+10888,Graduate,2022,Female,Non-Hispanic/Latino,English,06/10/2004,Health,HLTH,32,426,A,100,4,true,,0,0,false,2018-2019
+10843,Withdrawn,2022,Female,Hispanic/Latino,Spanish,06/19/2004,Health,HLTH,32,497,A,100,4,true,,0,0,false,2018-2019
+10760,Withdrawn,2022,Male,Non-Hispanic/Latino,English,06/25/2004,Health,HLTH,32,426,A,100,4,true,,0,0,false,2018-2019
+10773,Graduate,2022,Male,,English,11/05/2003,Health,HLTH,32,497,A,100,4,true,,0,0,false,2018-2019
+10776,Graduate,2022,Female,,,01/29/2004,Health,HLTH,32,426,A,100,4,true,,0,0,false,2018-2019
+10830,Graduate,2022,Male,,English,09/01/2003,Health,HLTH,32,497,A,100,4,true,,0,0,false,2018-2019
+10848,Withdrawn,2022,Female,,,01/26/2003,Health,HLTH,32,426,A,100,4,true,,0,0,false,2018-2019
+10849,Withdrawn,2022,Male,,English,04/28/2004,Health,HLTH,32,497,A,100,4,true,,0,0,false,2018-2019
+10779,Graduate,2022,Female,,English,12/18/2003,Health,HLTH,32,426,A,100,4,true,,0,0,false,2018-2019
+10840,Withdrawn,2022,Female,,English,06/12/2004,Health,HLTH,32,497,A,100,4,true,,0,0,false,2018-2019
+10816,Graduate,2022,Male,,English,08/14/2003,Health,HLTH,32,426,A,100,4,true,,0,0,false,2018-2019
+10782,Withdrawn,2022,Male,,English,05/06/2003,Health,HLTH,32,497,A,100,4,true,,0,0,false,2018-2019
+10819,Graduate,2022,Male,,English,10/07/2003,Health,HLTH,32,426,A,100,4,true,,0,0,false,2018-2019
+10850,Graduate,2022,Female,,English,08/24/2004,Health,HLTH,32,426,A,100,4,true,,0,0,false,2018-2019
+10788,Graduate,2022,Male,Hispanic/Latino,English,08/12/2003,Health,HLTH,32,497,A,100,4,true,,0,0,false,2018-2019
+10836,Graduate,2022,Male,Non-Hispanic/Latino,English,01/15/2003,Health,HLTH,32,426,A,100,4,true,,0,0,false,2018-2019
+10742,Graduate,2022,Male,,English,12/05/2003,Health,HLTH,32,497,A,100,4,true,,0,0,false,2018-2019
+10749,Graduate,2022,Female,Hispanic/Latino,English,10/26/2003,Health,HLTH,32,426,A,100,4,true,,0,0,false,2018-2019
+10827,Withdrawn,2022,Female,Asian/Pacific Island,English,10/09/2003,Health,HLTH,32,497,A,100,4,true,,0,0,false,2018-2019
+10894,Withdrawn,2022,Female,,,10/20/2001,Health,HLTH,32,426,A,100,4,true,,0,0,false,2018-2019
+10858,Graduate,2022,Female,Hispanic/Latino,Spanish,04/26/2004,Health,HLTH,32,426,A,100,4,true,,0,0,false,2018-2019
+10750,Graduate,2022,Female,Non-Hispanic/Latino,English,11/01/2003,Health,HLTH,32,426,A,100,4,true,,0,0,false,2018-2019
+10745,Graduate,2022,Female,Hispanic/Latino,English,09/06/2003,Health,HLTH,32,497,A,100,4,true,,0,0,false,2018-2019
+10793,Graduate,2022,Male,Non-Hispanic/Latino,English,03/02/2003,Health,HLTH,32,497,A,100,4,true,,0,0,false,2018-2019
+10794,Graduate,2022,Male,Hispanic/Latino,Spanish,06/03/2004,Health,HLTH,32,497,A,100,4,true,,0,0,false,2018-2019
+10797,Withdrawn,2022,Male,,,07/03/2002,Health,HLTH,32,497,A,100,4,true,,0,0,false,2018-2019
+10864,Withdrawn,2022,Female,Non-Hispanic/Latino,English,12/04/2003,Health,HLTH,32,497,A,100,4,true,,0,0,false,2018-2019
+10799,Graduate,2022,Female,Non-Hispanic/Latino,English,02/25/2004,Health,HLTH,32,497,A,100,4,true,,0,0,false,2018-2019
+10806,Graduate,2022,Female,Non-Hispanic/Latino,English,09/28/2003,Health,HLTH,32,497,A,100,4,true,,0,0,false,2018-2019
+10807,Withdrawn,2022,Male,Non-Hispanic/Latino,English,03/02/2005,Health,HLTH,32,426,A,100,4,true,,0,0,false,2018-2019
+10810,Withdrawn,2022,Female,Non-Hispanic/Latino,English,03/02/2005,Health,HLTH,32,497,A,100,4,true,,0,0,false,2018-2019
+10867,Graduate,2022,Female,Hispanic/Latino,English,08/17/2003,Health,HLTH,32,497,A,100,4,true,,0,0,false,2018-2019
+10802,Graduate,2022,Female,Hispanic/Latino,English,08/20/2004,Health,HLTH,32,497,A,100,4,true,,0,0,false,2018-2019
+10748,Withdrawn,2022,Female,Hispanic/Latino,Spanish,08/22/2004,Health,HLTH,32,426,A,100,4,true,,0,0,false,2018-2019
+10781,Graduate,2022,Female,,English,08/24/2003,Health,HLTH,32,497,A,100,4,true,,0,0,false,2018-2019
+10839,Withdrawn,2022,Female,Non-Hispanic/Latino,English,04/14/2004,Health,HLTH,32,497,A,100,4,true,,0,0,false,2018-2019
+10874,Withdrawn,2022,Male,Non-Hispanic/Latino,English,07/28/2003,Health,HLTH,32,497,A,100,4,true,,0,0,false,2018-2019
+10846,Graduate,2022,Female,Hispanic/Latino,Spanish,05/12/2004,Health,HLTH,32,497,A,100,4,true,,0,0,false,2018-2019
+10814,Graduate,2022,Female,Non-Hispanic/Latino,English,08/31/2003,Health,HLTH,32,497,A,100,4,true,,0,0,false,2018-2019
+10763,Graduate,2022,Female,,English,04/05/2004,Health,HLTH,32,426,A,100,4,true,,0,0,false,2018-2019
+10906,Withdrawn,2022,Male,,English,02/26/2004,Health,HLTH,32,426,A,100,4,true,,0,0,false,2018-2019
+10880,Graduate,2022,Male,Non-Hispanic/Latino,English,08/07/2004,Health,HLTH,32,426,A,100,4,true,,0,0,false,2018-2019
+10761,Withdrawn,2022,Male,,English,06/04/2004,Health,HLTH,32,426,A,100,4,true,,0,0,false,2018-2019
+10689,Graduate,2020,Female,,,02/16/2001,Health,HLTH,32,497,A,100,4,true,,0,0,false,2018-2019
+10895,Withdrawn,2022,Male,,,02/02/2002,Health,HLTH,32,426,A,100,4,true,,0,0,false,2018-2019
+10603,Graduate,2021,Male,,English,07/02/2002,Spanish II,SPAN ll,73,502,A-,0,3.7,true,B,85.5,3,true,2018-2019
+10605,Withdrawn,2021,Female,,English,08/09/2002,Spanish II,SPAN ll,73,502,A,0,4,true,B+,87.7,3.3,true,2018-2019
+10843,Withdrawn,2022,Female,Hispanic/Latino,Spanish,06/19/2004,Art,ART,73,406,,0,0,false,A,100,4,true,2018-2019
+10898,Withdrawn,2022,Male,Hispanic/Latino,Spanish,02/04/2000,Art,ART,73,406,A-,0,3.7,true,A-,90.2,3.7,true,2018-2019
+10606,Graduate,2019,Male,Non-Hispanic/Latino,English,04/04/2001,Yearbook,YRBK,73,467,A,97.67,4,true,A,100,4,true,2018-2019
+10420,Graduate,2020,Female,Caucasian,English,01/30/2002,Spanish II,SPAN ll,73,439,A,0,4,true,A,100,4,true,2018-2019
+10608,Graduate,2021,Female,Hispanic/Latino,Spanish,02/28/2003,Spanish II,SPAN ll,73,502,A,0,4,true,A,93.8,4,true,2018-2019
+10531,Graduate,2020,Male,Caucasian,English,09/14/2000,Art,ART,73,406,A-,0,3.7,true,A,96.3,4,true,2018-2019
+10531,Graduate,2020,Male,Caucasian,English,09/14/2000,Spanish II,SPAN ll,73,502,C,0,2,true,C-,70.4,1.7,true,2018-2019
+10429,Graduate,2020,Female,Caucasian,English,07/31/2002,Spanish II,SPAN ll,73,439,A-,0,3.7,true,B,82.8,3,true,2018-2019
+10610,Graduate,2021,Male,,English,09/03/2002,Spanish II,SPAN ll,73,502,B-,0,2.7,true,C,73,2,true,2018-2019
+10183,Graduate,2019,Male,Caucasian,English,07/15/2001,Spanish II,SPAN ll,73,439,B,0,3,true,C,76.1,2,true,2018-2019
+10630,Withdrawn,2021,Female,,,09/18/2003,Spanish II,SPAN ll,73,502,A,0,4,true,A,99.8,4,true,2018-2019
+10626,Graduate,2021,Male,Hispanic/Latino,English,05/03/2003,Spanish II,SPAN ll,73,502,A-,0,3.7,true,B,86.1,3,true,2018-2019
+10120,Graduate,2019,Female,Caucasian,English,11/20/2000,Yearbook,YRBK,73,467,A,100,4,true,A,96.8,4,true,2018-2019
+10667,Withdrawn,2021,Male,,,02/20/2003,Spanish II,SPAN ll,73,502,A,0,4,true,B+,87.6,3.3,true,2018-2019
+10493,Graduate,2020,Female,Hispanic/Latino,Spanish,08/02/2002,Art,ART,73,406,A,0,4,true,A,98.9,4,true,2018-2019
+10493,Graduate,2020,Female,Hispanic/Latino,Spanish,08/02/2002,Spanish II,SPAN ll,73,439,A,0,4,true,A,98.7,4,true,2018-2019
+10520,Graduate,2020,Male,Non-Hispanic/Latino,English,05/18/2002,Spanish II,SPAN ll,73,439,,0,0,false,A-,90.2,3.7,true,2018-2019
+10611,Graduate,2021,Female,Non-Hispanic/Latino,English,10/09/2002,Spanish II,SPAN ll,73,502,A,0,4,true,A,94.1,4,true,2018-2019
+10451,Graduate,2020,Male,,English,08/26/2002,Spanish II,SPAN ll,73,439,A-,0,3.7,true,A-,89.9,3.7,true,2018-2019
+10792,Graduate,2020,Female,Non-Hispanic/Latino,English,01/31/2002,Spanish III,SPAN III,73,468,A,95.9,4,true,A,94.9,4,true,2018-2019
+10792,Graduate,2020,Female,Non-Hispanic/Latino,English,01/31/2002,Yearbook,YRBK,73,467,A,100,4,true,A,100,4,true,2018-2019
+10894,Withdrawn,2022,Female,,,10/20/2001,Art,ART,73,406,A-,0,3.7,true,A,97.9,4,true,2018-2019
+10914,Graduate,2020,Male,,English,03/27/2002,Art,ART,73,406,,0,0,false,A,100,4,true,2018-2019
+10164,Graduate,2019,Female,Non-Hispanic/Latino,English,03/05/2001,Yearbook,YRBK,73,467,A,100,4,true,A,100,4,true,2018-2019
+10184,Graduate,2019,Female,,English,10/20/2000,Yearbook,YRBK,73,467,A,98.84,4,true,A,100,4,true,2018-2019
+10794,Graduate,2022,Male,Hispanic/Latino,Spanish,06/03/2004,Spanish II,SPAN ll,73,439,A,0,4,true,A,97.8,4,true,2018-2019
+10613,Graduate,2021,Female,,,01/12/2004,Spanish II,SPAN ll,73,502,A,0,4,true,A,96,4,true,2018-2019
+10442,Graduate,2020,Male,,English,11/06/2001,Spanish II,SPAN ll,73,439,D,0,1,true,C-,71.3,1.7,true,2018-2019
+10454,Graduate,2020,Male,,English,03/05/2002,Spanish II,SPAN ll,73,439,A,0,4,true,A,96.2,4,true,2018-2019
+10617,Graduate,2020,Female,,English,02/06/2004,Spanish II,SPAN ll,73,439,A,0,4,true,A,97.6,4,true,2018-2019
+10617,Graduate,2020,Female,,English,02/06/2004,Yearbook,YRBK,73,467,A,100,4,true,A,100,4,true,2018-2019
+10704,Graduate,2020,Female,Hispanic/Latino,English,02/08/2002,Art,ART,73,406,A,0,4,true,A,96.7,4,true,2018-2019
+10704,Graduate,2020,Female,Hispanic/Latino,English,02/08/2002,Spanish II,SPAN ll,73,439,A,0,4,true,A,94.3,4,true,2018-2019
+10704,Graduate,2020,Female,Hispanic/Latino,English,02/08/2002,Yearbook,YRBK,73,467,A,97.67,4,true,A,98.9,4,true,2018-2019
+10748,Withdrawn,2022,Female,Hispanic/Latino,Spanish,08/22/2004,Spanish II,SPAN ll,73,439,A,0,4,true,A,99,4,true,2018-2019
+10656,Graduate,2021,Female,,,06/04/2003,Spanish II,SPAN ll,73,502,A,0,4,true,A,98.5,4,true,2018-2019
+10445,Graduate,2020,Female,,English,11/10/2001,Spanish II,SPAN ll,73,439,A-,0,3.7,true,A,98.2,4,true,2018-2019
+10619,Graduate,2021,Male,Non-Hispanic/Latino,English,02/06/2003,Spanish II,SPAN ll,73,502,A-,0,3.7,true,B-,80.3,2.7,true,2018-2019
+10528,Graduate,2020,Female,Hispanic/Latino,Spanish,09/04/2001,Art,ART,73,406,A,0,4,true,A,99.8,4,true,2018-2019
+10528,Graduate,2020,Female,Hispanic/Latino,Spanish,09/04/2001,Spanish III,SPAN III,73,468,A,94.6,4,true,A,98.4,4,true,2018-2019
+10461,Graduate,2020,Female,,English,05/21/2002,Art,ART,73,406,A,0,4,true,,0,0,false,2018-2019
+10461,Graduate,2020,Female,,English,05/21/2002,Spanish II,SPAN ll,73,439,A-,0,3.7,true,A-,91.3,3.7,true,2018-2019
+10880,Graduate,2022,Male,Non-Hispanic/Latino,English,08/07/2004,Art,ART,73,406,,0,0,false,A,100,4,true,2018-2019
+10689,Graduate,2020,Female,,,02/16/2001,Art,ART,73,406,A,0,4,true,,0,0,false,2018-2019
+10895,Withdrawn,2022,Male,,,02/02/2002,Art,ART,73,406,B+,0,3.3,true,A,97.5,4,true,2018-2019
+10877,Withdrawn,2021,Male,Non-Hispanic/Latino,English,09/17/2003,Art,ART,73,406,A,0,4,true,A,93.9,4,true,2018-2019
+10852,Graduate,2022,Male,Hispanic/Latino,Spanish,07/27/2004,Foundations for Success,FFS,62,488,B-,81.8,2.7,true,C,75.4,2,true,2018-2019
+10833,Withdrawn,2022,Male,Non-Hispanic/Latino,English,08/08/2004,Foundations for Success,FFS,62,489,A,98.9,4,true,A,100,4,true,2018-2019
+10861,Withdrawn,2022,Female,Non-Hispanic/Latino,English,03/27/2004,Foundations for Success,FFS,62,488,C-,72.1,1.7,true,B,87.1,3,true,2018-2019
+10764,Withdrawn,2022,Female,,English,07/14/2003,Foundations for Success,FFS,62,489,A,99.2,4,true,A,100,4,true,2018-2019
+10767,Withdrawn,2022,Female,,English,08/02/2004,Foundations for Success,FFS,62,488,A,98.4,4,true,A,100,4,true,2018-2019
+10821,Withdrawn,2022,Male,Non-Hispanic/Latino,English,11/24/2003,Foundations for Success,FFS,62,488,A,95.4,4,true,B,85.9,3,true,2018-2019
+10888,Graduate,2022,Female,Non-Hispanic/Latino,English,06/10/2004,Foundations for Success,FFS,62,489,A,100,4,true,A,100,4,true,2018-2019
+10843,Withdrawn,2022,Female,Hispanic/Latino,Spanish,06/19/2004,Foundations for Success,FFS,62,488,A,99,4,true,A,95.5,4,true,2018-2019
+10760,Withdrawn,2022,Male,Non-Hispanic/Latino,English,06/25/2004,Foundations for Success,FFS,62,488,A,95.9,4,true,A,99.9,4,true,2018-2019
+10773,Graduate,2022,Male,,English,11/05/2003,Foundations for Success,FFS,62,489,B,84.6,3,true,B+,88.7,3.3,true,2018-2019
+10420,Graduate,2020,Female,Caucasian,English,01/30/2002,AP Psychology,AP PSYCH,62,472,A-,92,4.7,true,A,95,5,true,2018-2019
+10776,Graduate,2022,Female,,,01/29/2004,Foundations for Success,FFS,62,489,A,98.4,4,true,A-,92.1,3.7,true,2018-2019
+10830,Graduate,2022,Male,,English,09/01/2003,Foundations for Success,FFS,62,489,B-,80.4,2.7,true,A,99,4,true,2018-2019
+10848,Withdrawn,2022,Female,,,01/26/2003,Foundations for Success,FFS,62,489,A,98.2,4,true,A,100,4,true,2018-2019
+10849,Withdrawn,2022,Male,,English,04/28/2004,Foundations for Success,FFS,62,489,A,94.3,4,true,B+,89.8,3.3,true,2018-2019
+10779,Graduate,2022,Female,,English,12/18/2003,Foundations for Success,FFS,62,489,A,100,4,true,A,100,4,true,2018-2019
+10840,Withdrawn,2022,Female,,English,06/12/2004,Foundations for Success,FFS,62,488,A,100,4,true,A,100,4,true,2018-2019
+10816,Graduate,2022,Male,,English,08/14/2003,Foundations for Success,FFS,62,488,A-,92.9,3.7,true,B,85.5,3,true,2018-2019
+10782,Withdrawn,2022,Male,,English,05/06/2003,Foundations for Success,FFS,62,489,A,98.4,4,true,A,97.6,4,true,2018-2019
+10127,Graduate,2019,Female,Caucasian,English,07/26/2001,AP Psychology,AP PSYCH,62,472,A,95,5,true,A,95,5,true,2018-2019
+10819,Graduate,2022,Male,,English,10/07/2003,Foundations for Success,FFS,62,488,A,98.8,4,true,A,96,4,true,2018-2019
+10120,Graduate,2019,Female,Caucasian,English,11/20/2000,AP Psychology,AP PSYCH,62,472,A,0,5,true,A,97,5,true,2018-2019
+10850,Graduate,2022,Female,,English,08/24/2004,Foundations for Success,FFS,62,488,A,100,4,true,A,97.9,4,true,2018-2019
+10788,Graduate,2022,Male,Hispanic/Latino,English,08/12/2003,Foundations for Success,FFS,62,488,A,95.9,4,true,A,95.8,4,true,2018-2019
+10836,Graduate,2022,Male,Non-Hispanic/Latino,English,01/15/2003,Foundations for Success,FFS,62,489,B-,82.5,2.7,true,D,66.2,1,true,2018-2019
+10742,Graduate,2022,Male,,English,12/05/2003,Foundations for Success,FFS,62,489,A,99.3,4,true,A,99.3,4,true,2018-2019
+10749,Graduate,2022,Female,Hispanic/Latino,English,10/26/2003,Foundations for Success,FFS,62,489,A,95.8,4,true,B,84.3,3,true,2018-2019
+10792,Graduate,2020,Female,Non-Hispanic/Latino,English,01/31/2002,AP Psychology,AP PSYCH,62,472,B,86,4,true,A-,91,4.7,true,2018-2019
+10827,Withdrawn,2022,Female,Asian/Pacific Island,English,10/09/2003,Foundations for Success,FFS,62,489,A,98.8,4,true,A,100,4,true,2018-2019
+10164,Graduate,2019,Female,Non-Hispanic/Latino,English,03/05/2001,Intentional Living,INTENT LIV,62,507,,0,0,false,A,100,4,true,2018-2019
+10858,Graduate,2022,Female,Hispanic/Latino,Spanish,04/26/2004,Foundations for Success,FFS,62,489,A-,92.3,3.7,true,B,86.8,3,true,2018-2019
+10184,Graduate,2019,Female,,English,10/20/2000,Intentional Living,INTENT LIV,62,507,,0,0,false,A,100,4,true,2018-2019
+10750,Graduate,2022,Female,Non-Hispanic/Latino,English,11/01/2003,Foundations for Success,FFS,62,488,A,97.7,4,true,A,100,4,true,2018-2019
+10745,Graduate,2022,Female,Hispanic/Latino,English,09/06/2003,Foundations for Success,FFS,62,489,A,100,4,true,A,100,4,true,2018-2019
+10793,Graduate,2022,Male,Non-Hispanic/Latino,English,03/02/2003,Foundations for Success,FFS,62,488,A,94.3,4,true,A,97.8,4,true,2018-2019
+10903,Graduate,2021,Female,Hispanic/Latino,English,05/28/2003,Foundations for Success,FFS,62,488,A-,91.7,3.7,true,A-,90,3.7,true,2018-2019
+10794,Graduate,2022,Male,Hispanic/Latino,Spanish,06/03/2004,Foundations for Success,FFS,62,488,A,99.8,4,true,A,93.1,4,true,2018-2019
+10797,Withdrawn,2022,Male,,,07/03/2002,Foundations for Success,FFS,62,488,A,95.4,4,true,A-,90.5,3.7,true,2018-2019
+10864,Withdrawn,2022,Female,Non-Hispanic/Latino,English,12/04/2003,Foundations for Success,FFS,62,489,A,100,4,true,A,98,4,true,2018-2019
+10799,Graduate,2022,Female,Non-Hispanic/Latino,English,02/25/2004,Foundations for Success,FFS,62,488,A,100,4,true,A,100,4,true,2018-2019
+10806,Graduate,2022,Female,Non-Hispanic/Latino,English,09/28/2003,Foundations for Success,FFS,62,489,A,99.2,4,true,A,100,4,true,2018-2019
+10807,Withdrawn,2022,Male,Non-Hispanic/Latino,English,03/02/2005,Foundations for Success,FFS,62,489,A,98.3,4,true,A,99,4,true,2018-2019
+10810,Withdrawn,2022,Female,Non-Hispanic/Latino,English,03/02/2005,Foundations for Success,FFS,62,489,A,100,4,true,A,100,4,true,2018-2019
+10193,Graduate,2019,Male,,English,09/08/2000,AP Psychology,AP PSYCH,62,472,A-,90,4.7,true,B,87,4,true,2018-2019
+10867,Graduate,2022,Female,Hispanic/Latino,English,08/17/2003,Foundations for Success,FFS,62,488,B,84.8,3,true,A,99,4,true,2018-2019
+10802,Graduate,2022,Female,Hispanic/Latino,English,08/20/2004,Foundations for Success,FFS,62,489,A,99.8,4,true,A,99.1,4,true,2018-2019
+10748,Withdrawn,2022,Female,Hispanic/Latino,Spanish,08/22/2004,Foundations for Success,FFS,62,488,A,98.2,4,true,A,96.9,4,true,2018-2019
+10869,Withdrawn,2022,Male,Non-Hispanic/Latino,English,07/17/2003,Foundations for Success,FFS,62,489,A,98.4,4,true,A,98.3,4,true,2018-2019
+10781,Graduate,2022,Female,,English,08/24/2003,Foundations for Success,FFS,62,489,A,99.2,4,true,A,99.8,4,true,2018-2019
+10839,Withdrawn,2022,Female,Non-Hispanic/Latino,English,04/14/2004,Foundations for Success,FFS,62,488,A-,91.9,3.7,true,A,97.8,4,true,2018-2019
+10874,Withdrawn,2022,Male,Non-Hispanic/Latino,English,07/28/2003,Foundations for Success,FFS,62,488,B,85.6,3,true,A,95.2,4,true,2018-2019
+10846,Graduate,2022,Female,Hispanic/Latino,Spanish,05/12/2004,Foundations for Success,FFS,62,488,B,85,3,true,B,83.4,3,true,2018-2019
+10814,Graduate,2022,Female,Non-Hispanic/Latino,English,08/31/2003,Foundations for Success,FFS,62,488,A,97.7,4,true,A,96.9,4,true,2018-2019
+10763,Graduate,2022,Female,,English,04/05/2004,Foundations for Success,FFS,62,489,A,100,4,true,A,100,4,true,2018-2019
+10906,Withdrawn,2022,Male,,English,02/26/2004,Foundations for Success,FFS,62,489,A,95.8,4,true,A,100,4,true,2018-2019
+10880,Graduate,2022,Male,Non-Hispanic/Latino,English,08/07/2004,Foundations for Success,FFS,62,488,A,94,4,true,A,93.5,4,true,2018-2019
+10144,Graduate,2019,Female,,,08/10/2001,Intentional Living,INTENT LIV,62,507,,0,0,false,A,100,4,true,2018-2019
+10761,Withdrawn,2022,Male,,English,06/04/2004,Foundations for Success,FFS,62,488,A,94.9,4,true,A,96.1,4,true,2018-2019
+10535,Graduate,2019,Male,Non-Hispanic/Latino,Chinese,06/19/1999,Intentional Living,INTENT LIV,62,507,,0,0,false,A,100,4,true,2018-2019
+,,,,,,,,,,,,,,,,,,,2018-2019

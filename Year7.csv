@@ -1,0 +1,932 @@
+﻿Student ID,Status,Class Of,Gender,Ethnicity,Language,Birth date,Course Title,Class Name,TEACHERID,ClassID,S1 Grade,S1 Avg,S1 GPA,S1 Passing,S2 Grade,S2 Avg,S2 GPA,S2 Passing,Year
+10742,Graduate,2022,Male,,English,12/05/2003,Civics,SR SS,90,844,,0,0,false,A,98,4,true,2021-2022
+10742,Graduate,2022,Male,,English,12/05/2003,U. S. Government,US GVT,90,879,A,94,4,true,,0,0,false,2021-2022
+10742,Graduate,2022,Male,,English,12/05/2003,Bible IV,BIB lV,53,874,A,100,4,true,A,100,4,true,2021-2022
+10742,Graduate,2022,Male,,English,12/05/2003,Anatomy and Physiology,A & P,44,848,B,87,3,true,A,93.8,4,true,2021-2022
+10742,Graduate,2022,Male,,English,12/05/2003,English IV,ENG lV,55,801,A,98,4,true,A,94,4,true,2021-2022
+10742,Graduate,2022,Male,,English,12/05/2003,Senior Experience,SR EXP,62,888,A,94.07,4,true,A,95.45,4,true,2021-2022
+10742,Graduate,2022,Male,,English,12/05/2003,Advanced Industrial Arts,ADV IND ART,75,890,A,96.8,4,true,A,94,4,true,2021-2022
+10745,Graduate,2022,Female,Hispanic/Latino,English,09/06/2003,Civics,SR SS,90,844,,0,0,false,A,95,4,true,2021-2022
+10745,Graduate,2022,Female,Hispanic/Latino,English,09/06/2003,U. S. Government,US GVT,90,879,A,98,4,true,,0,0,false,2021-2022
+10745,Graduate,2022,Female,Hispanic/Latino,English,09/06/2003,Bible IV,BIB lV,53,788,A,100,4,true,A,100,4,true,2021-2022
+10745,Graduate,2022,Female,Hispanic/Latino,English,09/06/2003,Climbing,CLIMBING,53,881,A,100,4,true,A,100,4,true,2021-2022
+10745,Graduate,2022,Female,Hispanic/Latino,English,09/06/2003,Physics,PHYSICS,52,816,A,98,4,true,A,96,4,true,2021-2022
+10745,Graduate,2022,Female,Hispanic/Latino,English,09/06/2003,AP English Language,AP ENG LANG,59,845,A,99.1,5,true,A,99.7,5,true,2021-2022
+10745,Graduate,2022,Female,Hispanic/Latino,English,09/06/2003,Senior Experience,SR EXP,62,888,A,99.21,4,true,A,100,4,true,2021-2022
+10745,Graduate,2022,Female,Hispanic/Latino,English,09/06/2003,Anatomy and Physiology,A & P,44,848,A,97,4,true,A,99.5,4,true,2021-2022
+10749,Graduate,2022,Female,Hispanic/Latino,English,10/26/2003,Civics,SR SS,90,844,,0,0,false,C,74,2,true,2021-2022
+10749,Graduate,2022,Female,Hispanic/Latino,English,10/26/2003,U. S. Government,US GVT,90,804,D,60,1,true,,0,0,false,2021-2022
+10749,Graduate,2022,Female,Hispanic/Latino,English,10/26/2003,Bible IV,BIB lV,53,874,B,85,3,true,A,95.5,4,true,2021-2022
+10749,Graduate,2022,Female,Hispanic/Latino,English,10/26/2003,English IV,ENG lV,55,801,B-,82,2.7,true,C-,72,1.7,true,2021-2022
+10749,Graduate,2022,Female,Hispanic/Latino,English,10/26/2003,Senior Experience,SR EXP,62,857,B,83.83,3,true,B-,80.91,2.7,true,2021-2022
+10749,Graduate,2022,Female,Hispanic/Latino,English,10/26/2003,Art,ART,62,780,A,98,4,true,C+,79.51,2.3,true,2021-2022
+10750,Graduate,2022,Female,Non-Hispanic/Latino,English,11/01/2003,Civics,SR SS,90,844,,0,0,false,A,97,4,true,2021-2022
+10750,Graduate,2022,Female,Non-Hispanic/Latino,English,11/01/2003,U. S. Government,US GVT,90,804,A,98,4,true,,0,0,false,2021-2022
+10750,Graduate,2022,Female,Non-Hispanic/Latino,English,11/01/2003,Bible IV,BIB lV,53,788,A,100,4,true,A,100,4,true,2021-2022
+10750,Graduate,2022,Female,Non-Hispanic/Latino,English,11/01/2003,Pre-Calculus,PRECAL,52,817,A,95,4,true,A,95,4,true,2021-2022
+10750,Graduate,2022,Female,Non-Hispanic/Latino,English,11/01/2003,Intro to Photography,INT PHOTO,54,893,A,96.6,4,true,A,98.9,4,true,2021-2022
+10750,Graduate,2022,Female,Non-Hispanic/Latino,English,11/01/2003,AP English Language,AP ENG LANG,59,845,A,98,5,true,A,98.7,5,true,2021-2022
+10750,Graduate,2022,Female,Non-Hispanic/Latino,English,11/01/2003,Art,ART,62,780,A,99,4,true,A,96.72,4,true,2021-2022
+10750,Graduate,2022,Female,Non-Hispanic/Latino,English,11/01/2003,Senior Experience,SR EXP,62,857,A,97.69,4,true,A,98.18,4,true,2021-2022
+10750,Graduate,2022,Female,Non-Hispanic/Latino,English,11/01/2003,Anatomy and Physiology,A & P,44,848,A,95.7,4,true,A,94.3,4,true,2021-2022
+10763,Graduate,2022,Female,,English,04/05/2004,Civics,SR SS,90,844,,0,0,false,A,98,4,true,2021-2022
+10763,Graduate,2022,Female,,English,04/05/2004,U. S. Government,US GVT,90,879,A,98,4,true,,0,0,false,2021-2022
+10763,Graduate,2022,Female,,English,04/05/2004,Bible IV,BIB lV,53,788,A,100,4,true,A,100,4,true,2021-2022
+10763,Graduate,2022,Female,,English,04/05/2004,Physics,PHYSICS,52,816,A,94,4,true,A,95,4,true,2021-2022
+10763,Graduate,2022,Female,,English,04/05/2004,AP English Language,AP ENG LANG,59,845,A,93.1,5,true,A,98.3,5,true,2021-2022
+10763,Graduate,2022,Female,,English,04/05/2004,Senior Experience,SR EXP,62,888,A,97.69,4,true,A,100,4,true,2021-2022
+10773,Graduate,2022,Male,,English,11/05/2003,Civics,SR SS,90,844,,0,0,false,C,73,2,true,2021-2022
+10773,Graduate,2022,Male,,English,11/05/2003,U. S. Government,US GVT,90,879,D+,69,1.3,true,,0,0,false,2021-2022
+10773,Graduate,2022,Male,,English,11/05/2003,Bible IV,BIB lV,53,874,A-,90,3.7,true,A,100,4,true,2021-2022
+10773,Graduate,2022,Male,,English,11/05/2003,Photography,PHOTO,54,813,A-,90,3.7,true,B,87.4,3,true,2021-2022
+10773,Graduate,2022,Male,,English,11/05/2003,English IV,ENG lV,55,801,C,75,2,true,C,76,2,true,2021-2022
+10773,Graduate,2022,Male,,English,11/05/2003,Senior Experience,SR EXP,62,888,A-,90.83,3.7,true,A,95.38,4,true,2021-2022
+10776,Graduate,2022,Female,,,01/29/2004,Pre-Calculus,PRECAL,52,817,B,83,3,true,B-,82,2.7,true,2021-2022
+10776,Graduate,2022,Female,,,01/29/2004,Intro to Photography,INT PHOTO,54,892,A-,91.4,3.7,true,B,87.9,3,true,2021-2022
+10776,Graduate,2022,Female,,,01/29/2004,Yearbook,YRBK,89,841,B,86.5,3,true,B+,88.8,3.3,true,2021-2022
+10776,Graduate,2022,Female,,,01/29/2004,English IV,ENG lV,55,801,B-,82,2.7,true,B+,88,3.3,true,2021-2022
+10776,Graduate,2022,Female,,,01/29/2004,Senior Experience,SR EXP,62,888,B,83.46,3,true,A,94.55,4,true,2021-2022
+10776,Graduate,2022,Female,,,01/29/2004,Bible IV,BIB lV,53,874,A,100,4,true,A,100,4,true,2021-2022
+10779,Graduate,2022,Female,,English,12/18/2003,Civics,SR SS,90,844,,0,0,false,A,98,4,true,2021-2022
+10779,Graduate,2022,Female,,English,12/18/2003,U. S. Government,US GVT,90,804,A,95,4,true,,0,0,false,2021-2022
+10779,Graduate,2022,Female,,English,12/18/2003,Bible IV,BIB lV,53,788,A,100,4,true,A,100,4,true,2021-2022
+10779,Graduate,2022,Female,,English,12/18/2003,Yearbook,YRBK,89,841,A,95,4,true,A,97.5,4,true,2021-2022
+10779,Graduate,2022,Female,,English,12/18/2003,Woodworking,WD WRK,75,885,A,93.8,4,true,A,100,4,true,2021-2022
+10779,Graduate,2022,Female,,English,12/18/2003,Senior Experience,SR EXP,62,857,A,96.31,4,true,A,100,4,true,2021-2022
+10779,Graduate,2022,Female,,English,12/18/2003,AP English Language,AP ENG LANG,59,845,A,93.6,5,true,A,94.9,5,true,2021-2022
+10781,Graduate,2022,Female,,English,08/24/2003,U. S. Government,US GVT,90,879,A,97,4,true,,0,0,false,2021-2022
+10781,Graduate,2022,Female,,English,08/24/2003,Bible IV,BIB lV,53,788,A,100,4,true,A,100,4,true,2021-2022
+10781,Graduate,2022,Female,,English,08/24/2003,Physics,PHYSICS,52,816,B+,88,3.3,true,A-,90,3.7,true,2021-2022
+10781,Graduate,2022,Female,,English,08/24/2003,Film Production,FLM PROD,51,886,A,97.4,4,true,A,96,4,true,2021-2022
+10781,Graduate,2022,Female,,English,08/24/2003,Senior Experience,SR EXP,62,888,A,97.71,4,true,A,99.09,4,true,2021-2022
+10781,Graduate,2022,Female,,English,08/24/2003,AP English Language,AP ENG LANG,59,845,A-,92.7,4.7,true,A,96.8,5,true,2021-2022
+10788,Graduate,2022,Male,Hispanic/Latino,English,08/12/2003,Civics,SR SS,90,844,,0,0,false,A,95,4,true,2021-2022
+10788,Graduate,2022,Male,Hispanic/Latino,English,08/12/2003,U. S. Government,US GVT,90,804,A,96,4,true,,0,0,false,2021-2022
+10788,Graduate,2022,Male,Hispanic/Latino,English,08/12/2003,Bible IV,BIB lV,53,874,A,100,4,true,A,100,4,true,2021-2022
+10788,Graduate,2022,Male,Hispanic/Latino,English,08/12/2003,AP Calculus,AP CALCULUS,52,791,B-,82,2.7,true,C-,72,1.7,true,2021-2022
+10788,Graduate,2022,Male,Hispanic/Latino,English,08/12/2003,English IV,ENG lV,55,801,A,99,4,true,A,93,4,true,2021-2022
+10788,Graduate,2022,Male,Hispanic/Latino,English,08/12/2003,Senior Experience,SR EXP,62,857,A,94.08,4,true,A,97.27,4,true,2021-2022
+10788,Graduate,2022,Male,Hispanic/Latino,English,08/12/2003,Advanced Industrial Arts,ADV IND ART,75,890,A,100,4,true,A,94,4,true,2021-2022
+10793,Graduate,2022,Male,Non-Hispanic/Latino,English,03/02/2003,Civics,SR SS,90,844,,0,0,false,A,98,4,true,2021-2022
+10793,Graduate,2022,Male,Non-Hispanic/Latino,English,03/02/2003,U. S. Government,US GVT,90,879,A,98,4,true,,0,0,false,2021-2022
+10793,Graduate,2022,Male,Non-Hispanic/Latino,English,03/02/2003,Bible IV,BIB lV,53,788,A,100,4,true,A,100,4,true,2021-2022
+10793,Graduate,2022,Male,Non-Hispanic/Latino,English,03/02/2003,AP Calculus,AP CALCULUS,52,791,A,96,4,true,A-,92,3.7,true,2021-2022
+10793,Graduate,2022,Male,Non-Hispanic/Latino,English,03/02/2003,AP English Language,AP ENG LANG,59,845,A,96.5,5,true,A,96.4,5,true,2021-2022
+10793,Graduate,2022,Male,Non-Hispanic/Latino,English,03/02/2003,Senior Experience,SR EXP,62,888,A,97.93,4,true,A,98.18,4,true,2021-2022
+10793,Graduate,2022,Male,Non-Hispanic/Latino,English,03/02/2003,Advanced Industrial Arts,ADV IND ART,75,890,A,94.9,4,true,A,98,4,true,2021-2022
+10794,Graduate,2022,Male,Hispanic/Latino,Spanish,06/03/2004,U. S. Government,US GVT,90,879,A,98,4,true,,0,0,false,2021-2022
+10794,Graduate,2022,Male,Hispanic/Latino,Spanish,06/03/2004,Bible IV,BIB lV,53,788,A,100,4,true,A,100,4,true,2021-2022
+10794,Graduate,2022,Male,Hispanic/Latino,Spanish,06/03/2004,Physics,PHYSICS,52,816,B,85,3,true,B,86,3,true,2021-2022
+10794,Graduate,2022,Male,Hispanic/Latino,Spanish,06/03/2004,AP English Language,AP ENG LANG,59,845,A,97.2,5,true,A,96.7,5,true,2021-2022
+10794,Graduate,2022,Male,Hispanic/Latino,Spanish,06/03/2004,Woodworking,WD WRK,75,885,A,93.9,4,true,A,100,4,true,2021-2022
+10794,Graduate,2022,Male,Hispanic/Latino,Spanish,06/03/2004,Senior Experience,SR EXP,62,888,A,97.36,4,true,A,100,4,true,2021-2022
+10799,Graduate,2022,Female,Non-Hispanic/Latino,English,02/25/2004,Civics,SR SS,90,844,,0,0,false,A,99,4,true,2021-2022
+10799,Graduate,2022,Female,Non-Hispanic/Latino,English,02/25/2004,U. S. Government,US GVT,90,879,A,96,4,true,,0,0,false,2021-2022
+10799,Graduate,2022,Female,Non-Hispanic/Latino,English,02/25/2004,Bible IV,BIB lV,53,788,A,100,4,true,A,100,4,true,2021-2022
+10799,Graduate,2022,Female,Non-Hispanic/Latino,English,02/25/2004,AP English Language,AP ENG LANG,59,845,A,98.1,5,true,A,98.3,5,true,2021-2022
+10799,Graduate,2022,Female,Non-Hispanic/Latino,English,02/25/2004,Senior Experience,SR EXP,62,888,A,99.43,4,true,A,100,4,true,2021-2022
+10799,Graduate,2022,Female,Non-Hispanic/Latino,English,02/25/2004,Anatomy and Physiology,A & P,44,848,A,96.9,4,true,A,95.3,4,true,2021-2022
+10802,Graduate,2022,Female,Hispanic/Latino,English,08/20/2004,Civics,SR SS,90,844,,0,0,false,A-,91,3.7,true,2021-2022
+10802,Graduate,2022,Female,Hispanic/Latino,English,08/20/2004,U. S. Government,US GVT,90,804,C,75,2,true,,0,0,false,2021-2022
+10802,Graduate,2022,Female,Hispanic/Latino,English,08/20/2004,Bible IV,BIB lV,53,874,A-,90,3.7,true,A,95.5,4,true,2021-2022
+10802,Graduate,2022,Female,Hispanic/Latino,English,08/20/2004,Algebra II,ALG ll,82,777,C,76,2,true,C,75,2,true,2021-2022
+10802,Graduate,2022,Female,Hispanic/Latino,English,08/20/2004,Intro to Photography,INT PHOTO,54,892,B-,80,2.7,true,A,97.9,4,true,2021-2022
+10802,Graduate,2022,Female,Hispanic/Latino,English,08/20/2004,English IV,ENG lV,55,801,A-,0,3.7,true,A-,92,3.7,true,2021-2022
+10802,Graduate,2022,Female,Hispanic/Latino,English,08/20/2004,Senior Experience,SR EXP,62,857,A-,90.75,3.7,true,A,100,4,true,2021-2022
+10806,Graduate,2022,Female,Non-Hispanic/Latino,English,09/28/2003,Civics,SR SS,90,844,,0,0,false,A,94,4,true,2021-2022
+10806,Graduate,2022,Female,Non-Hispanic/Latino,English,09/28/2003,U. S. Government,US GVT,90,804,A,95,4,true,,0,0,false,2021-2022
+10806,Graduate,2022,Female,Non-Hispanic/Latino,English,09/28/2003,Bible IV,BIB lV,53,788,A,100,4,true,A,100,4,true,2021-2022
+10806,Graduate,2022,Female,Non-Hispanic/Latino,English,09/28/2003,AP English Language,AP ENG LANG,59,845,A,96.8,5,true,A,94.4,5,true,2021-2022
+10806,Graduate,2022,Female,Non-Hispanic/Latino,English,09/28/2003,Senior Experience,SR EXP,62,857,A,97.85,4,true,A,100,4,true,2021-2022
+10806,Graduate,2022,Female,Non-Hispanic/Latino,English,09/28/2003,Anatomy and Physiology,A & P,44,848,B,84.3,3,true,A,93,4,true,2021-2022
+10814,Graduate,2022,Female,Non-Hispanic/Latino,English,08/31/2003,U. S. Government,US GVT,90,879,B,84,3,true,,0,0,false,2021-2022
+10814,Graduate,2022,Female,Non-Hispanic/Latino,English,08/31/2003,Bible IV,BIB lV,53,788,A-,90,3.7,true,A,100,4,true,2021-2022
+10814,Graduate,2022,Female,Non-Hispanic/Latino,English,08/31/2003,Physics,PHYSICS,52,816,B-,80,2.7,true,B,83,3,true,2021-2022
+10814,Graduate,2022,Female,Non-Hispanic/Latino,English,08/31/2003,Woodworking,WD WRK,75,885,A,97.6,4,true,A,96,4,true,2021-2022
+10814,Graduate,2022,Female,Non-Hispanic/Latino,English,08/31/2003,Senior Experience,SR EXP,62,888,A-,91.77,3.7,true,A,98.18,4,true,2021-2022
+10814,Graduate,2022,Female,Non-Hispanic/Latino,English,08/31/2003,AP English Language,AP ENG LANG,59,845,B,84.3,4,true,B,83.4,4,true,2021-2022
+10816,Graduate,2022,Male,,English,08/14/2003,Civics,SR SS,90,844,,0,0,false,C,75,2,true,2021-2022
+10816,Graduate,2022,Male,,English,08/14/2003,U. S. Government,US GVT,90,804,D,67,1,true,,0,0,false,2021-2022
+10816,Graduate,2022,Male,,English,08/14/2003,Physics,PHYSICS,52,816,C,73,2,true,C+,79,2.3,true,2021-2022
+10816,Graduate,2022,Male,,English,08/14/2003,Woodworking,WD WRK,75,885,A-,91.4,3.7,true,A,100,4,true,2021-2022
+10816,Graduate,2022,Male,,English,08/14/2003,English IV,ENG lV,55,801,D,67,1,true,A-,92,3.7,true,2021-2022
+10816,Graduate,2022,Male,,English,08/14/2003,Senior Experience,SR EXP,62,857,D,62.75,1,true,A,97.27,4,true,2021-2022
+10816,Graduate,2022,Male,,English,08/14/2003,Bible IV,BIB lV,53,874,C-,70,1.7,true,A-,91,3.7,true,2021-2022
+10819,Graduate,2022,Male,,English,10/07/2003,Civics,SR SS,90,844,,0,0,false,C,76,2,true,2021-2022
+10819,Graduate,2022,Male,,English,10/07/2003,U. S. Government,US GVT,90,804,B+,88,3.3,true,,0,0,false,2021-2022
+10819,Graduate,2022,Male,,English,10/07/2003,Bible IV,BIB lV,53,874,A,95,4,true,A,100,4,true,2021-2022
+10819,Graduate,2022,Male,,English,10/07/2003,Physics,PHYSICS,52,816,B-,80,2.7,true,B,85,3,true,2021-2022
+10819,Graduate,2022,Male,,English,10/07/2003,Woodworking,WD WRK,75,885,A,95.9,4,true,A,100,4,true,2021-2022
+10819,Graduate,2022,Male,,English,10/07/2003,English IV,ENG lV,55,801,A-,92,3.7,true,B,86,3,true,2021-2022
+10819,Graduate,2022,Male,,English,10/07/2003,Film Production,FLM PROD,51,886,A,96.1,4,true,A,96,4,true,2021-2022
+10819,Graduate,2022,Male,,English,10/07/2003,Senior Experience,SR EXP,62,857,B-,80.42,2.7,true,A,97.27,4,true,2021-2022
+10830,Graduate,2022,Male,,English,09/01/2003,Civics,SR SS,90,844,,0,0,false,A,99,4,true,2021-2022
+10830,Graduate,2022,Male,,English,09/01/2003,U. S. Government,US GVT,90,804,A,93,4,true,,0,0,false,2021-2022
+10830,Graduate,2022,Male,,English,09/01/2003,Climbing,CLIMBING,53,881,A,93,4,true,A,100,4,true,2021-2022
+10830,Graduate,2022,Male,,English,09/01/2003,Physics,PHYSICS,52,816,A-,90,3.7,true,A,95,4,true,2021-2022
+10830,Graduate,2022,Male,,English,09/01/2003,Woodworking,WD WRK,75,885,A,0,4,true,A,96,4,true,2021-2022
+10830,Graduate,2022,Male,,English,09/01/2003,English IV,ENG lV,55,801,A,97,4,true,A,99,4,true,2021-2022
+10830,Graduate,2022,Male,,English,09/01/2003,Weight Training,WT TRNG,95,916,,0,0,false,A,100,4,true,2021-2022
+10830,Graduate,2022,Male,,English,09/01/2003,Senior Experience,SR EXP,62,857,A,94.85,4,true,A,99.09,4,true,2021-2022
+10830,Graduate,2022,Male,,English,09/01/2003,Bible IV,BIB lV,53,874,A,95,4,true,A,100,4,true,2021-2022
+10836,Graduate,2022,Male,Non-Hispanic/Latino,English,01/15/2003,Civics,SR SS,90,844,,0,0,false,B,84,3,true,2021-2022
+10836,Graduate,2022,Male,Non-Hispanic/Latino,English,01/15/2003,U. S. Government,US GVT,90,879,B,86,3,true,,0,0,false,2021-2022
+10836,Graduate,2022,Male,Non-Hispanic/Latino,English,01/15/2003,Bible IV,BIB lV,53,874,A,95,4,true,A,100,4,true,2021-2022
+10836,Graduate,2022,Male,Non-Hispanic/Latino,English,01/15/2003,Anatomy and Physiology,A & P,44,848,C-,70,1.7,true,C-,72.4,1.7,true,2021-2022
+10836,Graduate,2022,Male,Non-Hispanic/Latino,English,01/15/2003,Advanced Industrial Arts,ADV IND ART,75,890,A,94,4,true,A,100,4,true,2021-2022
+10836,Graduate,2022,Male,Non-Hispanic/Latino,English,01/15/2003,English IV,ENG lV,55,801,B,85,3,true,B-,82,2.7,true,2021-2022
+10836,Graduate,2022,Male,Non-Hispanic/Latino,English,01/15/2003,Senior Experience,SR EXP,62,888,A,0,4,true,B-,80.91,2.7,true,2021-2022
+10846,Graduate,2022,Female,Hispanic/Latino,Spanish,05/12/2004,Civics,SR SS,90,844,,0,0,false,B-,80,2.7,true,2021-2022
+10846,Graduate,2022,Female,Hispanic/Latino,Spanish,05/12/2004,U. S. Government,US GVT,90,804,D,61,1,true,,0,0,false,2021-2022
+10846,Graduate,2022,Female,Hispanic/Latino,Spanish,05/12/2004,Bible IV,BIB lV,53,874,A,100,4,true,A,95.5,4,true,2021-2022
+10846,Graduate,2022,Female,Hispanic/Latino,Spanish,05/12/2004,Anatomy and Physiology,A & P,44,848,D,61.3,1,true,D+,68.2,1.3,true,2021-2022
+10846,Graduate,2022,Female,Hispanic/Latino,Spanish,05/12/2004,English IV,ENG lV,55,801,A,97,4,true,B,83,3,true,2021-2022
+10846,Graduate,2022,Female,Hispanic/Latino,Spanish,05/12/2004,Art,ART,62,780,A-,90,3.7,true,B-,81.97,2.7,true,2021-2022
+10846,Graduate,2022,Female,Hispanic/Latino,Spanish,05/12/2004,Senior Experience,SR EXP,62,857,C,0,2,true,A,98.18,4,true,2021-2022
+10846,Graduate,2022,Female,Hispanic/Latino,Spanish,05/12/2004,Algebra II,ALG ll,82,777,A-,92,3.7,true,,0,0,false,2021-2022
+10850,Graduate,2022,Female,,English,08/24/2004,Civics,SR SS,90,844,,0,0,false,A,94,4,true,2021-2022
+10850,Graduate,2022,Female,,English,08/24/2004,U. S. Government,US GVT,90,804,A,98,4,true,,0,0,false,2021-2022
+10850,Graduate,2022,Female,,English,08/24/2004,Bible IV,BIB lV,53,788,A,100,4,true,A,100,4,true,2021-2022
+10850,Graduate,2022,Female,,English,08/24/2004,Pre-Calculus,PRECAL,52,817,A-,91,3.7,true,B-,81,2.7,true,2021-2022
+10850,Graduate,2022,Female,,English,08/24/2004,AP English Language,AP ENG LANG,59,845,A,97.7,5,true,A,96.4,5,true,2021-2022
+10850,Graduate,2022,Female,,English,08/24/2004,Art,ART,62,780,A,100,4,true,,0,0,false,2021-2022
+10850,Graduate,2022,Female,,English,08/24/2004,Senior Experience,SR EXP,62,857,A,96.54,4,true,A,100,4,true,2021-2022
+10850,Graduate,2022,Female,,English,08/24/2004,Anatomy and Physiology,A & P,44,848,A,93.3,4,true,B-,81,2.7,true,2021-2022
+10852,Graduate,2022,Male,Hispanic/Latino,Spanish,07/27/2004,Civics,SR SS,90,844,,0,0,false,A,96,4,true,2021-2022
+10852,Graduate,2022,Male,Hispanic/Latino,Spanish,07/27/2004,U. S. Government,US GVT,90,879,C+,79,2.3,true,,0,0,false,2021-2022
+10852,Graduate,2022,Male,Hispanic/Latino,Spanish,07/27/2004,Bible IV,BIB lV,53,874,B-,80,2.7,true,A,100,4,true,2021-2022
+10852,Graduate,2022,Male,Hispanic/Latino,Spanish,07/27/2004,Anatomy and Physiology,A & P,44,848,B-,0,2.7,true,B-,82.8,2.7,true,2021-2022
+10852,Graduate,2022,Male,Hispanic/Latino,Spanish,07/27/2004,Algebra II,ALG ll,82,777,D,60,1,true,D,63,1,true,2021-2022
+10852,Graduate,2022,Male,Hispanic/Latino,Spanish,07/27/2004,English IV,ENG lV,55,801,A,94,4,true,A-,90,3.7,true,2021-2022
+10852,Graduate,2022,Male,Hispanic/Latino,Spanish,07/27/2004,Senior Experience,SR EXP,62,888,C,0,2,true,A-,91,3.7,true,2021-2022
+10858,Graduate,2022,Female,Hispanic/Latino,Spanish,04/26/2004,Civics,SR SS,90,844,,0,0,false,D,61,1,true,2021-2022
+10858,Graduate,2022,Female,Hispanic/Latino,Spanish,04/26/2004,U. S. Government,US GVT,90,804,B,84,3,true,,0,0,false,2021-2022
+10858,Graduate,2022,Female,Hispanic/Latino,Spanish,04/26/2004,Bible IV,BIB lV,53,874,A-,90,3.7,true,A,95.5,4,true,2021-2022
+10858,Graduate,2022,Female,Hispanic/Latino,Spanish,04/26/2004,English IV,ENG lV,55,801,A,95,4,true,A,96,4,true,2021-2022
+10858,Graduate,2022,Female,Hispanic/Latino,Spanish,04/26/2004,Art,ART,62,780,A,99,4,true,D,61.76,1,true,2021-2022
+10858,Graduate,2022,Female,Hispanic/Latino,Spanish,04/26/2004,Senior Experience,SR EXP,62,857,A-,91.75,3.7,true,B-,81.82,2.7,true,2021-2022
+10858,Graduate,2022,Female,Hispanic/Latino,Spanish,04/26/2004,Anatomy and Physiology,A & P,44,848,D,67.3,1,true,C,75.5,2,true,2021-2022
+10867,Graduate,2022,Female,Hispanic/Latino,English,08/17/2003,Civics,SR SS,90,844,,0,0,false,B-,82,2.7,true,2021-2022
+10867,Graduate,2022,Female,Hispanic/Latino,English,08/17/2003,U. S. Government,US GVT,90,879,C,74,2,true,,0,0,false,2021-2022
+10867,Graduate,2022,Female,Hispanic/Latino,English,08/17/2003,Bible IV,BIB lV,53,874,A-,90,3.7,true,A,100,4,true,2021-2022
+10867,Graduate,2022,Female,Hispanic/Latino,English,08/17/2003,English IV,ENG lV,55,801,C,74,2,true,C+,78,2.3,true,2021-2022
+10867,Graduate,2022,Female,Hispanic/Latino,English,08/17/2003,Senior Experience,SR EXP,62,888,B-,80.91,2.7,true,A-,90.59,3.7,true,2021-2022
+10867,Graduate,2022,Female,Hispanic/Latino,English,08/17/2003,Anatomy and Physiology,A & P,44,848,C-,0,1.7,true,C-,0,1.7,true,2021-2022
+10880,Graduate,2022,Male,Non-Hispanic/Latino,English,08/07/2004,Civics,SR SS,90,844,,0,0,false,B,85,3,true,2021-2022
+10880,Graduate,2022,Male,Non-Hispanic/Latino,English,08/07/2004,U. S. Government,US GVT,90,879,C-,72,1.7,true,,0,0,false,2021-2022
+10880,Graduate,2022,Male,Non-Hispanic/Latino,English,08/07/2004,Bible IV,BIB lV,53,874,A,100,4,true,A,100,4,true,2021-2022
+10880,Graduate,2022,Male,Non-Hispanic/Latino,English,08/07/2004,Physics,PHYSICS,52,816,B,83,3,true,B,86,3,true,2021-2022
+10880,Graduate,2022,Male,Non-Hispanic/Latino,English,08/07/2004,English IV,ENG lV,55,801,A,94,4,true,A,95,4,true,2021-2022
+10880,Graduate,2022,Male,Non-Hispanic/Latino,English,08/07/2004,Senior Experience,SR EXP,62,888,A-,91.79,3.7,true,A,98.18,4,true,2021-2022
+10888,Graduate,2022,Female,Non-Hispanic/Latino,English,06/10/2004,Civics,SR SS,90,844,,0,0,false,A-,92,3.7,true,2021-2022
+10888,Graduate,2022,Female,Non-Hispanic/Latino,English,06/10/2004,U. S. Government,US GVT,90,804,A-,0,3.7,true,,0,0,false,2021-2022
+10888,Graduate,2022,Female,Non-Hispanic/Latino,English,06/10/2004,Weight Training,WT TRNG,87,831,,0,0,false,A,100,4,true,2021-2022
+10888,Graduate,2022,Female,Non-Hispanic/Latino,English,06/10/2004,Bible IV,BIB lV,53,874,A,0,4,true,A,100,4,true,2021-2022
+10888,Graduate,2022,Female,Non-Hispanic/Latino,English,06/10/2004,Climbing,CLIMBING,53,880,A,100,4,true,,0,0,false,2021-2022
+10888,Graduate,2022,Female,Non-Hispanic/Latino,English,06/10/2004,Anatomy and Physiology,A & P,44,848,B,86,3,true,A-,92.4,3.7,true,2021-2022
+10888,Graduate,2022,Female,Non-Hispanic/Latino,English,06/10/2004,Essential Living Skills,E LIV SKIL,75,894,,0,0,false,A,93,4,true,2021-2022
+10888,Graduate,2022,Female,Non-Hispanic/Latino,English,06/10/2004,English IV,ENG lV,55,801,A,0,4,true,B,87,3,true,2021-2022
+10888,Graduate,2022,Female,Non-Hispanic/Latino,English,06/10/2004,Art,ART,62,780,A-,90,3.7,true,,0,0,false,2021-2022
+10888,Graduate,2022,Female,Non-Hispanic/Latino,English,06/10/2004,Senior Experience,SR EXP,62,857,B+,0,3.3,true,A-,90,3.7,true,2021-2022
+10931,Enrolled,2023,Female,Hispanic/Latino,English,08/14/2005,Algebra II,ALG ll,52,776,C+,79,2.3,true,B,84,3,true,2021-2022
+10931,Enrolled,2023,Female,Hispanic/Latino,English,08/14/2005,Bible III,BIB lll,9,787,D,67.2,1,true,A,96.7,4,true,2021-2022
+10931,Enrolled,2023,Female,Hispanic/Latino,English,08/14/2005,English III,ENG lll,89,800,B,85.7,3,true,A,0,4,true,2021-2022
+10931,Enrolled,2023,Female,Hispanic/Latino,English,08/14/2005,U. S. History,US HIS,94,828,D,64,1,true,A-,0,3.7,true,2021-2022
+10931,Enrolled,2023,Female,Hispanic/Latino,English,08/14/2005,Art,ART,62,780,D,61,1,true,A,93.83,4,true,2021-2022
+10941,Enrolled,2023,Male,Non-Hispanic/Latino,English,10/11/2004,Bible III,BIB lll,9,787,B,84.4,3,true,C-,70,1.7,true,2021-2022
+10941,Enrolled,2023,Male,Non-Hispanic/Latino,English,10/11/2004,Graphic Design,GRAPHIC DES,54,850,B-,82.5,2.7,true,C,73.3,2,true,2021-2022
+10941,Enrolled,2023,Male,Non-Hispanic/Latino,English,10/11/2004,English III,ENG lll,89,800,C-,72.3,1.7,true,B-,82,2.7,true,2021-2022
+10941,Enrolled,2023,Male,Non-Hispanic/Latino,English,10/11/2004,Spanish II,SPAN ll,89,876,D,61.4,1,true,B,86,3,true,2021-2022
+10941,Enrolled,2023,Male,Non-Hispanic/Latino,English,10/11/2004,Weight Training,WT TRNG,95,916,,0,0,false,C,73.9,2,true,2021-2022
+10941,Enrolled,2023,Male,Non-Hispanic/Latino,English,10/11/2004,U. S. History,US HIS,94,828,B-,82,2.7,true,D,0,1,true,2021-2022
+10947,Enrolled,2023,Male,Non-Hispanic/Latino,English,08/27/2004,Algebra II,ALG ll,52,872,B,85,3,true,B-,82,2.7,true,2021-2022
+10947,Enrolled,2023,Male,Non-Hispanic/Latino,English,08/27/2004,Climbing,CLIMBING,53,881,A,100,4,true,A,100,4,true,2021-2022
+10947,Enrolled,2023,Male,Non-Hispanic/Latino,English,08/27/2004,Chemistry,CHEM,44,792,B-,0,2.7,true,,,,,2021-2022
+10947,Enrolled,2023,Male,Non-Hispanic/Latino,English,08/27/2004,Intro to Photography,INT PHOTO,54,892,A,94.2,4,true,A,96.3,4,true,2021-2022
+10947,Enrolled,2023,Male,Non-Hispanic/Latino,English,08/27/2004,Bible III,BIB lll,9,787,A,100,4,true,A,100,4,true,2021-2022
+10947,Enrolled,2023,Male,Non-Hispanic/Latino,English,08/27/2004,English III,ENG lll,89,800,A,95.9,4,true,A,95,4,true,2021-2022
+10947,Enrolled,2023,Male,Non-Hispanic/Latino,English,08/27/2004,Spanish II,SPAN ll,89,876,A-,91.2,3.7,true,A,94,4,true,2021-2022
+10947,Enrolled,2023,Male,Non-Hispanic/Latino,English,08/27/2004,U. S. History,US HIS,94,828,A,0,4,true,A-,0,3.7,true,2021-2022
+10950,Enrolled,2023,Male,,English,06/20/2005,Chemistry,CHEM,44,792,C,73.5,2,true,D,65.9,1,true,2021-2022
+10950,Enrolled,2023,Male,,English,06/20/2005,Photography,PHOTO,54,813,B,84.7,3,true,A,94.3,4,true,2021-2022
+10950,Enrolled,2023,Male,,English,06/20/2005,AP English Literature,AP ENG LIT,59,778,C-,72.8,1.7,true,C+,79.5,2.3,true,2021-2022
+10950,Enrolled,2023,Male,,English,06/20/2005,Bible III,BIB lll,9,786,A,98.3,4,true,C,73.8,2,true,2021-2022
+10950,Enrolled,2023,Male,,English,06/20/2005,Spanish II,SPAN ll,89,876,B,84,3,true,C,0,2,true,2021-2022
+10950,Enrolled,2023,Male,,English,06/20/2005,U. S. History,US HIS,94,828,A,93,4,true,D+,0,1.3,true,2021-2022
+10950,Enrolled,2023,Male,,English,06/20/2005,Algebra II,ALG ll,52,872,A-,91,3.7,true,A,94,4,true,2021-2022
+10953,Enrolled,2023,Female,Hispanic/Latino,English,12/28/2004,Chemistry,CHEM,44,792,B+,0,3.3,true,B-,82,2.7,true,2021-2022
+10953,Enrolled,2023,Female,Hispanic/Latino,English,12/28/2004,Algebra II,ALG ll,52,872,B,86,3,true,B-,81,2.7,true,2021-2022
+10953,Enrolled,2023,Female,Hispanic/Latino,English,12/28/2004,Photography,PHOTO,54,813,A,98.4,4,true,A,98.6,4,true,2021-2022
+10953,Enrolled,2023,Female,Hispanic/Latino,English,12/28/2004,AP English Literature,AP ENG LIT,59,778,B,85.4,4,true,B-,81.9,3.7,true,2021-2022
+10953,Enrolled,2023,Female,Hispanic/Latino,English,12/28/2004,Bible III,BIB lll,9,786,A,100,4,true,A,100,4,true,2021-2022
+10953,Enrolled,2023,Female,Hispanic/Latino,English,12/28/2004,Spanish II,SPAN ll,89,876,A,98.2,4,true,A,100,4,true,2021-2022
+10953,Enrolled,2023,Female,Hispanic/Latino,English,12/28/2004,U. S. History,US HIS,94,828,A,93,4,true,A-,0,3.7,true,2021-2022
+10957,Enrolled,2023,Female,Non-Hispanic/Latino,English,05/09/2005,Weight Training,WT TRNG,87,831,,0,0,false,A,95.65,4,true,2021-2022
+10957,Enrolled,2023,Female,Non-Hispanic/Latino,English,05/09/2005,AP Human Geography,AP HUM G,82,779,A,94,5,true,A,94.1,5,true,2021-2022
+10957,Enrolled,2023,Female,Non-Hispanic/Latino,English,05/09/2005,Intro to Photography,INT PHOTO,54,892,A,99.3,4,true,A,97.9,4,true,2021-2022
+10957,Enrolled,2023,Female,Non-Hispanic/Latino,English,05/09/2005,AP English Literature,AP ENG LIT,59,778,A,93,5,true,A-,90,4.7,true,2021-2022
+10957,Enrolled,2023,Female,Non-Hispanic/Latino,English,05/09/2005,Bible III,BIB lll,9,786,A,100,4,true,A,99.2,4,true,2021-2022
+10957,Enrolled,2023,Female,Non-Hispanic/Latino,English,05/09/2005,Spanish II,SPAN ll,89,876,A,93.6,4,true,A,99,4,true,2021-2022
+10957,Enrolled,2023,Female,Non-Hispanic/Latino,English,05/09/2005,U. S. History,US HIS,94,828,A,97,4,true,A,0,4,true,2021-2022
+10957,Enrolled,2023,Female,Non-Hispanic/Latino,English,05/09/2005,Algebra II,ALG ll,52,872,A,95,4,true,A,95,4,true,2021-2022
+10960,Graduate,2022,Male,Non-Hispanic/Latino,English,12/05/2003,Civics,SR SS,90,844,,0,0,false,B,85,3,true,2021-2022
+10960,Graduate,2022,Male,Non-Hispanic/Latino,English,12/05/2003,U. S. Government,US GVT,90,879,B,83,3,true,,0,0,false,2021-2022
+10960,Graduate,2022,Male,Non-Hispanic/Latino,English,12/05/2003,Bible IV,BIB lV,53,874,A,100,4,true,A,100,4,true,2021-2022
+10960,Graduate,2022,Male,Non-Hispanic/Latino,English,12/05/2003,Physics,PHYSICS,52,816,A,95,4,true,A,93,4,true,2021-2022
+10960,Graduate,2022,Male,Non-Hispanic/Latino,English,12/05/2003,English IV,ENG lV,55,801,A,99,4,true,A,96,4,true,2021-2022
+10960,Graduate,2022,Male,Non-Hispanic/Latino,English,12/05/2003,Film Production,FLM PROD,51,886,A,97.4,4,true,A,98,4,true,2021-2022
+10960,Graduate,2022,Male,Non-Hispanic/Latino,English,12/05/2003,Senior Experience,SR EXP,62,888,A-,92.07,3.7,true,B-,81.82,2.7,true,2021-2022
+10960,Graduate,2022,Male,Non-Hispanic/Latino,English,12/05/2003,AP Calculus,AP CALCULUS,52,791,B,86,3,true,C+,79,2.3,true,2021-2022
+10963,Enrolled,2023,Female,Non-Hispanic/Latino,English,04/12/2006,Chemistry,CHEM,44,792,C+,78.2,2.3,true,B,87.2,3,true,2021-2022
+10963,Enrolled,2023,Female,Non-Hispanic/Latino,English,04/12/2006,Algebra II,ALG ll,52,776,A-,91,3.7,true,A-,90,3.7,true,2021-2022
+10963,Enrolled,2023,Female,Non-Hispanic/Latino,English,04/12/2006,Advanced Graphic Design,ADV GRAPHIC DES,54,868,B,86,3,true,A,95,4,true,2021-2022
+10963,Enrolled,2023,Female,Non-Hispanic/Latino,English,04/12/2006,AP English Literature,AP ENG LIT,59,778,C+,78.8,2.3,true,B,84,4,true,2021-2022
+10963,Enrolled,2023,Female,Non-Hispanic/Latino,English,04/12/2006,Bible III,BIB lll,9,786,A,98.7,4,true,A,98.3,4,true,2021-2022
+10963,Enrolled,2023,Female,Non-Hispanic/Latino,English,04/12/2006,U. S. History,US HIS,94,828,B,0,3,true,A,0,4,true,2021-2022
+10966,Graduate,2022,Female,Non-Hispanic/Latino,English,05/03/2005,Civics,SR SS,90,844,,0,0,false,A-,92,3.7,true,2021-2022
+10966,Graduate,2022,Female,Non-Hispanic/Latino,English,05/03/2005,U. S. Government,US GVT,90,879,B-,81,2.7,true,,0,0,false,2021-2022
+10966,Graduate,2022,Female,Non-Hispanic/Latino,English,05/03/2005,Bible IV,BIB lV,53,788,A,100,4,true,A,100,4,true,2021-2022
+10966,Graduate,2022,Female,Non-Hispanic/Latino,English,05/03/2005,Anatomy and Physiology,A & P,44,848,D,67,1,true,B,83.1,3,true,2021-2022
+10966,Graduate,2022,Female,Non-Hispanic/Latino,English,05/03/2005,AP English Language,AP ENG LANG,59,845,B,84.3,4,true,B-,81.5,3.7,true,2021-2022
+10966,Graduate,2022,Female,Non-Hispanic/Latino,English,05/03/2005,Art,ART,62,780,A,99,4,true,A,96.72,4,true,2021-2022
+10966,Graduate,2022,Female,Non-Hispanic/Latino,English,05/03/2005,Senior Experience,SR EXP,62,888,A,95.36,4,true,A-,90,3.7,true,2021-2022
+10969,Enrolled,2023,Male,Hispanic/Latino,Spanish,11/05/2004,Weight Training,WT TRNG,87,831,A,100,4,true,A,100,4,true,2021-2022
+10969,Enrolled,2023,Male,Hispanic/Latino,Spanish,11/05/2004,Chemistry,CHEM,44,792,B,84,3,true,B+,88,3.3,true,2021-2022
+10969,Enrolled,2023,Male,Hispanic/Latino,Spanish,11/05/2004,Algebra II,ALG ll,52,776,A,96,4,true,A,93,4,true,2021-2022
+10969,Enrolled,2023,Male,Hispanic/Latino,Spanish,11/05/2004,AP English Literature,AP ENG LIT,59,778,A-,92.2,4.7,true,A-,90.8,4.7,true,2021-2022
+10969,Enrolled,2023,Male,Hispanic/Latino,Spanish,11/05/2004,Bible III,BIB lll,9,786,A,93.3,4,true,A,99,4,true,2021-2022
+10969,Enrolled,2023,Male,Hispanic/Latino,Spanish,11/05/2004,Film Production,FLM PROD,51,886,A,96.1,4,true,A,98,4,true,2021-2022
+10969,Enrolled,2023,Male,Hispanic/Latino,Spanish,11/05/2004,U. S. History,US HIS,94,828,A,96,4,true,A,0,4,true,2021-2022
+10969,Enrolled,2023,Male,Hispanic/Latino,Spanish,11/05/2004,Advanced Graphic Design,ADV GRAPHIC DES,54,868,A,94.8,4,true,A,95,4,true,2021-2022
+10972,Enrolled,2023,Female,,English,06/26/2005,Chemistry,CHEM,44,792,A,93.7,4,true,A-,92.2,3.7,true,2021-2022
+10972,Enrolled,2023,Female,,English,06/26/2005,Algebra II,ALG ll,52,872,A,97,4,true,A,93,4,true,2021-2022
+10972,Enrolled,2023,Female,,English,06/26/2005,AP English Literature,AP ENG LIT,59,778,A,94.6,5,true,A,94,5,true,2021-2022
+10972,Enrolled,2023,Female,,English,06/26/2005,Bible III,BIB lll,9,786,A,94.3,4,true,A,95,4,true,2021-2022
+10972,Enrolled,2023,Female,,English,06/26/2005,Spanish II,SPAN ll,89,876,A,95.2,4,true,A,96,4,true,2021-2022
+10972,Enrolled,2023,Female,,English,06/26/2005,Film Production,FLM PROD,51,886,A,98.7,4,true,A,98,4,true,2021-2022
+10972,Enrolled,2023,Female,,English,06/26/2005,Weight Training,WT TRNG,95,916,,0,0,false,A,100,4,true,2021-2022
+10972,Enrolled,2023,Female,,English,06/26/2005,U. S. History,US HIS,94,828,A,98,4,true,A,0,4,true,2021-2022
+10974,Enrolled,2023,Female,Non-Hispanic/Latino,English,01/24/2005,Climbing,CLIMBING,53,880,A,100,4,true,A,100,4,true,2021-2022
+10974,Enrolled,2023,Female,Non-Hispanic/Latino,English,01/24/2005,Chemistry,CHEM,44,792,A,94.9,4,true,A,0,4,true,2021-2022
+10974,Enrolled,2023,Female,Non-Hispanic/Latino,English,01/24/2005,Pre-Calculus,PRECAL,52,817,A,94,4,true,A,93,4,true,2021-2022
+10974,Enrolled,2023,Female,Non-Hispanic/Latino,English,01/24/2005,Bible III,BIB lll,9,786,A,100,4,true,A,98.1,4,true,2021-2022
+10974,Enrolled,2023,Female,Non-Hispanic/Latino,English,01/24/2005,Spanish II,SPAN ll,89,876,A,97.6,4,true,A,99,4,true,2021-2022
+10974,Enrolled,2023,Female,Non-Hispanic/Latino,English,01/24/2005,Industrial Arts,INDUST ARTS,75,866,A,100,4,true,A,97,4,true,2021-2022
+10974,Enrolled,2023,Female,Non-Hispanic/Latino,English,01/24/2005,U. S. History,US HIS,94,828,A,97,4,true,A,0,4,true,2021-2022
+10974,Enrolled,2023,Female,Non-Hispanic/Latino,English,01/24/2005,AP English Literature,AP ENG LIT,59,778,A,94.8,5,true,A,94.9,5,true,2021-2022
+10979,Enrolled,2023,Male,Non-Hispanic/Latino,English,05/12/2005,Chemistry,CHEM,44,792,A,93,4,true,A,94.3,4,true,2021-2022
+10979,Enrolled,2023,Male,Non-Hispanic/Latino,English,05/12/2005,Pre-Calculus,PRECAL,52,817,A,99,4,true,A,100,4,true,2021-2022
+10979,Enrolled,2023,Male,Non-Hispanic/Latino,English,05/12/2005,Graphic Design,GRAPHIC DES,54,850,A,100,4,true,A,100,4,true,2021-2022
+10979,Enrolled,2023,Male,Non-Hispanic/Latino,English,05/12/2005,Intro to Photography,INT PHOTO,54,892,A,100,4,true,A,100,4,true,2021-2022
+10979,Enrolled,2023,Male,Non-Hispanic/Latino,English,05/12/2005,AP English Literature,AP ENG LIT,59,778,A,98.1,5,true,A,99.6,5,true,2021-2022
+10979,Enrolled,2023,Male,Non-Hispanic/Latino,English,05/12/2005,Bible III,BIB lll,9,786,A,100,4,true,A,98.8,4,true,2021-2022
+10979,Enrolled,2023,Male,Non-Hispanic/Latino,English,05/12/2005,Spanish II,SPAN ll,89,876,A,97.2,4,true,A,100,4,true,2021-2022
+10979,Enrolled,2023,Male,Non-Hispanic/Latino,English,05/12/2005,U. S. History,US HIS,94,828,A,100,4,true,A,0,4,true,2021-2022
+10981,Enrolled,2023,Male,Non-Hispanic/Latino,English,05/27/2005,Algebra II,ALG ll,52,872,A-,91,3.7,true,B-,82,2.7,true,2021-2022
+10981,Enrolled,2023,Male,Non-Hispanic/Latino,English,05/27/2005,Weight Training,WT TRNG,87,831,,0,0,false,A,100,4,true,2021-2022
+10981,Enrolled,2023,Male,Non-Hispanic/Latino,English,05/27/2005,AP Human Geography,AP HUM G,82,779,D,60.8,1,true,D,60.8,1,true,2021-2022
+10981,Enrolled,2023,Male,Non-Hispanic/Latino,English,05/27/2005,Photography,PHOTO,54,813,D,65.6,1,true,,0,0,false,2021-2022
+10981,Enrolled,2023,Male,Non-Hispanic/Latino,English,05/27/2005,Bible III,BIB lll,9,787,A,95,4,true,B,84.9,3,true,2021-2022
+10981,Enrolled,2023,Male,Non-Hispanic/Latino,English,05/27/2005,English III,ENG lll,89,800,C-,71.8,1.7,true,A-,92,3.7,true,2021-2022
+10981,Enrolled,2023,Male,Non-Hispanic/Latino,English,05/27/2005,Spanish II,SPAN ll,89,876,C-,72,1.7,true,A,98,4,true,2021-2022
+10981,Enrolled,2023,Male,Non-Hispanic/Latino,English,05/27/2005,U. S. History,US HIS,94,828,B,87,3,true,C,0,2,true,2021-2022
+10984,Enrolled,2023,Male,Asian/Pacific Island,English,08/30/2004,Algebra II,ALG ll,52,872,C,74,2,true,C,77,2,true,2021-2022
+10984,Enrolled,2023,Male,Asian/Pacific Island,English,08/30/2004,Bible III,BIB lll,9,787,D,62.8,1,true,B+,88.4,3.3,true,2021-2022
+10984,Enrolled,2023,Male,Asian/Pacific Island,English,08/30/2004,English III,ENG lll,89,800,C,75.6,2,true,D,65,1,true,2021-2022
+10984,Enrolled,2023,Male,Asian/Pacific Island,English,08/30/2004,Spanish II,SPAN ll,89,876,D,0,1,true,B+,89,3.3,true,2021-2022
+10984,Enrolled,2023,Male,Asian/Pacific Island,English,08/30/2004,U. S. History,US HIS,94,828,D,62,1,true,D,0,1,true,2021-2022
+10985,Enrolled,2023,Male,Hispanic/Latino,Spanish,01/15/2005,Climbing,CLIMBING,53,880,A,100,4,true,A,100,4,true,2021-2022
+10985,Enrolled,2023,Male,Hispanic/Latino,Spanish,01/15/2005,Chemistry,CHEM,44,792,B+,88.7,3.3,true,B,0,3,true,2021-2022
+10985,Enrolled,2023,Male,Hispanic/Latino,Spanish,01/15/2005,Algebra II,ALG ll,52,776,A,99,4,true,A,98,4,true,2021-2022
+10985,Enrolled,2023,Male,Hispanic/Latino,Spanish,01/15/2005,Photography,PHOTO,54,813,A,97.3,4,true,A,94.8,4,true,2021-2022
+10985,Enrolled,2023,Male,Hispanic/Latino,Spanish,01/15/2005,AP English Literature,AP ENG LIT,59,778,A,94.6,5,true,A,93.6,5,true,2021-2022
+10985,Enrolled,2023,Male,Hispanic/Latino,Spanish,01/15/2005,Bible III,BIB lll,9,786,A,98.3,4,true,A,98.3,4,true,2021-2022
+10985,Enrolled,2023,Male,Hispanic/Latino,Spanish,01/15/2005,U. S. History,US HIS,94,828,A,99,4,true,A,0,4,true,2021-2022
+10985,Enrolled,2023,Male,Hispanic/Latino,Spanish,01/15/2005,Advanced Graphic Design,ADV GRAPHIC DES,54,868,A,96.4,4,true,A,100,4,true,2021-2022
+10988,Graduate,2022,Female,Asian/Pacific Island,Vietnamese,01/01/2004,Bible II,BIB ll,90,785,A,95,4,true,,0,0,false,2021-2022
+10988,Graduate,2022,Female,Asian/Pacific Island,Vietnamese,01/01/2004,U. S. Government,US GVT,90,879,A,93,4,true,,0,0,false,2021-2022
+10988,Graduate,2022,Female,Asian/Pacific Island,Vietnamese,01/01/2004,Bible IV,BIB lV,53,874,A,95,4,true,A,100,4,true,2021-2022
+10988,Graduate,2022,Female,Asian/Pacific Island,Vietnamese,01/01/2004,English IV,ENG lV,55,801,A-,92,3.7,true,A,97,4,true,2021-2022
+10988,Graduate,2022,Female,Asian/Pacific Island,Vietnamese,01/01/2004,Senior Experience,SR EXP,62,888,B-,81.5,2.7,true,A,100,4,true,2021-2022
+10988,Graduate,2022,Female,Asian/Pacific Island,Vietnamese,01/01/2004,Anatomy and Physiology,A & P,44,848,B,86,3,true,A-,90.9,3.7,true,2021-2022
+10993,Enrolled,2023,Male,Hispanic/Latino,English,03/19/2005,Weight Training,WT TRNG,87,831,A,100,4,true,A,100,4,true,2021-2022
+10993,Enrolled,2023,Male,Hispanic/Latino,English,03/19/2005,Chemistry,CHEM,44,792,B,87,3,true,B,85.9,3,true,2021-2022
+10993,Enrolled,2023,Male,Hispanic/Latino,English,03/19/2005,Intro to Photography,INT PHOTO,54,892,A,97.2,4,true,A,93.2,4,true,2021-2022
+10993,Enrolled,2023,Male,Hispanic/Latino,English,03/19/2005,Bible III,BIB lll,9,787,A,93.3,4,true,A,96.3,4,true,2021-2022
+10993,Enrolled,2023,Male,Hispanic/Latino,English,03/19/2005,English III,ENG lll,89,800,A-,92.3,3.7,true,B,87,3,true,2021-2022
+10993,Enrolled,2023,Male,Hispanic/Latino,English,03/19/2005,Spanish II,SPAN ll,89,820,A,93.4,4,true,A,100,4,true,2021-2022
+10993,Enrolled,2023,Male,Hispanic/Latino,English,03/19/2005,Film Production,FLM PROD,51,886,A,96.1,4,true,A,98,4,true,2021-2022
+10993,Enrolled,2023,Male,Hispanic/Latino,English,03/19/2005,U. S. History,US HIS,94,828,A-,92,3.7,true,B-,0,2.7,true,2021-2022
+10993,Enrolled,2023,Male,Hispanic/Latino,English,03/19/2005,Algebra II,ALG ll,52,776,A-,92,3.7,true,A,94,4,true,2021-2022
+11002,Enrolled,2023,Female,,English,10/17/2004,Chemistry,CHEM,44,792,A,94.2,4,true,A,94.5,4,true,2021-2022
+11002,Enrolled,2023,Female,,English,10/17/2004,Photography,PHOTO,54,813,A,98.3,4,true,A,99,4,true,2021-2022
+11002,Enrolled,2023,Female,,English,10/17/2004,AP English Literature,AP ENG LIT,59,778,A,98,5,true,A,96.1,5,true,2021-2022
+11002,Enrolled,2023,Female,,English,10/17/2004,Bible III,BIB lll,9,786,A,100,4,true,A,100,4,true,2021-2022
+11002,Enrolled,2023,Female,,English,10/17/2004,Spanish II,SPAN ll,89,820,A,95.6,4,true,A,100,4,true,2021-2022
+11002,Enrolled,2023,Female,,English,10/17/2004,U. S. History,US HIS,94,828,A,98,4,true,A,0,4,true,2021-2022
+11002,Enrolled,2023,Female,,English,10/17/2004,Algebra II,ALG ll,52,776,A,97,4,true,A,93,4,true,2021-2022
+11005,Enrolled,2023,Male,Non-Hispanic/Latino,English,02/24/2005,Bible III,BIB lll,9,787,A,93.7,4,true,A,100,4,true,2021-2022
+11005,Enrolled,2023,Male,Non-Hispanic/Latino,English,02/24/2005,Chemistry,CHEM,44,792,A,94.2,4,true,A,95.7,4,true,2021-2022
+11005,Enrolled,2023,Male,Non-Hispanic/Latino,English,02/24/2005,Pre-Calculus,PRECAL,52,817,A,95,4,true,A,95,4,true,2021-2022
+11005,Enrolled,2023,Male,Non-Hispanic/Latino,English,02/24/2005,Intro to Photography,INT PHOTO,54,892,A,96.3,4,true,A,97.4,4,true,2021-2022
+11005,Enrolled,2023,Male,Non-Hispanic/Latino,English,02/24/2005,English III,ENG lll,89,800,A,93.3,4,true,A,96,4,true,2021-2022
+11005,Enrolled,2023,Male,Non-Hispanic/Latino,English,02/24/2005,Spanish II,SPAN ll,89,876,A,94.8,4,true,A,100,4,true,2021-2022
+11005,Enrolled,2023,Male,Non-Hispanic/Latino,English,02/24/2005,U. S. History,US HIS,94,828,A,97,4,true,A,0,4,true,2021-2022
+11006,Withdrawn,2023,Male,Non-Hispanic/Latino,English,04/02/2004,Algebra II,ALG ll,52,776,C+,79,2.3,true,B-,80,2.7,true,2021-2022
+11006,Withdrawn,2023,Male,Non-Hispanic/Latino,English,04/02/2004,AP Human Geography,AP HUM G,82,779,B-,80.8,3.7,true,B,83.2,4,true,2021-2022
+11006,Withdrawn,2023,Male,Non-Hispanic/Latino,English,04/02/2004,Bible III,BIB lll,9,787,B,85.6,3,true,A,93.1,4,true,2021-2022
+11006,Withdrawn,2023,Male,Non-Hispanic/Latino,English,04/02/2004,English III,ENG lll,89,800,B,85,3,true,B+,88,3.3,true,2021-2022
+11006,Withdrawn,2023,Male,Non-Hispanic/Latino,English,04/02/2004,Spanish II,SPAN ll,89,820,B-,80,2.7,true,B-,82,2.7,true,2021-2022
+11006,Withdrawn,2023,Male,Non-Hispanic/Latino,English,04/02/2004,U. S. History,US HIS,94,828,A,93,4,true,B,0,3,true,2021-2022
+11009,Enrolled,2023,Male,Non-Hispanic/Latino,English,05/05/2005,AP Human Geography,AP HUM G,82,779,A,96.2,5,true,A,94,5,true,2021-2022
+11009,Enrolled,2023,Male,Non-Hispanic/Latino,English,05/05/2005,Algebra II,ALG ll,52,776,A,93,4,true,A,95,4,true,2021-2022
+11009,Enrolled,2023,Male,Non-Hispanic/Latino,English,05/05/2005,Intro to Photography,INT PHOTO,54,892,A,0,4,true,A,93.7,4,true,2021-2022
+11009,Enrolled,2023,Male,Non-Hispanic/Latino,English,05/05/2005,AP English Literature,AP ENG LIT,59,778,A,95.1,5,true,A,95.5,5,true,2021-2022
+11009,Enrolled,2023,Male,Non-Hispanic/Latino,English,05/05/2005,Bible III,BIB lll,9,786,A,98.3,4,true,A,100,4,true,2021-2022
+11009,Enrolled,2023,Male,Non-Hispanic/Latino,English,05/05/2005,Spanish II,SPAN ll,89,820,A,93,4,true,A,99,4,true,2021-2022
+11009,Enrolled,2023,Male,Non-Hispanic/Latino,English,05/05/2005,Film Production,FLM PROD,51,886,A,97.4,4,true,A,98,4,true,2021-2022
+11009,Enrolled,2023,Male,Non-Hispanic/Latino,English,05/05/2005,U. S. History,US HIS,94,828,A,98,4,true,A,0,4,true,2021-2022
+11011,Enrolled,2023,Female,Hispanic/Latino,English,02/03/2005,Climbing,CLIMBING,53,881,A,0,4,true,A,100,4,true,2021-2022
+11011,Enrolled,2023,Female,Hispanic/Latino,English,02/03/2005,Chemistry,CHEM,44,792,B-,0,2.7,true,,,,,2021-2022
+11011,Enrolled,2023,Female,Hispanic/Latino,English,02/03/2005,Intro to Photography,INT PHOTO,54,892,A-,92.7,3.7,true,A-,90,3.7,true,2021-2022
+11011,Enrolled,2023,Female,Hispanic/Latino,English,02/03/2005,Bible III,BIB lll,9,787,A,93.1,4,true,A,100,4,true,2021-2022
+11011,Enrolled,2023,Female,Hispanic/Latino,English,02/03/2005,English III,ENG lll,89,800,A,97.3,4,true,C,74,2,true,2021-2022
+11011,Enrolled,2023,Female,Hispanic/Latino,English,02/03/2005,Spanish II,SPAN ll,89,820,B,85.6,3,true,A,100,4,true,2021-2022
+11011,Enrolled,2023,Female,Hispanic/Latino,English,02/03/2005,U. S. History,US HIS,94,828,A,93,4,true,B,0,3,true,2021-2022
+11011,Enrolled,2023,Female,Hispanic/Latino,English,02/03/2005,Algebra II,ALG ll,52,776,B,83,3,true,B-,82,2.7,true,2021-2022
+11019,Enrolled,2023,Female,Non-Hispanic/Latino,English,10/28/2004,Art,ART,62,780,A,100,4,true,A,98.15,4,true,2021-2022
+11019,Enrolled,2023,Female,Non-Hispanic/Latino,English,10/28/2004,Pre-Calculus,PRECAL,52,817,A,97,4,true,A-,90,3.7,true,2021-2022
+11019,Enrolled,2023,Female,Non-Hispanic/Latino,English,10/28/2004,Graphic Design,GRAPHIC DES,54,850,A,98.3,4,true,A,93.3,4,true,2021-2022
+11019,Enrolled,2023,Female,Non-Hispanic/Latino,English,10/28/2004,Bible III,BIB lll,9,787,A,97.7,4,true,A,96.5,4,true,2021-2022
+11019,Enrolled,2023,Female,Non-Hispanic/Latino,English,10/28/2004,English III,ENG lll,89,800,A,95.6,4,true,A,100,4,true,2021-2022
+11019,Enrolled,2023,Female,Non-Hispanic/Latino,English,10/28/2004,Spanish II,SPAN ll,89,876,A,97.2,4,true,A,100,4,true,2021-2022
+11019,Enrolled,2023,Female,Non-Hispanic/Latino,English,10/28/2004,U. S. History,US HIS,94,828,A,94,4,true,A-,0,3.7,true,2021-2022
+11045,Enrolled,2023,Female,Hispanic/Latino,Spanish,07/11/2005,Art,ART,62,780,A,93,4,true,B,86.42,3,true,2021-2022
+11045,Enrolled,2023,Female,Hispanic/Latino,Spanish,07/11/2005,Algebra II,ALG ll,52,776,C-,71,1.7,true,C,74,2,true,2021-2022
+11045,Enrolled,2023,Female,Hispanic/Latino,Spanish,07/11/2005,Bible III,BIB lll,9,787,B,86.7,3,true,A,96.3,4,true,2021-2022
+11045,Enrolled,2023,Female,Hispanic/Latino,Spanish,07/11/2005,English III,ENG lll,89,800,B,85,3,true,A,93,4,true,2021-2022
+11045,Enrolled,2023,Female,Hispanic/Latino,Spanish,07/11/2005,U. S. History,US HIS,94,828,B+,89,3.3,true,A,0,4,true,2021-2022
+11050,Withdrawn,2023,Male,,Spanish,11/10/2004,Bible III,BIB lll,9,787,C-,71.7,1.7,true,D,60.1,1,true,2021-2022
+11050,Withdrawn,2023,Male,,Spanish,11/10/2004,English III,ENG lll,89,800,F,0,0,false,F,50,0,false,2021-2022
+11050,Withdrawn,2023,Male,,Spanish,11/10/2004,U. S. History,US HIS,94,828,C,74,2,true,C,0,2,true,2021-2022
+11050,Withdrawn,2023,Male,,Spanish,11/10/2004,Algebra II,ALG ll,52,872,D+,68,1.3,true,D,65,1,true,2021-2022
+11052,Withdrawn,2023,Female,Hispanic/Latino,English,10/26/2004,AP Human Geography,AP HUM G,82,779,A,95.1,5,true,A,93.5,5,true,2021-2022
+11052,Withdrawn,2023,Female,Hispanic/Latino,English,10/26/2004,Algebra II,ALG ll,52,776,A,94,4,true,A,94,4,true,2021-2022
+11052,Withdrawn,2023,Female,Hispanic/Latino,English,10/26/2004,AP English Literature,AP ENG LIT,59,778,A,93.8,5,true,A-,91.8,4.7,true,2021-2022
+11052,Withdrawn,2023,Female,Hispanic/Latino,English,10/26/2004,Bible III,BIB lll,9,786,A,100,4,true,A,99,4,true,2021-2022
+11052,Withdrawn,2023,Female,Hispanic/Latino,English,10/26/2004,Film Production,FLM PROD,51,886,A,96.1,4,true,A,98,4,true,2021-2022
+11052,Withdrawn,2023,Female,Hispanic/Latino,English,10/26/2004,U. S. History,US HIS,94,828,A,94,4,true,A,0,4,true,2021-2022
+11052,Withdrawn,2023,Female,Hispanic/Latino,English,10/26/2004,Advanced Graphic Design,ADV GRAPHIC DES,54,868,A,98.8,4,true,A,100,4,true,2021-2022
+11056,Enrolled,2023,Male,,English,04/18/2004,Algebra II,ALG ll,52,872,D+,69,1.3,true,C,73,2,true,2021-2022
+11056,Enrolled,2023,Male,,English,04/18/2004,Bible III,BIB lll,9,787,B,86.1,3,true,A,95.8,4,true,2021-2022
+11056,Enrolled,2023,Male,,English,04/18/2004,English III,ENG lll,89,800,C,74.8,2,true,A,94,4,true,2021-2022
+11056,Enrolled,2023,Male,,English,04/18/2004,Spanish II,SPAN ll,89,876,C+,78.2,2.3,true,B,85,3,true,2021-2022
+11056,Enrolled,2023,Male,,English,04/18/2004,U. S. History,US HIS,94,828,B-,82,2.7,true,A,0,4,true,2021-2022
+11056,Enrolled,2023,Male,,English,04/18/2004,Advanced Industrial Arts,ADV IND ART,75,890,A-,92.9,3.7,true,A,97,4,true,2021-2022
+11064,Enrolled,2023,Female,,English,08/31/2005,Algebra II,ALG ll,52,776,B,85,3,true,B,84,3,true,2021-2022
+11064,Enrolled,2023,Female,,English,08/31/2005,AP English Literature,AP ENG LIT,59,778,B,86.4,4,true,A-,91.3,4.7,true,2021-2022
+11064,Enrolled,2023,Female,,English,08/31/2005,Bible III,BIB lll,9,786,A,100,4,true,A,94.6,4,true,2021-2022
+11064,Enrolled,2023,Female,,English,08/31/2005,Spanish II,SPAN ll,89,820,A-,92.2,3.7,true,A,100,4,true,2021-2022
+11064,Enrolled,2023,Female,,English,08/31/2005,U. S. History,US HIS,94,828,A-,90,3.7,true,A,0,4,true,2021-2022
+11064,Enrolled,2023,Female,,English,08/31/2005,Art,ART,62,780,A,100,4,true,A,98.15,4,true,2021-2022
+11083,Graduate,2022,Female,Hispanic/Latino,English,11/21/2003,U. S. Government,US GVT,90,804,A,94,4,true,,0,0,false,2021-2022
+11083,Graduate,2022,Female,Hispanic/Latino,English,11/21/2003,Bible IV,BIB lV,53,874,A,100,4,true,A,95.5,4,true,2021-2022
+11083,Graduate,2022,Female,Hispanic/Latino,English,11/21/2003,Photography,PHOTO,54,813,A,93.6,4,true,A,98.6,4,true,2021-2022
+11083,Graduate,2022,Female,Hispanic/Latino,English,11/21/2003,English IV,ENG lV,55,801,A,94,4,true,A,98,4,true,2021-2022
+11083,Graduate,2022,Female,Hispanic/Latino,English,11/21/2003,Senior Experience,SR EXP,62,857,A,95.38,4,true,A,100,4,true,2021-2022
+11083,Graduate,2022,Female,Hispanic/Latino,English,11/21/2003,Anatomy and Physiology,A & P,44,848,B,0,3,true,B-,81,2.7,true,2021-2022
+11107,Enrolled,2024,Female,Non-Hispanic/Latino,English,04/18/2006,Bible II,BIB ll,90,785,A,100,4,true,A,100,4,true,2021-2022
+11107,Enrolled,2024,Female,Non-Hispanic/Latino,English,04/18/2006,Biology,BIO,96,789,A,99,4,true,A,98.1,4,true,2021-2022
+11107,Enrolled,2024,Female,Non-Hispanic/Latino,English,04/18/2006,Spanish I,SPAN l,90,819,A,97,4,true,A,99,4,true,2021-2022
+11107,Enrolled,2024,Female,Non-Hispanic/Latino,English,04/18/2006,PE II,PE II,87,809,A,100,4,true,A,98,4,true,2021-2022
+11107,Enrolled,2024,Female,Non-Hispanic/Latino,English,04/18/2006,Geometry,GEOM,82,802,A,99,4,true,A,95.7,4,true,2021-2022
+11107,Enrolled,2024,Female,Non-Hispanic/Latino,English,04/18/2006,English II,ENG ll,59,797,A,100,4,true,A,100,4,true,2021-2022
+11107,Enrolled,2024,Female,Non-Hispanic/Latino,English,04/18/2006,World History,WR HIS,94,840,A,97,4,true,A,0,4,true,2021-2022
+11108,Enrolled,2024,Female,,English,01/10/2006,Bible II,BIB ll,90,785,A,100,4,true,A,100,4,true,2021-2022
+11108,Enrolled,2024,Female,,English,01/10/2006,Biology,BIO,96,790,A,100,4,true,A,97,4,true,2021-2022
+11108,Enrolled,2024,Female,,English,01/10/2006,Spanish I,SPAN l,90,819,A,94,4,true,A,99,4,true,2021-2022
+11108,Enrolled,2024,Female,,English,01/10/2006,PE II,PE II,87,810,A,100,4,true,A,98,4,true,2021-2022
+11108,Enrolled,2024,Female,,English,01/10/2006,Geometry,GEOM,82,803,A,99,4,true,A,99.6,4,true,2021-2022
+11108,Enrolled,2024,Female,,English,01/10/2006,English II,ENG ll,59,797,A,99.2,4,true,A,100,4,true,2021-2022
+11108,Enrolled,2024,Female,,English,01/10/2006,World History,WR HIS,94,839,A,98,4,true,A,0,4,true,2021-2022
+11109,Withdrawn,2024,Male,Non-Hispanic/Latino,English,07/07/2005,Bible II,BIB ll,90,784,A,93,4,true,A-,90,3.7,true,2021-2022
+11109,Withdrawn,2024,Male,Non-Hispanic/Latino,English,07/07/2005,Biology,BIO,96,789,A,96,4,true,B,86.8,3,true,2021-2022
+11109,Withdrawn,2024,Male,Non-Hispanic/Latino,English,07/07/2005,Spanish I,SPAN l,90,819,A,96,4,true,A,95,4,true,2021-2022
+11109,Withdrawn,2024,Male,Non-Hispanic/Latino,English,07/07/2005,PE II,PE II,87,810,A,96.3,4,true,A,93.3,4,true,2021-2022
+11109,Withdrawn,2024,Male,Non-Hispanic/Latino,English,07/07/2005,Climbing,CLIMBING,53,880,A,100,4,true,A,100,4,true,2021-2022
+11109,Withdrawn,2024,Male,Non-Hispanic/Latino,English,07/07/2005,Geometry,GEOM,82,803,A,98,4,true,A-,90.7,3.7,true,2021-2022
+11109,Withdrawn,2024,Male,Non-Hispanic/Latino,English,07/07/2005,English II,ENG ll,59,796,B-,82.5,2.7,true,B,84.2,3,true,2021-2022
+11109,Withdrawn,2024,Male,Non-Hispanic/Latino,English,07/07/2005,World History,WR HIS,94,840,B+,88,3.3,true,B+,0,3.3,true,2021-2022
+11111,Enrolled,2024,Female,Hispanic/Latino,English,06/15/2005,Bible II,BIB ll,90,785,B,87,3,true,A-,90,3.7,true,2021-2022
+11111,Enrolled,2024,Female,Hispanic/Latino,English,06/15/2005,Biology,BIO,96,790,A,95,4,true,A,95.5,4,true,2021-2022
+11111,Enrolled,2024,Female,Hispanic/Latino,English,06/15/2005,Spanish I,SPAN l,90,819,A,93,4,true,A,99,4,true,2021-2022
+11111,Enrolled,2024,Female,Hispanic/Latino,English,06/15/2005,PE II,PE II,87,810,A,100,4,true,A,97.3,4,true,2021-2022
+11111,Enrolled,2024,Female,Hispanic/Latino,English,06/15/2005,Geometry,GEOM,82,803,A,97,4,true,B+,89.3,3.3,true,2021-2022
+11111,Enrolled,2024,Female,Hispanic/Latino,English,06/15/2005,Intro to Photography,INT PHOTO,54,892,A,97.4,4,true,A,98.9,4,true,2021-2022
+11111,Enrolled,2024,Female,Hispanic/Latino,English,06/15/2005,English II,ENG ll,59,797,A,96.7,4,true,A,94.2,4,true,2021-2022
+11111,Enrolled,2024,Female,Hispanic/Latino,English,06/15/2005,World History,WR HIS,94,839,A-,91,3.7,true,A-,0,3.7,true,2021-2022
+11112,Withdrawn,2024,Female,,English,11/02/2005,Biology,BIO,96,790,A,99,4,true,A-,91,3.7,true,2021-2022
+11112,Withdrawn,2024,Female,,English,11/02/2005,Bible II,BIB ll,90,785,A-,92,3.7,true,A,98.3,4,true,2021-2022
+11112,Withdrawn,2024,Female,,English,11/02/2005,Spanish I,SPAN l,90,819,A,99,4,true,A,99,4,true,2021-2022
+11112,Withdrawn,2024,Female,,English,11/02/2005,PE II,PE II,87,809,A,100,4,true,A,96.3,4,true,2021-2022
+11112,Withdrawn,2024,Female,,English,11/02/2005,Climbing,CLIMBING,53,880,A,100,4,true,,0,0,false,2021-2022
+11112,Withdrawn,2024,Female,,English,11/02/2005,Geometry,GEOM,82,802,A,96,4,true,A,93.2,4,true,2021-2022
+11112,Withdrawn,2024,Female,,English,11/02/2005,English II,ENG ll,59,797,A,93.3,4,true,A,93.3,4,true,2021-2022
+11112,Withdrawn,2024,Female,,English,11/02/2005,World History,WR HIS,94,839,A-,0,3.7,true,B,0,3,true,2021-2022
+11113,Enrolled,2024,Female,Non-Hispanic/Latino,English,01/20/2006,Biology,BIO,96,790,A,94,4,true,B+,89,3.3,true,2021-2022
+11113,Enrolled,2024,Female,Non-Hispanic/Latino,English,01/20/2006,Bible II,BIB ll,90,784,A,93,4,true,A,95,4,true,2021-2022
+11113,Enrolled,2024,Female,Non-Hispanic/Latino,English,01/20/2006,Spanish I,SPAN l,90,819,A,97,4,true,A,100,4,true,2021-2022
+11113,Enrolled,2024,Female,Non-Hispanic/Latino,English,01/20/2006,PE II,PE II,87,809,A,100,4,true,A,96.7,4,true,2021-2022
+11113,Enrolled,2024,Female,Non-Hispanic/Latino,English,01/20/2006,Geometry,GEOM,82,802,B-,81,2.7,true,B-,81.4,2.7,true,2021-2022
+11113,Enrolled,2024,Female,Non-Hispanic/Latino,English,01/20/2006,English II,ENG ll,59,796,A,95,4,true,B+,88.3,3.3,true,2021-2022
+11113,Enrolled,2024,Female,Non-Hispanic/Latino,English,01/20/2006,World History,WR HIS,94,839,A-,91,3.7,true,B,0,3,true,2021-2022
+11114,Enrolled,2024,Male,,English,01/21/2006,Bible II,BIB ll,90,784,A,97,4,true,A,96.7,4,true,2021-2022
+11114,Enrolled,2024,Male,,English,01/21/2006,Biology,BIO,96,790,A,95,4,true,A,93.8,4,true,2021-2022
+11114,Enrolled,2024,Male,,English,01/21/2006,Spanish I,SPAN l,90,819,A,99,4,true,A,96,4,true,2021-2022
+11114,Enrolled,2024,Male,,English,01/21/2006,PE II,PE II,87,810,A,97.5,4,true,A,97.7,4,true,2021-2022
+11114,Enrolled,2024,Male,,English,01/21/2006,Geometry,GEOM,82,803,A,96,4,true,A,93.6,4,true,2021-2022
+11114,Enrolled,2024,Male,,English,01/21/2006,English II,ENG ll,59,796,A,94.2,4,true,A,93.3,4,true,2021-2022
+11114,Enrolled,2024,Male,,English,01/21/2006,World History,WR HIS,94,839,A,95,4,true,A,0,4,true,2021-2022
+11115,Enrolled,2024,Female,Hispanic/Latino,English,06/07/2006,Biology,BIO,96,789,A,96,4,true,B+,88.5,3.3,true,2021-2022
+11115,Enrolled,2024,Female,Hispanic/Latino,English,06/07/2006,Bible II,BIB ll,90,784,B,85,3,true,B-,80,2.7,true,2021-2022
+11115,Enrolled,2024,Female,Hispanic/Latino,English,06/07/2006,Spanish I,SPAN l,90,819,A,97,4,true,A-,91,3.7,true,2021-2022
+11115,Enrolled,2024,Female,Hispanic/Latino,English,06/07/2006,PE II,PE II,87,809,A,95,4,true,A,96.7,4,true,2021-2022
+11115,Enrolled,2024,Female,Hispanic/Latino,English,06/07/2006,Geometry,GEOM,82,802,A,96,4,true,B,83.6,3,true,2021-2022
+11115,Enrolled,2024,Female,Hispanic/Latino,English,06/07/2006,English II,ENG ll,59,796,B,87.5,3,true,B,87.5,3,true,2021-2022
+11115,Enrolled,2024,Female,Hispanic/Latino,English,06/07/2006,World History,WR HIS,94,840,B,83,3,true,A-,0,3.7,true,2021-2022
+11119,Enrolled,2024,Female,Hispanic/Latino,Spanish,06/08/2006,Bible II,BIB ll,90,785,C,75,2,true,B+,88.3,3.3,true,2021-2022
+11119,Enrolled,2024,Female,Hispanic/Latino,Spanish,06/08/2006,Biology,BIO,96,790,A,96,4,true,A,93.9,4,true,2021-2022
+11119,Enrolled,2024,Female,Hispanic/Latino,Spanish,06/08/2006,PE II,PE II,87,809,A,98.8,4,true,A,95.2,4,true,2021-2022
+11119,Enrolled,2024,Female,Hispanic/Latino,Spanish,06/08/2006,Geometry,GEOM,82,802,D+,69,1.3,true,C,76.4,2,true,2021-2022
+11119,Enrolled,2024,Female,Hispanic/Latino,Spanish,06/08/2006,English II,ENG ll,59,797,B+,88.3,3.3,true,A-,90.8,3.7,true,2021-2022
+11119,Enrolled,2024,Female,Hispanic/Latino,Spanish,06/08/2006,World History,WR HIS,94,839,B,86,3,true,A,0,4,true,2021-2022
+11131,Graduate,2022,Female,Non-Hispanic/Latino,English,05/03/2004,Civics,SR SS,90,844,,0,0,false,A-,90,3.7,true,2021-2022
+11131,Graduate,2022,Female,Non-Hispanic/Latino,English,05/03/2004,U. S. Government,US GVT,90,804,A,93,4,true,,0,0,false,2021-2022
+11131,Graduate,2022,Female,Non-Hispanic/Latino,English,05/03/2004,Weight Training,WT TRNG,87,831,A,100,4,true,A,96,4,true,2021-2022
+11131,Graduate,2022,Female,Non-Hispanic/Latino,English,05/03/2004,Bible IV,BIB lV,53,788,A,100,4,true,A,100,4,true,2021-2022
+11131,Graduate,2022,Female,Non-Hispanic/Latino,English,05/03/2004,Pre-Calculus,PRECAL,52,817,B+,88,3.3,true,B,86,3,true,2021-2022
+11131,Graduate,2022,Female,Non-Hispanic/Latino,English,05/03/2004,AP English Language,AP ENG LANG,59,845,A,95.7,5,true,A,96.8,5,true,2021-2022
+11131,Graduate,2022,Female,Non-Hispanic/Latino,English,05/03/2004,Yearbook,YRBK,89,841,A,97.5,4,true,A,98.8,4,true,2021-2022
+11131,Graduate,2022,Female,Non-Hispanic/Latino,English,05/03/2004,Senior Experience,SR EXP,62,857,A,0,4,true,A,99.09,4,true,2021-2022
+11134,Enrolled,2024,Male,Non-Hispanic/Latino,English,05/10/2005,Biology,BIO,96,789,B-,82,2.7,true,C-,70,1.7,true,2021-2022
+11134,Enrolled,2024,Male,Non-Hispanic/Latino,English,05/10/2005,Bible II,BIB ll,90,785,C-,72,1.7,true,B-,80,2.7,true,2021-2022
+11134,Enrolled,2024,Male,Non-Hispanic/Latino,English,05/10/2005,PE II,PE II,87,809,A-,92.5,3.7,true,B+,88.3,3.3,true,2021-2022
+11134,Enrolled,2024,Male,Non-Hispanic/Latino,English,05/10/2005,English II,ENG ll,59,797,D,65.8,1,true,D+,68.3,1.3,true,2021-2022
+11134,Enrolled,2024,Male,Non-Hispanic/Latino,English,05/10/2005,World History,WR HIS,94,840,D,63,1,true,C-,0,1.7,true,2021-2022
+11141,Enrolled,2024,Female,Hispanic/Latino,Spanish,02/19/2006,Bible II,BIB ll,90,784,C,77,2,true,C,76.7,2,true,2021-2022
+11141,Enrolled,2024,Female,Hispanic/Latino,Spanish,02/19/2006,Biology,BIO,96,789,B-,81,2.7,true,C+,79.4,2.3,true,2021-2022
+11141,Enrolled,2024,Female,Hispanic/Latino,Spanish,02/19/2006,PE II,PE II,87,809,A-,92.5,3.7,true,A,95,4,true,2021-2022
+11141,Enrolled,2024,Female,Hispanic/Latino,Spanish,02/19/2006,Geometry,GEOM,82,802,F,47,0,false,D,66.4,1,true,2021-2022
+11141,Enrolled,2024,Female,Hispanic/Latino,Spanish,02/19/2006,Photography,PHOTO,54,813,C,73.8,2,true,C+,78.1,2.3,true,2021-2022
+11141,Enrolled,2024,Female,Hispanic/Latino,Spanish,02/19/2006,English II,ENG ll,59,796,C-,0,1.7,true,C,76.7,2,true,2021-2022
+11141,Enrolled,2024,Female,Hispanic/Latino,Spanish,02/19/2006,World History,WR HIS,94,840,C-,70,1.7,true,C,0,2,true,2021-2022
+11144,Enrolled,2024,Female,Non-Hispanic/Latino,English,07/31/2006,Biology,BIO,96,789,A-,92,3.7,true,B,84.8,3,true,2021-2022
+11144,Enrolled,2024,Female,Non-Hispanic/Latino,English,07/31/2006,Spanish I,SPAN l,90,819,A,95,4,true,A,99,4,true,2021-2022
+11144,Enrolled,2024,Female,Non-Hispanic/Latino,English,07/31/2006,PE II,PE II,87,809,A,98.8,4,true,A,95,4,true,2021-2022
+11144,Enrolled,2024,Female,Non-Hispanic/Latino,English,07/31/2006,Geometry,GEOM,82,802,B,87,3,true,B+,88.2,3.3,true,2021-2022
+11144,Enrolled,2024,Female,Non-Hispanic/Latino,English,07/31/2006,Intro to Photography,INT PHOTO,54,893,B-,82.3,2.7,true,A,94.7,4,true,2021-2022
+11144,Enrolled,2024,Female,Non-Hispanic/Latino,English,07/31/2006,English II,ENG ll,59,796,B-,81.7,2.7,true,B+,89.2,3.3,true,2021-2022
+11144,Enrolled,2024,Female,Non-Hispanic/Latino,English,07/31/2006,World History,WR HIS,94,840,A-,0,3.7,true,A-,0,3.7,true,2021-2022
+11144,Enrolled,2024,Female,Non-Hispanic/Latino,English,07/31/2006,Bible II,BIB ll,90,784,A-,90,3.7,true,B,86.7,3,true,2021-2022
+11147,Enrolled,2024,Female,,English,03/16/2006,Bible II,BIB ll,90,785,A-,92,3.7,true,A,96.7,4,true,2021-2022
+11147,Enrolled,2024,Female,,English,03/16/2006,Biology,BIO,96,789,B+,89,3.3,true,A-,90.5,3.7,true,2021-2022
+11147,Enrolled,2024,Female,,English,03/16/2006,Spanish I,SPAN l,90,819,A,99,4,true,A,98,4,true,2021-2022
+11147,Enrolled,2024,Female,,English,03/16/2006,PE II,PE II,87,809,A,100,4,true,A,95.7,4,true,2021-2022
+11147,Enrolled,2024,Female,,English,03/16/2006,Geometry,GEOM,82,802,B+,88,3.3,true,B,85.7,3,true,2021-2022
+11147,Enrolled,2024,Female,,English,03/16/2006,English II,ENG ll,59,797,B,86.7,3,true,A-,90.8,3.7,true,2021-2022
+11147,Enrolled,2024,Female,,English,03/16/2006,World History,WR HIS,94,840,B,85,3,true,B,0,3,true,2021-2022
+11149,Withdrawn,2024,Female,Hispanic/Latino,English,04/04/2006,Bible II,BIB ll,90,785,B+,88,3.3,true,A,98.3,4,true,2021-2022
+11149,Withdrawn,2024,Female,Hispanic/Latino,English,04/04/2006,Biology,BIO,96,790,A-,90,3.7,true,B,83,3,true,2021-2022
+11149,Withdrawn,2024,Female,Hispanic/Latino,English,04/04/2006,Spanish I,SPAN l,90,819,A,95,4,true,A,99,4,true,2021-2022
+11149,Withdrawn,2024,Female,Hispanic/Latino,English,04/04/2006,PE II,PE II,87,809,A,97.5,4,true,A,95.3,4,true,2021-2022
+11149,Withdrawn,2024,Female,Hispanic/Latino,English,04/04/2006,Geometry,GEOM,82,802,A,94,4,true,B,85,3,true,2021-2022
+11149,Withdrawn,2024,Female,Hispanic/Latino,English,04/04/2006,English II,ENG ll,59,797,A-,91.7,3.7,true,A,95.8,4,true,2021-2022
+11149,Withdrawn,2024,Female,Hispanic/Latino,English,04/04/2006,World History,WR HIS,94,839,A,95,4,true,A-,0,3.7,true,2021-2022
+11152,Enrolled,2024,Male,Hispanic/Latino,English,12/21/2005,Biology,BIO,96,790,A-,90,3.7,true,C+,78,2.3,true,2021-2022
+11152,Enrolled,2024,Male,Hispanic/Latino,English,12/21/2005,PE II,PE II,87,810,C,75,2,true,A,95.7,4,true,2021-2022
+11152,Enrolled,2024,Male,Hispanic/Latino,English,12/21/2005,Geometry,GEOM,82,803,D,64,1,true,D,66.4,1,true,2021-2022
+11152,Enrolled,2024,Male,Hispanic/Latino,English,12/21/2005,English II,ENG ll,59,796,C,75,2,true,C-,70,1.7,true,2021-2022
+11152,Enrolled,2024,Male,Hispanic/Latino,English,12/21/2005,World History,WR HIS,94,839,C+,0,2.3,true,C,0,2,true,2021-2022
+11152,Enrolled,2024,Male,Hispanic/Latino,English,12/21/2005,Bible II,BIB ll,90,784,C-,70,1.7,true,C,73.3,2,true,2021-2022
+11155,Graduate,2022,Female,Non-Hispanic/Latino,English,10/17/2004,Civics,SR SS,90,844,,0,0,false,A-,91,3.7,true,2021-2022
+11155,Graduate,2022,Female,Non-Hispanic/Latino,English,10/17/2004,U. S. Government,US GVT,90,879,A,93,4,true,,0,0,false,2021-2022
+11155,Graduate,2022,Female,Non-Hispanic/Latino,English,10/17/2004,Bible IV,BIB lV,53,788,A,100,4,true,A,100,4,true,2021-2022
+11155,Graduate,2022,Female,Non-Hispanic/Latino,English,10/17/2004,Physics,PHYSICS,52,816,B-,80,2.7,true,A-,91,3.7,true,2021-2022
+11155,Graduate,2022,Female,Non-Hispanic/Latino,English,10/17/2004,Pre-Calculus,PRECAL,52,817,C+,79,2.3,true,C+,78,2.3,true,2021-2022
+11155,Graduate,2022,Female,Non-Hispanic/Latino,English,10/17/2004,Senior Experience,SR EXP,62,888,A,96.21,4,true,A,100,4,true,2021-2022
+11155,Graduate,2022,Female,Non-Hispanic/Latino,English,10/17/2004,AP English Language,AP ENG LANG,59,845,A,96,5,true,A,96.1,5,true,2021-2022
+11158,Enrolled,2024,Female,,English,12/14/2005,Bible II,BIB ll,90,784,A,93,4,true,A,96.7,4,true,2021-2022
+11158,Enrolled,2024,Female,,English,12/14/2005,Biology,BIO,96,790,A,93,4,true,A,95.1,4,true,2021-2022
+11158,Enrolled,2024,Female,,English,12/14/2005,PE II,PE II,87,809,A,100,4,true,A,96,4,true,2021-2022
+11158,Enrolled,2024,Female,,English,12/14/2005,Climbing,CLIMBING,53,881,A,100,4,true,A,100,4,true,2021-2022
+11158,Enrolled,2024,Female,,English,12/14/2005,Geometry,GEOM,82,802,A-,92,3.7,true,B,87.9,3,true,2021-2022
+11158,Enrolled,2024,Female,,English,12/14/2005,English II,ENG ll,59,796,A,98.3,4,true,A,95.8,4,true,2021-2022
+11158,Enrolled,2024,Female,,English,12/14/2005,World History,WR HIS,94,839,A,93,4,true,A,0,4,true,2021-2022
+11160,Enrolled,2024,Male,Non-Hispanic/Latino,English,07/26/2006,Bible II,BIB ll,90,784,A,98,4,true,A,96.7,4,true,2021-2022
+11160,Enrolled,2024,Male,Non-Hispanic/Latino,English,07/26/2006,Biology,BIO,96,789,A,99,4,true,A,94.5,4,true,2021-2022
+11160,Enrolled,2024,Male,Non-Hispanic/Latino,English,07/26/2006,Spanish I,SPAN l,90,819,A,98,4,true,A,94,4,true,2021-2022
+11160,Enrolled,2024,Male,Non-Hispanic/Latino,English,07/26/2006,PE II,PE II,87,810,A,100,4,true,A,99.3,4,true,2021-2022
+11160,Enrolled,2024,Male,Non-Hispanic/Latino,English,07/26/2006,Geometry,GEOM,82,803,A,99,4,true,A,95,4,true,2021-2022
+11160,Enrolled,2024,Male,Non-Hispanic/Latino,English,07/26/2006,English II,ENG ll,59,796,A,95.8,4,true,A,93.3,4,true,2021-2022
+11160,Enrolled,2024,Male,Non-Hispanic/Latino,English,07/26/2006,World History,WR HIS,94,840,A,98,4,true,A,0,4,true,2021-2022
+11163,Graduate,2022,Male,Non-Hispanic/Latino,English,06/24/2003,U. S. Government,US GVT,90,879,A,97,4,true,,0,0,false,2021-2022
+11163,Graduate,2022,Male,Non-Hispanic/Latino,English,06/24/2003,Bible IV,BIB lV,53,788,A,95,4,true,A,100,4,true,2021-2022
+11163,Graduate,2022,Male,Non-Hispanic/Latino,English,06/24/2003,AP Calculus,AP CALCULUS,52,791,A-,90,3.7,true,B,83,3,true,2021-2022
+11163,Graduate,2022,Male,Non-Hispanic/Latino,English,06/24/2003,Physics,PHYSICS,52,816,A,99,4,true,A,95,4,true,2021-2022
+11163,Graduate,2022,Male,Non-Hispanic/Latino,English,06/24/2003,Senior Experience,SR EXP,62,888,A,97.31,4,true,A,100,4,true,2021-2022
+11163,Graduate,2022,Male,Non-Hispanic/Latino,English,06/24/2003,AP English Language,AP ENG LANG,59,845,A,96,5,true,A,96.3,5,true,2021-2022
+11166,Enrolled,2024,Male,Hispanic/Latino,English,05/30/2005,Bible II,BIB ll,90,785,C-,70,1.7,true,C,76.7,2,true,2021-2022
+11166,Enrolled,2024,Male,Hispanic/Latino,English,05/30/2005,Biology,BIO,96,789,B+,88,3.3,true,B-,82,2.7,true,2021-2022
+11166,Enrolled,2024,Male,Hispanic/Latino,English,05/30/2005,PE II,PE II,87,810,A-,92.5,3.7,true,A-,91.7,3.7,true,2021-2022
+11166,Enrolled,2024,Male,Hispanic/Latino,English,05/30/2005,Geometry,GEOM,82,803,D+,68,1.3,true,C-,71.4,1.7,true,2021-2022
+11166,Enrolled,2024,Male,Hispanic/Latino,English,05/30/2005,English II,ENG ll,59,797,B,83.3,3,true,B,86.7,3,true,2021-2022
+11166,Enrolled,2024,Male,Hispanic/Latino,English,05/30/2005,World History,WR HIS,94,840,A-,90,3.7,true,B,0,3,true,2021-2022
+11170,Enrolled,2024,Female,Hispanic/Latino,English,07/29/2006,Biology,BIO,96,790,A,94,4,true,B+,88.1,3.3,true,2021-2022
+11170,Enrolled,2024,Female,Hispanic/Latino,English,07/29/2006,Bible II,BIB ll,90,784,C-,70,1.7,true,B,83.3,3,true,2021-2022
+11170,Enrolled,2024,Female,Hispanic/Latino,English,07/29/2006,PE II,PE II,87,809,A,98,4,true,A,95.7,4,true,2021-2022
+11170,Enrolled,2024,Female,Hispanic/Latino,English,07/29/2006,Geometry,GEOM,82,802,B-,81,2.7,true,B+,89.3,3.3,true,2021-2022
+11170,Enrolled,2024,Female,Hispanic/Latino,English,07/29/2006,English II,ENG ll,59,796,C,73.3,2,true,B,83.3,3,true,2021-2022
+11170,Enrolled,2024,Female,Hispanic/Latino,English,07/29/2006,World History,WR HIS,94,839,A-,91,3.7,true,B,0,3,true,2021-2022
+11172,Enrolled,2024,Male,Non-Hispanic/Latino,English,05/04/2006,Bible II,BIB ll,90,784,A,97,4,true,A,95,4,true,2021-2022
+11172,Enrolled,2024,Male,Non-Hispanic/Latino,English,05/04/2006,Biology,BIO,96,790,A,100,4,true,A,95.8,4,true,2021-2022
+11172,Enrolled,2024,Male,Non-Hispanic/Latino,English,05/04/2006,Spanish I,SPAN l,90,819,A,99,4,true,A,99,4,true,2021-2022
+11172,Enrolled,2024,Male,Non-Hispanic/Latino,English,05/04/2006,PE II,PE II,87,810,A,100,4,true,A,98.3,4,true,2021-2022
+11172,Enrolled,2024,Male,Non-Hispanic/Latino,English,05/04/2006,Climbing,CLIMBING,53,880,A,100,4,true,A,100,4,true,2021-2022
+11172,Enrolled,2024,Male,Non-Hispanic/Latino,English,05/04/2006,Geometry,GEOM,82,803,A,98,4,true,A,99.3,4,true,2021-2022
+11172,Enrolled,2024,Male,Non-Hispanic/Latino,English,05/04/2006,English II,ENG ll,59,796,A,95,4,true,A,95.8,4,true,2021-2022
+11172,Enrolled,2024,Male,Non-Hispanic/Latino,English,05/04/2006,World History,WR HIS,94,839,A,95,4,true,A,0,4,true,2021-2022
+11173,Enrolled,2024,Female,Non-Hispanic/Latino,English,01/02/2006,Bible II,BIB ll,90,784,A,93,4,true,A,95,4,true,2021-2022
+11173,Enrolled,2024,Female,Non-Hispanic/Latino,English,01/02/2006,Biology,BIO,96,789,A,98,4,true,A,93,4,true,2021-2022
+11173,Enrolled,2024,Female,Non-Hispanic/Latino,English,01/02/2006,Spanish I,SPAN l,90,819,A,99,4,true,A,98,4,true,2021-2022
+11173,Enrolled,2024,Female,Non-Hispanic/Latino,English,01/02/2006,PE II,PE II,87,809,A,100,4,true,A,95.7,4,true,2021-2022
+11173,Enrolled,2024,Female,Non-Hispanic/Latino,English,01/02/2006,Geometry,GEOM,82,802,A,99,4,true,A,96.4,4,true,2021-2022
+11173,Enrolled,2024,Female,Non-Hispanic/Latino,English,01/02/2006,English II,ENG ll,59,796,A,97.5,4,true,A,94.2,4,true,2021-2022
+11173,Enrolled,2024,Female,Non-Hispanic/Latino,English,01/02/2006,World History,WR HIS,94,840,A,99,4,true,A,0,4,true,2021-2022
+11176,Enrolled,2024,Male,Hispanic/Latino,Hebrew,06/14/2006,Biology,BIO,96,790,D+,68,1.3,true,D,61.8,1,true,2021-2022
+11176,Enrolled,2024,Male,Hispanic/Latino,Hebrew,06/14/2006,Bible II,BIB ll,90,785,C-,72,1.7,true,C,75,2,true,2021-2022
+11176,Enrolled,2024,Male,Hispanic/Latino,Hebrew,06/14/2006,PE II,PE II,87,809,A,97.5,4,true,A,94.7,4,true,2021-2022
+11176,Enrolled,2024,Male,Hispanic/Latino,Hebrew,06/14/2006,English II,ENG ll,59,797,D,65.8,1,true,B-,80,2.7,true,2021-2022
+11176,Enrolled,2024,Male,Hispanic/Latino,Hebrew,06/14/2006,World History,WR HIS,94,839,D,67,1,true,B-,0,2.7,true,2021-2022
+11179,Graduate,2022,Female,,,01/19/2004,Civics,SR SS,90,844,,0,0,false,A,99,4,true,2021-2022
+11179,Graduate,2022,Female,,,01/19/2004,U. S. Government,US GVT,90,804,A,93,4,true,,0,0,false,2021-2022
+11179,Graduate,2022,Female,,,01/19/2004,Bible IV,BIB lV,53,788,A,100,4,true,A,100,4,true,2021-2022
+11179,Graduate,2022,Female,,,01/19/2004,AP Calculus,AP CALCULUS,52,791,C-,70,1.7,true,D,61,1,true,2021-2022
+11179,Graduate,2022,Female,,,01/19/2004,Physics,PHYSICS,52,816,A,93,4,true,A-,91,3.7,true,2021-2022
+11179,Graduate,2022,Female,,,01/19/2004,Senior Experience,SR EXP,62,857,A,93.46,4,true,A,96.36,4,true,2021-2022
+11179,Graduate,2022,Female,,,01/19/2004,AP English Language,AP ENG LANG,59,845,A-,92.4,4.7,true,A,95.4,5,true,2021-2022
+11190,Graduate,2022,Female,Hispanic/Latino,Spanish,12/20/2003,Civics,SR SS,90,844,,0,0,false,B,87,3,true,2021-2022
+11190,Graduate,2022,Female,Hispanic/Latino,Spanish,12/20/2003,U. S. Government,US GVT,90,879,B,83,3,true,,0,0,false,2021-2022
+11190,Graduate,2022,Female,Hispanic/Latino,Spanish,12/20/2003,Bible IV,BIB lV,53,874,A-,90,3.7,true,A,100,4,true,2021-2022
+11190,Graduate,2022,Female,Hispanic/Latino,Spanish,12/20/2003,Algebra II,ALG ll,82,777,C,76,2,true,C,77,2,true,2021-2022
+11190,Graduate,2022,Female,Hispanic/Latino,Spanish,12/20/2003,English IV,ENG lV,55,801,B,84,3,true,C+,78,2.3,true,2021-2022
+11190,Graduate,2022,Female,Hispanic/Latino,Spanish,12/20/2003,Art,ART,62,780,A-,92,3.7,true,C,77.05,2,true,2021-2022
+11190,Graduate,2022,Female,Hispanic/Latino,Spanish,12/20/2003,Senior Experience,SR EXP,62,888,C,74.21,2,true,C,74.55,2,true,2021-2022
+11203,Enrolled,2024,Female,Non-Hispanic/Latino,English,02/07/2007,Bible II,BIB ll,90,784,A,97,4,true,A,98.3,4,true,2021-2022
+11203,Enrolled,2024,Female,Non-Hispanic/Latino,English,02/07/2007,Biology,BIO,96,789,A,99,4,true,A,94.5,4,true,2021-2022
+11203,Enrolled,2024,Female,Non-Hispanic/Latino,English,02/07/2007,Spanish I,SPAN l,90,819,A,99,4,true,A,100,4,true,2021-2022
+11203,Enrolled,2024,Female,Non-Hispanic/Latino,English,02/07/2007,PE II,PE II,87,810,A,100,4,true,A,98.3,4,true,2021-2022
+11203,Enrolled,2024,Female,Non-Hispanic/Latino,English,02/07/2007,Geometry,GEOM,82,803,A,98,4,true,A,97.9,4,true,2021-2022
+11203,Enrolled,2024,Female,Non-Hispanic/Latino,English,02/07/2007,English II,ENG ll,59,796,A,97.5,4,true,A,96.7,4,true,2021-2022
+11203,Enrolled,2024,Female,Non-Hispanic/Latino,English,02/07/2007,World History,WR HIS,94,840,A,96,4,true,A,0,4,true,2021-2022
+11209,Enrolled,2023,Male,Hispanic/Latino,English,08/11/2005,Chemistry,CHEM,44,792,B-,0,2.7,true,A-,0,3.7,true,2021-2022
+11209,Enrolled,2023,Male,Hispanic/Latino,English,08/11/2005,Pre-Calculus,PRECAL,52,817,B,83,3,true,B-,81,2.7,true,2021-2022
+11209,Enrolled,2023,Male,Hispanic/Latino,English,08/11/2005,Graphic Design,GRAPHIC DES,54,850,A,95,4,true,A,94,4,true,2021-2022
+11209,Enrolled,2023,Male,Hispanic/Latino,English,08/11/2005,English III,ENG lll,89,800,A-,92.1,3.7,true,A,95,4,true,2021-2022
+11209,Enrolled,2023,Male,Hispanic/Latino,English,08/11/2005,U. S. History,US HIS,94,828,A-,0,3.7,true,A,0,4,true,2021-2022
+11209,Enrolled,2023,Male,Hispanic/Latino,English,08/11/2005,Bible III,BIB lll,9,787,A,95,4,true,A,100,4,true,2021-2022
+11212,Enrolled,2023,Male,,English,09/17/2004,AP English Literature,AP ENG LIT,59,778,A,99.4,5,true,A,96.7,5,true,2021-2022
+11212,Enrolled,2023,Male,,English,09/17/2004,Weight Training,WT TRNG,87,831,,0,0,false,A,100,4,true,2021-2022
+11212,Enrolled,2023,Male,,English,09/17/2004,Climbing,CLIMBING,53,880,A,100,4,true,,0,0,false,2021-2022
+11212,Enrolled,2023,Male,,English,09/17/2004,Chemistry,CHEM,44,792,A,93.2,4,true,A,93.5,4,true,2021-2022
+11212,Enrolled,2023,Male,,English,09/17/2004,Pre-Calculus,PRECAL,52,817,A,98,4,true,A,96,4,true,2021-2022
+11212,Enrolled,2023,Male,,English,09/17/2004,Intro to Photography,INT PHOTO,54,892,A,97.8,4,true,A,96.8,4,true,2021-2022
+11212,Enrolled,2023,Male,,English,09/17/2004,Bible III,BIB lll,9,786,A,100,4,true,A,99,4,true,2021-2022
+11212,Enrolled,2023,Male,,English,09/17/2004,Spanish II,SPAN ll,89,876,,0,0,false,A,100,4,true,2021-2022
+11212,Enrolled,2023,Male,,English,09/17/2004,Industrial Arts,INDUST ARTS,75,866,A,95,4,true,A,94,4,true,2021-2022
+11212,Enrolled,2023,Male,,English,09/17/2004,U. S. History,US HIS,94,828,A,96,4,true,A,0,4,true,2021-2022
+11215,Enrolled,2024,Female,Asian/Pacific Island,English,05/25/2006,Biology,BIO,96,789,A,0,4,true,,,,,2021-2022
+11215,Enrolled,2024,Female,Asian/Pacific Island,English,05/25/2006,Bible II,BIB ll,90,784,A,98,4,true,A,96.7,4,true,2021-2022
+11215,Enrolled,2024,Female,Asian/Pacific Island,English,05/25/2006,Spanish I,SPAN l,90,819,A,93,4,true,A,98.8,4,true,2021-2022
+11215,Enrolled,2024,Female,Asian/Pacific Island,English,05/25/2006,PE II,PE II,87,810,A,100,4,true,A,97.7,4,true,2021-2022
+11215,Enrolled,2024,Female,Asian/Pacific Island,English,05/25/2006,Geometry,GEOM,82,803,A,93,4,true,A,94.3,4,true,2021-2022
+11215,Enrolled,2024,Female,Asian/Pacific Island,English,05/25/2006,English II,ENG ll,59,796,A,94.2,4,true,A,93.3,4,true,2021-2022
+11215,Enrolled,2024,Female,Asian/Pacific Island,English,05/25/2006,World History,WR HIS,94,840,A,93,4,true,A,0,4,true,2021-2022
+11218,Enrolled,2025,Female,Non-Hispanic/Latino,English,03/15/2007,Physical Science,PHY SCI,96,814,B-,80,2.7,true,A-,90,3.7,true,2021-2022
+11218,Enrolled,2025,Female,Non-Hispanic/Latino,English,03/15/2007,Health,HLTH,87,805,B+,89.44,3.3,true,B+,88.88,3.3,true,2021-2022
+11218,Enrolled,2025,Female,Non-Hispanic/Latino,English,03/15/2007,PE I,PE I,87,808,A,98.4,4,true,A,100,4,true,2021-2022
+11218,Enrolled,2025,Female,Non-Hispanic/Latino,English,03/15/2007,Algebra I,ALG l,82,775,A-,91.3,3.7,true,B-,80,2.7,true,2021-2022
+11218,Enrolled,2025,Female,Non-Hispanic/Latino,English,03/15/2007,Computer Literacy,CMP LIT,54,895,,0,0,false,B,86.5,3,true,2021-2022
+11218,Enrolled,2025,Female,Non-Hispanic/Latino,English,03/15/2007,Bible I,BIB l,9,782,A,94.1,4,true,A,97.3,4,true,2021-2022
+11218,Enrolled,2025,Female,Non-Hispanic/Latino,English,03/15/2007,Essential Living Skills,E LIV SKIL,75,894,A,95.8,4,true,,0,0,false,2021-2022
+11218,Enrolled,2025,Female,Non-Hispanic/Latino,English,03/15/2007,English I,ENG l,55,795,A,98,4,true,A,97,4,true,2021-2022
+11218,Enrolled,2025,Female,Non-Hispanic/Latino,English,03/15/2007,Foundations for Success,FFS,62,854,A,95,4,true,A,100,4,true,2021-2022
+11221,Enrolled,2025,Female,Hispanic/Latino,Spanish,10/07/2006,Algebra I,ALG l,82,775,A-,91.3,3.7,true,B-,80,2.7,true,2021-2022
+11221,Enrolled,2025,Female,Hispanic/Latino,Spanish,10/07/2006,Computer Literacy,CMP LIT,54,895,B,87.3,3,true,,0,0,false,2021-2022
+11221,Enrolled,2025,Female,Hispanic/Latino,Spanish,10/07/2006,Bible I,BIB l,9,782,B+,89.7,3.3,true,A,93.1,4,true,2021-2022
+11221,Enrolled,2025,Female,Hispanic/Latino,Spanish,10/07/2006,Essential Living Skills,E LIV SKIL,75,894,,0,0,false,A,94,4,true,2021-2022
+11221,Enrolled,2025,Female,Hispanic/Latino,Spanish,10/07/2006,Physical Science,PHY SCI,96,815,A,96.67,4,true,A-,90,3.7,true,2021-2022
+11221,Enrolled,2025,Female,Hispanic/Latino,Spanish,10/07/2006,Health,HLTH,87,805,B+,88.97,3.3,true,B-,81.46,2.7,true,2021-2022
+11221,Enrolled,2025,Female,Hispanic/Latino,Spanish,10/07/2006,PE I,PE I,87,808,A,98.2,4,true,A,99.6,4,true,2021-2022
+11221,Enrolled,2025,Female,Hispanic/Latino,Spanish,10/07/2006,English I,ENG l,89,794,A,93.5,4,true,B-,80,2.7,true,2021-2022
+11221,Enrolled,2025,Female,Hispanic/Latino,Spanish,10/07/2006,Foundations for Success,FFS,62,855,A,96.67,4,true,A,100,4,true,2021-2022
+11223,Enrolled,2025,Female,Hispanic/Latino,English,03/06/2007,Algebra II,ALG ll,52,776,A,100,4,true,A,98,4,true,2021-2022
+11223,Enrolled,2025,Female,Hispanic/Latino,English,03/06/2007,Physical Science,PHY SCI,96,815,A,100,4,true,A,99,4,true,2021-2022
+11223,Enrolled,2025,Female,Hispanic/Latino,English,03/06/2007,Health,HLTH,87,805,A,98.73,4,true,A,97.59,4,true,2021-2022
+11223,Enrolled,2025,Female,Hispanic/Latino,English,03/06/2007,PE I,PE I,87,808,A,99.3,4,true,A,100,4,true,2021-2022
+11223,Enrolled,2025,Female,Hispanic/Latino,English,03/06/2007,Computer Literacy,CMP LIT,54,895,A,98.7,4,true,,0,0,false,2021-2022
+11223,Enrolled,2025,Female,Hispanic/Latino,English,03/06/2007,Bible I,BIB l,9,782,A,100,4,true,A,100,4,true,2021-2022
+11223,Enrolled,2025,Female,Hispanic/Latino,English,03/06/2007,Essential Living Skills,E LIV SKIL,75,894,,0,0,false,A,99,4,true,2021-2022
+11223,Enrolled,2025,Female,Hispanic/Latino,English,03/06/2007,English I,ENG l,55,795,A,100,4,true,A,100,4,true,2021-2022
+11223,Enrolled,2025,Female,Hispanic/Latino,English,03/06/2007,Foundations for Success,FFS,62,855,A,100,4,true,A,100,4,true,2021-2022
+11226,Enrolled,2025,Male,,,01/25/2007,Algebra I,ALG l,82,775,A,97.5,4,true,A,99.2,4,true,2021-2022
+11226,Enrolled,2025,Male,,,01/25/2007,Physical Science,PHY SCI,96,815,A,100,4,true,A,93,4,true,2021-2022
+11226,Enrolled,2025,Male,,,01/25/2007,Health,HLTH,87,805,A,97.37,4,true,A,97.05,4,true,2021-2022
+11226,Enrolled,2025,Male,,,01/25/2007,PE I,PE I,87,808,A,98.9,4,true,A,100,4,true,2021-2022
+11226,Enrolled,2025,Male,,,01/25/2007,Computer Literacy,CMP LIT,54,895,A,99,4,true,,0,0,false,2021-2022
+11226,Enrolled,2025,Male,,,01/25/2007,Bible I,BIB l,9,782,A,100,4,true,A,100,4,true,2021-2022
+11226,Enrolled,2025,Male,,,01/25/2007,English I,ENG l,89,794,A,95.4,4,true,A-,90,3.7,true,2021-2022
+11226,Enrolled,2025,Male,,,01/25/2007,Essential Living Skills,E LIV SKIL,75,894,,0,0,false,A,94,4,true,2021-2022
+11226,Enrolled,2025,Male,,,01/25/2007,Foundations for Success,FFS,62,855,A,98.33,4,true,A,100,4,true,2021-2022
+11228,Enrolled,2025,Male,Non-Hispanic/Latino,English,04/29/2007,Algebra II,ALG ll,52,776,A,100,4,true,A,100,4,true,2021-2022
+11228,Enrolled,2025,Male,Non-Hispanic/Latino,English,04/29/2007,Physical Science,PHY SCI,96,815,A,100,4,true,A,96,4,true,2021-2022
+11228,Enrolled,2025,Male,Non-Hispanic/Latino,English,04/29/2007,Health,HLTH,87,805,A,97.31,4,true,A,97.4,4,true,2021-2022
+11228,Enrolled,2025,Male,Non-Hispanic/Latino,English,04/29/2007,PE I,PE I,87,808,A,98.4,4,true,A,100,4,true,2021-2022
+11228,Enrolled,2025,Male,Non-Hispanic/Latino,English,04/29/2007,Computer Literacy,CMP LIT,54,895,,0,0,false,A,99.1,4,true,2021-2022
+11228,Enrolled,2025,Male,Non-Hispanic/Latino,English,04/29/2007,Bible I,BIB l,9,782,A,100,4,true,A,100,4,true,2021-2022
+11228,Enrolled,2025,Male,Non-Hispanic/Latino,English,04/29/2007,English I,ENG l,89,794,A,95.1,4,true,A,95,4,true,2021-2022
+11228,Enrolled,2025,Male,Non-Hispanic/Latino,English,04/29/2007,Essential Living Skills,E LIV SKIL,75,894,A,98.3,4,true,,0,0,false,2021-2022
+11228,Enrolled,2025,Male,Non-Hispanic/Latino,English,04/29/2007,Foundations for Success,FFS,62,855,A,100,4,true,A,100,4,true,2021-2022
+11229,Enrolled,2025,Female,Non-Hispanic/Latino,English,02/13/2007,Algebra I,ALG l,82,775,A,96.3,4,true,A-,90,3.7,true,2021-2022
+11229,Enrolled,2025,Female,Non-Hispanic/Latino,English,02/13/2007,Physical Science,PHY SCI,96,815,A-,90,3.7,true,B,87,3,true,2021-2022
+11229,Enrolled,2025,Female,Non-Hispanic/Latino,English,02/13/2007,Health,HLTH,87,805,A-,90.65,3.7,true,C+,79.54,2.3,true,2021-2022
+11229,Enrolled,2025,Female,Non-Hispanic/Latino,English,02/13/2007,PE I,PE I,87,808,A,99,4,true,A,100,4,true,2021-2022
+11229,Enrolled,2025,Female,Non-Hispanic/Latino,English,02/13/2007,Computer Literacy,CMP LIT,54,895,,0,0,false,B,86.5,3,true,2021-2022
+11229,Enrolled,2025,Female,Non-Hispanic/Latino,English,02/13/2007,Intro to Photography,INT PHOTO,54,893,A,93.2,4,true,A,96.3,4,true,2021-2022
+11229,Enrolled,2025,Female,Non-Hispanic/Latino,English,02/13/2007,Bible I,BIB l,9,782,A,93.3,4,true,A,97.6,4,true,2021-2022
+11229,Enrolled,2025,Female,Non-Hispanic/Latino,English,02/13/2007,English I,ENG l,89,794,A-,91.3,3.7,true,B,87,3,true,2021-2022
+11229,Enrolled,2025,Female,Non-Hispanic/Latino,English,02/13/2007,Essential Living Skills,E LIV SKIL,75,894,A,96.7,4,true,,0,0,false,2021-2022
+11229,Enrolled,2025,Female,Non-Hispanic/Latino,English,02/13/2007,Foundations for Success,FFS,62,855,A,100,4,true,A,94.74,4,true,2021-2022
+11232,Enrolled,2025,Female,Asian/Pacific Island,English,05/17/2007,Physical Science,PHY SCI,96,815,A,100,4,true,A,100,4,true,2021-2022
+11232,Enrolled,2025,Female,Asian/Pacific Island,English,05/17/2007,Health,HLTH,87,805,A,100,4,true,A,100,4,true,2021-2022
+11232,Enrolled,2025,Female,Asian/Pacific Island,English,05/17/2007,PE I,PE I,87,808,A,98.8,4,true,A,100,4,true,2021-2022
+11232,Enrolled,2025,Female,Asian/Pacific Island,English,05/17/2007,Algebra II,ALG ll,52,776,A,100,4,true,A,100,4,true,2021-2022
+11232,Enrolled,2025,Female,Asian/Pacific Island,English,05/17/2007,Computer Literacy,CMP LIT,54,895,A,100,4,true,,0,0,false,2021-2022
+11232,Enrolled,2025,Female,Asian/Pacific Island,English,05/17/2007,Bible I,BIB l,9,782,A,100,4,true,A,100,4,false,2021-2022
+11232,Enrolled,2025,Female,Asian/Pacific Island,English,05/17/2007,English I,ENG l,89,794,A,100,4,true,A,100,4,true,2021-2022
+11232,Enrolled,2025,Female,Asian/Pacific Island,English,05/17/2007,Essential Living Skills,E LIV SKIL,75,894,,0,0,false,A,99,4,true,2021-2022
+11232,Enrolled,2025,Female,Asian/Pacific Island,English,05/17/2007,Foundations for Success,FFS,62,855,A,100,4,true,A,100,4,true,2021-2022
+11235,Enrolled,2025,Male,Hispanic/Latino,Spanish,09/05/2007,Physical Science,PHY SCI,96,815,A,98.33,4,true,A,97,4,true,2021-2022
+11235,Enrolled,2025,Male,Hispanic/Latino,Spanish,09/05/2007,Health,HLTH,87,805,A,94.64,4,true,A,95.57,4,true,2021-2022
+11235,Enrolled,2025,Male,Hispanic/Latino,Spanish,09/05/2007,PE I,PE I,87,808,A,99.08,4,true,A,100,4,true,2021-2022
+11235,Enrolled,2025,Male,Hispanic/Latino,Spanish,09/05/2007,Algebra I,ALG l,82,775,A,98.8,4,true,A,95.8,4,true,2021-2022
+11235,Enrolled,2025,Male,Hispanic/Latino,Spanish,09/05/2007,Computer Literacy,CMP LIT,54,895,,0,0,false,A,98.7,4,true,2021-2022
+11235,Enrolled,2025,Male,Hispanic/Latino,Spanish,09/05/2007,Bible I,BIB l,9,782,A,97.1,4,true,A,98,4,true,2021-2022
+11235,Enrolled,2025,Male,Hispanic/Latino,Spanish,09/05/2007,English I,ENG l,89,794,A,95.1,4,true,A-,92,3.7,true,2021-2022
+11235,Enrolled,2025,Male,Hispanic/Latino,Spanish,09/05/2007,Essential Living Skills,E LIV SKIL,75,894,A,95.8,4,true,,0,0,false,2021-2022
+11235,Enrolled,2025,Male,Hispanic/Latino,Spanish,09/05/2007,Foundations for Success,FFS,62,855,A,96.67,4,true,A,94.74,4,true,2021-2022
+11239,Enrolled,2025,Female,Non-Hispanic/Latino,Russian,10/26/2006,Physical Science,PHY SCI,96,815,B,86.67,3,true,B,87,3,true,2021-2022
+11239,Enrolled,2025,Female,Non-Hispanic/Latino,Russian,10/26/2006,Health,HLTH,87,805,A,97.9,4,true,A,96.73,4,true,2021-2022
+11239,Enrolled,2025,Female,Non-Hispanic/Latino,Russian,10/26/2006,PE I,PE I,87,808,A,98.42,4,true,A,100,4,true,2021-2022
+11239,Enrolled,2025,Female,Non-Hispanic/Latino,Russian,10/26/2006,Algebra I,ALG l,82,775,A-,91.3,3.7,true,B+,88.3,3.3,true,2021-2022
+11239,Enrolled,2025,Female,Non-Hispanic/Latino,Russian,10/26/2006,Computer Literacy,CMP LIT,54,895,,0,0,false,A,95.1,4,true,2021-2022
+11239,Enrolled,2025,Female,Non-Hispanic/Latino,Russian,10/26/2006,Bible I,BIB l,9,782,A,100,4,true,A,100,4,true,2021-2022
+11239,Enrolled,2025,Female,Non-Hispanic/Latino,Russian,10/26/2006,Essential Living Skills,E LIV SKIL,75,894,A,95.4,4,true,,0,0,false,2021-2022
+11239,Enrolled,2025,Female,Non-Hispanic/Latino,Russian,10/26/2006,English I,ENG l,55,795,A,98,4,true,A,97,4,true,2021-2022
+11239,Enrolled,2025,Female,Non-Hispanic/Latino,Russian,10/26/2006,Foundations for Success,FFS,62,855,A,98.33,4,true,A,97.37,4,true,2021-2022
+11242,Enrolled,2025,Female,Non-Hispanic/Latino,English,10/25/2006,Algebra I,ALG l,82,775,B,87.5,3,true,C+,78.3,2.3,true,2021-2022
+11242,Enrolled,2025,Female,Non-Hispanic/Latino,English,10/25/2006,Physical Science,PHY SCI,96,814,B-,80,2.7,true,D,67,1,true,2021-2022
+11242,Enrolled,2025,Female,Non-Hispanic/Latino,English,10/25/2006,Health,HLTH,87,805,C,75.72,2,true,C,76.89,2,true,2021-2022
+11242,Enrolled,2025,Female,Non-Hispanic/Latino,English,10/25/2006,PE I,PE I,87,808,A,93.68,4,true,A,100,4,true,2021-2022
+11242,Enrolled,2025,Female,Non-Hispanic/Latino,English,10/25/2006,Computer Literacy,CMP LIT,54,895,,0,0,false,C,74.2,2,true,2021-2022
+11242,Enrolled,2025,Female,Non-Hispanic/Latino,English,10/25/2006,Bible I,BIB l,9,782,B,87.9,3,true,B,87.6,3,true,2021-2022
+11242,Enrolled,2025,Female,Non-Hispanic/Latino,English,10/25/2006,Essential Living Skills,E LIV SKIL,75,894,A,97.9,4,true,,0,0,false,2021-2022
+11242,Enrolled,2025,Female,Non-Hispanic/Latino,English,10/25/2006,English I,ENG l,55,795,A,99,4,true,A,93,4,true,2021-2022
+11242,Enrolled,2025,Female,Non-Hispanic/Latino,English,10/25/2006,Foundations for Success,FFS,62,854,B+,88.33,3.3,true,A,100,4,true,2021-2022
+11244,Enrolled,2025,Female,Hispanic/Latino,Spanish,05/12/2007,Physical Science,PHY SCI,96,815,A,93.33,4,true,A-,92,3.7,true,2021-2022
+11244,Enrolled,2025,Female,Hispanic/Latino,Spanish,05/12/2007,Health,HLTH,87,805,B-,0,2.7,true,C-,72.75,1.7,true,2021-2022
+11244,Enrolled,2025,Female,Hispanic/Latino,Spanish,05/12/2007,PE I,PE I,87,808,A,98.68,4,true,A,100,4,true,2021-2022
+11244,Enrolled,2025,Female,Hispanic/Latino,Spanish,05/12/2007,Algebra I,ALG l,82,775,A-,90,3.7,true,B-,81.7,2.7,true,2021-2022
+11244,Enrolled,2025,Female,Hispanic/Latino,Spanish,05/12/2007,Computer Literacy,CMP LIT,54,895,C+,79.2,2.3,true,,0,0,false,2021-2022
+11244,Enrolled,2025,Female,Hispanic/Latino,Spanish,05/12/2007,Bible I,BIB l,9,782,B-,80.8,2.7,true,A,99.8,4,true,2021-2022
+11244,Enrolled,2025,Female,Hispanic/Latino,Spanish,05/12/2007,Essential Living Skills,E LIV SKIL,75,894,,0,0,false,A,95,4,true,2021-2022
+11244,Enrolled,2025,Female,Hispanic/Latino,Spanish,05/12/2007,English I,ENG l,55,795,A,94,4,true,A,99,4,true,2021-2022
+11244,Enrolled,2025,Female,Hispanic/Latino,Spanish,05/12/2007,Foundations for Success,FFS,62,855,A,96.67,4,true,A,100,4,true,2021-2022
+11247,Enrolled,2025,Female,Asian/Pacific Island,English,02/14/2007,Physical Science,PHY SCI,96,815,A,98.33,4,true,A,96,4,true,2021-2022
+11247,Enrolled,2025,Female,Asian/Pacific Island,English,02/14/2007,Health,HLTH,87,805,A,97.75,4,true,A,98.15,4,true,2021-2022
+11247,Enrolled,2025,Female,Asian/Pacific Island,English,02/14/2007,PE I,PE I,87,808,A,99.4,4,true,A,100,4,true,2021-2022
+11247,Enrolled,2025,Female,Asian/Pacific Island,English,02/14/2007,Algebra I,ALG l,82,775,A,95,4,true,A-,91.7,3.7,true,2021-2022
+11247,Enrolled,2025,Female,Asian/Pacific Island,English,02/14/2007,Computer Literacy,CMP LIT,54,895,,0,0,false,A,94.5,4,true,2021-2022
+11247,Enrolled,2025,Female,Asian/Pacific Island,English,02/14/2007,Bible I,BIB l,9,782,A,99.4,4,true,A,100,4,true,2021-2022
+11247,Enrolled,2025,Female,Asian/Pacific Island,English,02/14/2007,English I,ENG l,89,794,A,96.3,4,true,A,93,4,true,2021-2022
+11247,Enrolled,2025,Female,Asian/Pacific Island,English,02/14/2007,Essential Living Skills,E LIV SKIL,75,894,A,95.8,4,true,,0,0,false,2021-2022
+11247,Enrolled,2025,Female,Asian/Pacific Island,English,02/14/2007,Foundations for Success,FFS,62,855,A,100,4,true,A,100,4,true,2021-2022
+11250,Enrolled,2025,Female,Non-Hispanic/Latino,English,12/09/2006,Basic Algebra,BASIC ALG,75,869,C,75,2,true,C-,71,1.7,true,2021-2022
+11250,Enrolled,2025,Female,Non-Hispanic/Latino,English,12/09/2006,Physical Science,PHY SCI,96,814,B-,80,2.7,true,B-,82,2.7,true,2021-2022
+11250,Enrolled,2025,Female,Non-Hispanic/Latino,English,12/09/2006,Health,HLTH,87,805,B,86.96,3,true,B,87.95,3,true,2021-2022
+11250,Enrolled,2025,Female,Non-Hispanic/Latino,English,12/09/2006,PE I,PE I,87,808,A,94.25,4,true,A,100,4,true,2021-2022
+11250,Enrolled,2025,Female,Non-Hispanic/Latino,English,12/09/2006,Computer Literacy,CMP LIT,54,895,B,83,3,true,,0,0,false,2021-2022
+11250,Enrolled,2025,Female,Non-Hispanic/Latino,English,12/09/2006,Bible I,BIB l,9,782,B-,81.8,2.7,true,B,86.7,3,true,2021-2022
+11250,Enrolled,2025,Female,Non-Hispanic/Latino,English,12/09/2006,Essential Living Skills,E LIV SKIL,75,894,,0,0,false,A,95,4,true,2021-2022
+11250,Enrolled,2025,Female,Non-Hispanic/Latino,English,12/09/2006,English I,ENG l,55,795,B+,89,3.3,true,A,95,4,true,2021-2022
+11250,Enrolled,2025,Female,Non-Hispanic/Latino,English,12/09/2006,Foundations for Success,FFS,62,854,A,96.67,4,true,A,97.37,4,true,2021-2022
+11252,Enrolled,2025,Male,Hispanic/Latino,Spanish,07/23/2007,Physical Science,PHY SCI,96,814,A,100,4,true,A,100,4,true,2021-2022
+11252,Enrolled,2025,Male,Hispanic/Latino,Spanish,07/23/2007,Health,HLTH,87,805,A,99.07,4,true,A,99.42,4,true,2021-2022
+11252,Enrolled,2025,Male,Hispanic/Latino,Spanish,07/23/2007,PE I,PE I,87,808,A,94.52,4,true,A,100,4,true,2021-2022
+11252,Enrolled,2025,Male,Hispanic/Latino,Spanish,07/23/2007,Algebra I,ALG l,82,775,A,100,4,true,A,98.3,4,true,2021-2022
+11252,Enrolled,2025,Male,Hispanic/Latino,Spanish,07/23/2007,Computer Literacy,CMP LIT,54,895,A,100,4,true,,0,0,false,2021-2022
+11252,Enrolled,2025,Male,Hispanic/Latino,Spanish,07/23/2007,Intro to Photography,INT PHOTO,54,893,A,98.5,4,true,A,100,4,true,2021-2022
+11252,Enrolled,2025,Male,Hispanic/Latino,Spanish,07/23/2007,Bible I,BIB l,9,782,A,100,4,true,A,100,4,false,2021-2022
+11252,Enrolled,2025,Male,Hispanic/Latino,Spanish,07/23/2007,English I,ENG l,89,794,A,100,4,true,A,97,4,true,2021-2022
+11252,Enrolled,2025,Male,Hispanic/Latino,Spanish,07/23/2007,Essential Living Skills,E LIV SKIL,75,894,,0,0,false,A,97,4,true,2021-2022
+11252,Enrolled,2025,Male,Hispanic/Latino,Spanish,07/23/2007,Foundations for Success,FFS,62,854,A,100,4,true,A,100,4,true,2021-2022
+11258,Enrolled,2025,Male,,English,02/02/2006,Algebra I,ALG l,82,775,A-,90,3.7,true,B+,89.2,3.3,true,2021-2022
+11258,Enrolled,2025,Male,,English,02/02/2006,Physical Science,PHY SCI,96,814,B,83.33,3,true,A-,90,3.7,true,2021-2022
+11258,Enrolled,2025,Male,,English,02/02/2006,Health,HLTH,87,805,A-,91,3.7,true,A-,90.06,3.7,true,2021-2022
+11258,Enrolled,2025,Male,,English,02/02/2006,PE I,PE I,87,808,A,99.31,4,true,A,100,4,true,2021-2022
+11258,Enrolled,2025,Male,,English,02/02/2006,Computer Literacy,CMP LIT,54,895,B,87.2,3,true,,0,0,false,2021-2022
+11258,Enrolled,2025,Male,,English,02/02/2006,Bible I,BIB l,9,782,A,99,4,true,A,99.8,4,true,2021-2022
+11258,Enrolled,2025,Male,,English,02/02/2006,English I,ENG l,89,794,B,85,3,true,A-,90,3.7,true,2021-2022
+11258,Enrolled,2025,Male,,English,02/02/2006,Essential Living Skills,E LIV SKIL,75,894,,0,0,false,A,96,4,true,2021-2022
+11258,Enrolled,2025,Male,,English,02/02/2006,Foundations for Success,FFS,62,854,A,96.67,4,true,A,100,4,true,2021-2022
+11259,Enrolled,2025,Male,Non-Hispanic/Latino,English,01/24/2006,Algebra I,ALG l,82,775,B,85,3,true,B,85,3,true,2021-2022
+11259,Enrolled,2025,Male,Non-Hispanic/Latino,English,01/24/2006,Physical Science,PHY SCI,96,814,B-,81.67,2.7,true,A,96,4,true,2021-2022
+11259,Enrolled,2025,Male,Non-Hispanic/Latino,English,01/24/2006,Health,HLTH,87,805,B+,88.62,3.3,true,A,94.31,4,true,2021-2022
+11259,Enrolled,2025,Male,Non-Hispanic/Latino,English,01/24/2006,PE I,PE I,87,808,A,98.6,4,true,A,100,4,true,2021-2022
+11259,Enrolled,2025,Male,Non-Hispanic/Latino,English,01/24/2006,Computer Literacy,CMP LIT,54,895,,0,0,false,A-,92,3.7,true,2021-2022
+11259,Enrolled,2025,Male,Non-Hispanic/Latino,English,01/24/2006,Bible I,BIB l,9,782,B,83.6,3,true,A,100,4,true,2021-2022
+11259,Enrolled,2025,Male,Non-Hispanic/Latino,English,01/24/2006,Essential Living Skills,E LIV SKIL,75,894,A,96.7,4,true,,0,0,false,2021-2022
+11259,Enrolled,2025,Male,Non-Hispanic/Latino,English,01/24/2006,English I,ENG l,55,795,B,84,3,true,A,94,4,true,2021-2022
+11259,Enrolled,2025,Male,Non-Hispanic/Latino,English,01/24/2006,Foundations for Success,FFS,62,854,A,100,4,true,A,100,4,true,2021-2022
+11263,Withdrawn,2025,Female,Hispanic/Latino,English,03/09/2007,Physical Science,PHY SCI,96,815,B,83.33,3,true,B-,80,2.7,true,2021-2022
+11263,Withdrawn,2025,Female,Hispanic/Latino,English,03/09/2007,Health,HLTH,87,805,B-,81.64,2.7,true,C+,78.22,2.3,true,2021-2022
+11263,Withdrawn,2025,Female,Hispanic/Latino,English,03/09/2007,PE I,PE I,87,808,A,95.84,4,true,A,95.71,4,true,2021-2022
+11263,Withdrawn,2025,Female,Hispanic/Latino,English,03/09/2007,Computer Literacy,CMP LIT,54,895,C,77.4,2,true,,0,0,false,2021-2022
+11263,Withdrawn,2025,Female,Hispanic/Latino,English,03/09/2007,Bible I,BIB l,9,782,B,85,3,true,A,100,4,false,2021-2022
+11263,Withdrawn,2025,Female,Hispanic/Latino,English,03/09/2007,Basic Algebra,BASIC ALG,75,869,A,98.3,4,true,A,93,4,true,2021-2022
+11263,Withdrawn,2025,Female,Hispanic/Latino,English,03/09/2007,Essential Living Skills,E LIV SKIL,75,894,,0,0,false,A,95,4,true,2021-2022
+11263,Withdrawn,2025,Female,Hispanic/Latino,English,03/09/2007,English I,ENG l,55,795,C-,70,1.7,true,A-,91,3.7,true,2021-2022
+11263,Withdrawn,2025,Female,Hispanic/Latino,English,03/09/2007,Foundations for Success,FFS,62,855,A-,91.67,3.7,true,A,94.74,4,true,2021-2022
+11271,Enrolled,2025,Female,Non-Hispanic/Latino,English,10/29/2006,Physical Science,PHY SCI,96,814,C,76.67,2,true,B+,88,3.3,true,2021-2022
+11271,Enrolled,2025,Female,Non-Hispanic/Latino,English,10/29/2006,Health,HLTH,87,805,A,93.03,4,true,A,94.8,4,true,2021-2022
+11271,Enrolled,2025,Female,Non-Hispanic/Latino,English,10/29/2006,PE I,PE I,87,808,A,97.4,4,true,A,100,4,true,2021-2022
+11271,Enrolled,2025,Female,Non-Hispanic/Latino,English,10/29/2006,Algebra I,ALG l,82,775,B-,81.3,2.7,true,C,76.7,2,true,2021-2022
+11271,Enrolled,2025,Female,Non-Hispanic/Latino,English,10/29/2006,Computer Literacy,CMP LIT,54,895,,0,0,false,A-,90.7,3.7,true,2021-2022
+11271,Enrolled,2025,Female,Non-Hispanic/Latino,English,10/29/2006,Bible I,BIB l,9,782,B-,80.2,2.7,true,A,98.9,4,true,2021-2022
+11271,Enrolled,2025,Female,Non-Hispanic/Latino,English,10/29/2006,English I,ENG l,89,794,A-,90.4,3.7,true,A-,92,3.7,true,2021-2022
+11271,Enrolled,2025,Female,Non-Hispanic/Latino,English,10/29/2006,Essential Living Skills,E LIV SKIL,75,894,A,96.7,4,true,,0,0,false,2021-2022
+11271,Enrolled,2025,Female,Non-Hispanic/Latino,English,10/29/2006,Foundations for Success,FFS,62,854,A,98.33,4,true,A,94.74,4,true,2021-2022
+11274,Enrolled,2025,Female,Non-Hispanic/Latino,,07/14/2007,Physical Science,PHY SCI,96,815,B,85,3,true,B,86,3,true,2021-2022
+11274,Enrolled,2025,Female,Non-Hispanic/Latino,,07/14/2007,Health,HLTH,87,805,B-,81.96,2.7,true,B,85.75,3,true,2021-2022
+11274,Enrolled,2025,Female,Non-Hispanic/Latino,,07/14/2007,PE I,PE I,87,808,A,94.99,4,true,A,97.2,4,true,2021-2022
+11274,Enrolled,2025,Female,Non-Hispanic/Latino,,07/14/2007,Algebra I,ALG l,82,775,A-,90,3.7,true,B-,81.7,2.7,true,2021-2022
+11274,Enrolled,2025,Female,Non-Hispanic/Latino,,07/14/2007,Computer Literacy,CMP LIT,54,895,,0,0,false,B+,88.9,3.3,true,2021-2022
+11274,Enrolled,2025,Female,Non-Hispanic/Latino,,07/14/2007,Bible I,BIB l,9,782,B,87.5,3,true,B+,88.2,3.3,true,2021-2022
+11274,Enrolled,2025,Female,Non-Hispanic/Latino,,07/14/2007,English I,ENG l,89,794,B,86.4,3,true,B,87,3,true,2021-2022
+11274,Enrolled,2025,Female,Non-Hispanic/Latino,,07/14/2007,Essential Living Skills,E LIV SKIL,75,894,A-,91.7,3.7,true,,0,0,false,2021-2022
+11274,Enrolled,2025,Female,Non-Hispanic/Latino,,07/14/2007,Foundations for Success,FFS,62,855,A,98.33,4,true,A,100,4,true,2021-2022
+11277,Enrolled,2025,Female,Hispanic/Latino,English,12/22/2006,Basic Algebra,BASIC ALG,75,869,B,86.7,3,true,B,83,3,true,2021-2022
+11277,Enrolled,2025,Female,Hispanic/Latino,English,12/22/2006,Physical Science,PHY SCI,96,814,C-,0,1.7,true,D,66,1,true,2021-2022
+11277,Enrolled,2025,Female,Hispanic/Latino,English,12/22/2006,Health,HLTH,87,805,C-,72.82,1.7,true,C,73.75,2,true,2021-2022
+11277,Enrolled,2025,Female,Hispanic/Latino,English,12/22/2006,PE I,PE I,87,808,A,96.5,4,true,A,100,4,true,2021-2022
+11277,Enrolled,2025,Female,Hispanic/Latino,English,12/22/2006,Computer Literacy,CMP LIT,54,895,C,76,2,true,,0,0,false,2021-2022
+11277,Enrolled,2025,Female,Hispanic/Latino,English,12/22/2006,Intro to Photography,INT PHOTO,54,893,B-,82.3,2.7,true,A-,92.1,3.7,true,2021-2022
+11277,Enrolled,2025,Female,Hispanic/Latino,English,12/22/2006,Bible I,BIB l,9,782,B,87.8,3,true,A,99.8,4,true,2021-2022
+11277,Enrolled,2025,Female,Hispanic/Latino,English,12/22/2006,Essential Living Skills,E LIV SKIL,75,894,,0,0,false,A,94,4,true,2021-2022
+11277,Enrolled,2025,Female,Hispanic/Latino,English,12/22/2006,English I,ENG l,55,795,A,95,4,true,B+,88,3.3,true,2021-2022
+11277,Enrolled,2025,Female,Hispanic/Latino,English,12/22/2006,Foundations for Success,FFS,62,854,A,96.67,4,true,A,94.74,4,true,2021-2022
+11280,Enrolled,2025,Male,Non-Hispanic/Latino,English,03/23/2006,Algebra II,ALG ll,52,776,A,96,4,true,A,93,4,true,2021-2022
+11280,Enrolled,2025,Male,Non-Hispanic/Latino,English,03/23/2006,Physical Science,PHY SCI,96,814,A,96.67,4,true,A,96,4,true,2021-2022
+11280,Enrolled,2025,Male,Non-Hispanic/Latino,English,03/23/2006,Health,HLTH,87,805,A-,92.2,3.7,true,A,95.4,4,true,2021-2022
+11280,Enrolled,2025,Male,Non-Hispanic/Latino,English,03/23/2006,PE I,PE I,87,808,A,98.71,4,true,A,100,4,true,2021-2022
+11280,Enrolled,2025,Male,Non-Hispanic/Latino,English,03/23/2006,Computer Literacy,CMP LIT,54,895,A,96,4,true,,0,0,false,2021-2022
+11280,Enrolled,2025,Male,Non-Hispanic/Latino,English,03/23/2006,Bible I,BIB l,9,782,A,99.3,4,true,A,98.4,4,true,2021-2022
+11280,Enrolled,2025,Male,Non-Hispanic/Latino,English,03/23/2006,English I,ENG l,89,794,A,93.5,4,true,A-,92,3.7,true,2021-2022
+11280,Enrolled,2025,Male,Non-Hispanic/Latino,English,03/23/2006,Essential Living Skills,E LIV SKIL,75,894,,0,0,false,A,98,4,true,2021-2022
+11280,Enrolled,2025,Male,Non-Hispanic/Latino,English,03/23/2006,Foundations for Success,FFS,62,854,A,98.33,4,true,A,100,4,true,2021-2022
+11283,Enrolled,2025,Female,,,10/09/2006,Algebra I,ALG l,82,775,A-,91.3,3.7,true,B+,88.3,3.3,true,2021-2022
+11283,Enrolled,2025,Female,,,10/09/2006,Physical Science,PHY SCI,96,814,C,76.67,2,true,A,94,4,true,2021-2022
+11283,Enrolled,2025,Female,,,10/09/2006,Health,HLTH,87,805,A-,91.6,3.7,true,A-,92.94,3.7,true,2021-2022
+11283,Enrolled,2025,Female,,,10/09/2006,PE I,PE I,87,808,A,97.7,4,true,A,96,4,true,2021-2022
+11283,Enrolled,2025,Female,,,10/09/2006,Computer Literacy,CMP LIT,54,895,B,83.5,3,true,,0,0,false,2021-2022
+11283,Enrolled,2025,Female,,,10/09/2006,Bible I,BIB l,9,782,A,95.7,4,true,A,100,4,true,2021-2022
+11283,Enrolled,2025,Female,,,10/09/2006,English I,ENG l,89,794,A-,91.3,3.7,true,B,83,3,true,2021-2022
+11283,Enrolled,2025,Female,,,10/09/2006,Essential Living Skills,E LIV SKIL,75,894,,0,0,false,A,95,4,true,2021-2022
+11283,Enrolled,2025,Female,,,10/09/2006,Foundations for Success,FFS,62,854,A-,90,3.7,true,A,100,4,true,2021-2022
+11288,Enrolled,2025,Female,Non-Hispanic/Latino,English,05/31/2007,Basic Algebra,BASIC ALG,75,869,B,86.7,3,true,B,85,3,true,2021-2022
+11288,Enrolled,2025,Female,Non-Hispanic/Latino,English,05/31/2007,Physical Science,PHY SCI,96,815,C-,71.67,1.7,true,C,77,2,true,2021-2022
+11288,Enrolled,2025,Female,Non-Hispanic/Latino,English,05/31/2007,Health,HLTH,87,805,A,93.86,4,true,A,93.56,4,true,2021-2022
+11288,Enrolled,2025,Female,Non-Hispanic/Latino,English,05/31/2007,PE I,PE I,87,808,A,99.3,4,true,A,100,4,true,2021-2022
+11288,Enrolled,2025,Female,Non-Hispanic/Latino,English,05/31/2007,Computer Literacy,CMP LIT,54,895,,0,0,false,C,74.9,2,true,2021-2022
+11288,Enrolled,2025,Female,Non-Hispanic/Latino,English,05/31/2007,Intro to Photography,INT PHOTO,54,892,B,83.5,3,true,B,86.3,3,true,2021-2022
+11288,Enrolled,2025,Female,Non-Hispanic/Latino,English,05/31/2007,Bible I,BIB l,9,782,A,99.1,4,true,A,97.3,4,true,2021-2022
+11288,Enrolled,2025,Female,Non-Hispanic/Latino,English,05/31/2007,Essential Living Skills,E LIV SKIL,75,894,A,93.8,4,true,,0,0,false,2021-2022
+11288,Enrolled,2025,Female,Non-Hispanic/Latino,English,05/31/2007,English I,ENG l,55,795,A,94,4,true,B+,89,3.3,true,2021-2022
+11288,Enrolled,2025,Female,Non-Hispanic/Latino,English,05/31/2007,Foundations for Success,FFS,62,855,A,96.67,4,true,A,94.74,4,true,2021-2022
+11292,Enrolled,2025,Female,Non-Hispanic/Latino,English,04/06/2007,Physical Science,PHY SCI,96,815,A,93.33,4,true,A,96,4,true,2021-2022
+11292,Enrolled,2025,Female,Non-Hispanic/Latino,English,04/06/2007,Health,HLTH,87,805,A,96.01,4,true,A,95.86,4,true,2021-2022
+11292,Enrolled,2025,Female,Non-Hispanic/Latino,English,04/06/2007,PE I,PE I,87,808,A,99.1,4,true,A,100,4,true,2021-2022
+11292,Enrolled,2025,Female,Non-Hispanic/Latino,English,04/06/2007,Algebra II,ALG ll,52,776,B+,88,3.3,true,B,84,3,true,2021-2022
+11292,Enrolled,2025,Female,Non-Hispanic/Latino,English,04/06/2007,Computer Literacy,CMP LIT,54,895,,0,0,false,A-,90,3.7,true,2021-2022
+11292,Enrolled,2025,Female,Non-Hispanic/Latino,English,04/06/2007,Bible I,BIB l,9,782,A,95.3,4,true,A,95.3,4,true,2021-2022
+11292,Enrolled,2025,Female,Non-Hispanic/Latino,English,04/06/2007,English I,ENG l,89,794,A-,92.5,3.7,true,A,93,4,true,2021-2022
+11292,Enrolled,2025,Female,Non-Hispanic/Latino,English,04/06/2007,Essential Living Skills,E LIV SKIL,75,894,A,95.8,4,true,,0,0,false,2021-2022
+11292,Enrolled,2025,Female,Non-Hispanic/Latino,English,04/06/2007,Foundations for Success,FFS,62,855,A,100,4,true,A,100,4,true,2021-2022
+11295,Enrolled,2025,Female,Asian/Pacific Island,English,02/24/2006,Algebra I,ALG l,82,775,A,97.5,4,true,A-,91.7,3.7,true,2021-2022
+11295,Enrolled,2025,Female,Asian/Pacific Island,English,02/24/2006,Physical Science,PHY SCI,96,815,A,93.33,4,true,A,96,4,true,2021-2022
+11295,Enrolled,2025,Female,Asian/Pacific Island,English,02/24/2006,Health,HLTH,87,805,A,95.54,4,true,A,96.76,4,true,2021-2022
+11295,Enrolled,2025,Female,Asian/Pacific Island,English,02/24/2006,PE I,PE I,87,808,A,98.9,4,true,A,100,4,true,2021-2022
+11295,Enrolled,2025,Female,Asian/Pacific Island,English,02/24/2006,Computer Literacy,CMP LIT,54,895,A,96.9,4,true,,0,0,false,2021-2022
+11295,Enrolled,2025,Female,Asian/Pacific Island,English,02/24/2006,Bible I,BIB l,9,782,A,100,4,true,A,99.8,4,true,2021-2022
+11295,Enrolled,2025,Female,Asian/Pacific Island,English,02/24/2006,English I,ENG l,89,794,A,93.5,4,true,A,93,4,true,2021-2022
+11295,Enrolled,2025,Female,Asian/Pacific Island,English,02/24/2006,Essential Living Skills,E LIV SKIL,75,894,,0,0,false,A,98,4,true,2021-2022
+11295,Enrolled,2025,Female,Asian/Pacific Island,English,02/24/2006,Foundations for Success,FFS,62,855,A,100,4,true,A,100,4,true,2021-2022
+11300,Enrolled,2025,Female,Non-Hispanic/Latino,English,09/13/2006,Algebra I,ALG l,82,775,B,85,3,true,D+,68.3,1.3,true,2021-2022
+11300,Enrolled,2025,Female,Non-Hispanic/Latino,English,09/13/2006,Physical Science,PHY SCI,96,814,A,95,4,true,B,86,3,true,2021-2022
+11300,Enrolled,2025,Female,Non-Hispanic/Latino,English,09/13/2006,Health,HLTH,87,805,A-,91.96,3.7,true,B,84.9,3,true,2021-2022
+11300,Enrolled,2025,Female,Non-Hispanic/Latino,English,09/13/2006,PE I,PE I,87,808,A,98.6,4,true,A,93.2,4,true,2021-2022
+11300,Enrolled,2025,Female,Non-Hispanic/Latino,English,09/13/2006,Computer Literacy,CMP LIT,54,895,,0,0,false,C,73.3,2,true,2021-2022
+11300,Enrolled,2025,Female,Non-Hispanic/Latino,English,09/13/2006,Bible I,BIB l,9,782,A-,92.7,3.7,true,B-,81.1,2.7,true,2021-2022
+11300,Enrolled,2025,Female,Non-Hispanic/Latino,English,09/13/2006,Essential Living Skills,E LIV SKIL,75,894,A-,90.4,3.7,true,,0,0,false,2021-2022
+11300,Enrolled,2025,Female,Non-Hispanic/Latino,English,09/13/2006,English I,ENG l,55,795,A,100,4,true,C,77,2,true,2021-2022
+11300,Enrolled,2025,Female,Non-Hispanic/Latino,English,09/13/2006,Foundations for Success,FFS,62,854,A,97.5,4,true,A-,92.11,3.7,true,2021-2022
+11302,Enrolled,2025,Female,Hispanic/Latino,English,02/16/2007,Algebra I,ALG l,82,775,A,96.3,4,true,B+,88.3,3.3,true,2021-2022
+11302,Enrolled,2025,Female,Hispanic/Latino,English,02/16/2007,Physical Science,PHY SCI,96,814,A-,90,3.7,true,B,86,3,true,2021-2022
+11302,Enrolled,2025,Female,Hispanic/Latino,English,02/16/2007,Health,HLTH,87,805,B,87.26,3,true,A-,92.7,3.7,true,2021-2022
+11302,Enrolled,2025,Female,Hispanic/Latino,English,02/16/2007,PE I,PE I,87,808,A-,92.54,3.7,true,A,95.38,4,true,2021-2022
+11302,Enrolled,2025,Female,Hispanic/Latino,English,02/16/2007,Computer Literacy,CMP LIT,54,895,A,97.8,4,true,,0,0,false,2021-2022
+11302,Enrolled,2025,Female,Hispanic/Latino,English,02/16/2007,Bible I,BIB l,9,782,A,100,4,true,A,100,4,false,2021-2022
+11302,Enrolled,2025,Female,Hispanic/Latino,English,02/16/2007,Essential Living Skills,E LIV SKIL,75,894,,0,0,false,A,93,4,true,2021-2022
+11302,Enrolled,2025,Female,Hispanic/Latino,English,02/16/2007,English I,ENG l,55,795,A-,90,3.7,true,A,93,4,true,2021-2022
+11302,Enrolled,2025,Female,Hispanic/Latino,English,02/16/2007,Foundations for Success,FFS,62,854,A,98.33,4,true,A,94.74,4,true,2021-2022
+11305,Withdrawn,2025,Female,Non-Hispanic/Latino,English,04/21/2007,Algebra I,ALG l,82,775,B-,82.5,2.7,true,B-,81.7,2.7,true,2021-2022
+11305,Withdrawn,2025,Female,Non-Hispanic/Latino,English,04/21/2007,Physical Science,PHY SCI,96,814,C,75,2,true,B,84,3,true,2021-2022
+11305,Withdrawn,2025,Female,Non-Hispanic/Latino,English,04/21/2007,Health,HLTH,87,805,C,77.93,2,true,B-,82.24,2.7,true,2021-2022
+11305,Withdrawn,2025,Female,Non-Hispanic/Latino,English,04/21/2007,PE I,PE I,87,808,A,95.4,4,true,A,100,4,true,2021-2022
+11305,Withdrawn,2025,Female,Non-Hispanic/Latino,English,04/21/2007,Computer Literacy,CMP LIT,54,895,,0,0,false,B+,88,3.3,true,2021-2022
+11305,Withdrawn,2025,Female,Non-Hispanic/Latino,English,04/21/2007,Intro to Photography,INT PHOTO,54,893,C,76.9,2,true,A-,90,3.7,true,2021-2022
+11305,Withdrawn,2025,Female,Non-Hispanic/Latino,English,04/21/2007,Bible I,BIB l,9,782,B,83.1,3,true,A,93.3,4,true,2021-2022
+11305,Withdrawn,2025,Female,Non-Hispanic/Latino,English,04/21/2007,English I,ENG l,89,794,B+,89.5,3.3,true,B+,88,3.3,true,2021-2022
+11305,Withdrawn,2025,Female,Non-Hispanic/Latino,English,04/21/2007,Essential Living Skills,E LIV SKIL,75,894,A,96.3,4,true,,0,0,false,2021-2022
+11305,Withdrawn,2025,Female,Non-Hispanic/Latino,English,04/21/2007,Foundations for Success,FFS,62,854,A,95,4,true,A,97.37,4,true,2021-2022
+11308,Withdrawn,2025,Female,Non-Hispanic/Latino,English,02/13/2007,Algebra I,ALG l,82,775,B-,80,2.7,true,C-,70,1.7,true,2021-2022
+11308,Withdrawn,2025,Female,Non-Hispanic/Latino,English,02/13/2007,Physical Science,PHY SCI,96,814,C,76.67,2,true,C-,72,1.7,true,2021-2022
+11308,Withdrawn,2025,Female,Non-Hispanic/Latino,English,02/13/2007,Health,HLTH,87,805,B,84.41,3,true,B+,89.35,3.3,true,2021-2022
+11308,Withdrawn,2025,Female,Non-Hispanic/Latino,English,02/13/2007,PE I,PE I,87,808,A,97.6,4,true,A,95.71,4,true,2021-2022
+11308,Withdrawn,2025,Female,Non-Hispanic/Latino,English,02/13/2007,Computer Literacy,CMP LIT,54,895,A-,90.9,3.7,true,,0,0,false,2021-2022
+11308,Withdrawn,2025,Female,Non-Hispanic/Latino,English,02/13/2007,Bible I,BIB l,9,782,B,86.3,3,true,A,96.4,4,true,2021-2022
+11308,Withdrawn,2025,Female,Non-Hispanic/Latino,English,02/13/2007,Essential Living Skills,E LIV SKIL,75,894,,0,0,false,A,95,4,true,2021-2022
+11308,Withdrawn,2025,Female,Non-Hispanic/Latino,English,02/13/2007,English I,ENG l,55,795,B,85,3,true,A-,91,3.7,true,2021-2022
+11308,Withdrawn,2025,Female,Non-Hispanic/Latino,English,02/13/2007,Foundations for Success,FFS,62,854,A,96.67,4,true,A,94.74,4,true,2021-2022
+11309,Enrolled,2024,Female,Non-Hispanic/Latino,English,06/05/2006,Health,HLTH,87,805,A-,90.21,3.7,true,A,96.76,4,true,2021-2022
+11309,Enrolled,2024,Female,Non-Hispanic/Latino,English,06/05/2006,PE I,PE I,87,808,A,97.78,4,true,A,100,4,true,2021-2022
+11309,Enrolled,2024,Female,Non-Hispanic/Latino,English,06/05/2006,Climbing,CLIMBING,53,881,A,100,4,true,,,,,2021-2022
+11309,Enrolled,2024,Female,Non-Hispanic/Latino,English,06/05/2006,AP Human Geography,AP HUM G,82,779,B,86.8,4,true,,0,0,false,2021-2022
+11309,Enrolled,2024,Female,Non-Hispanic/Latino,English,06/05/2006,Bible III,BIB lll,9,787,A-,91.7,3.7,true,A,93.8,4,true,2021-2022
+11309,Enrolled,2024,Female,Non-Hispanic/Latino,English,06/05/2006,English III,ENG lll,89,800,A,93.4,4,true,A,96,4,true,2021-2022
+11309,Enrolled,2024,Female,Non-Hispanic/Latino,English,06/05/2006,Essential Living Skills,E LIV SKIL,75,894,,0,0,false,A,95,4,true,2021-2022
+11309,Enrolled,2024,Female,Non-Hispanic/Latino,English,06/05/2006,U. S. History,US HIS,94,828,A,95,4,true,A,0,4,true,2021-2022
+11309,Enrolled,2024,Female,Non-Hispanic/Latino,English,06/05/2006,Algebra II,ALG ll,52,776,A-,92,3.7,true,A,94,4,true,2021-2022
+11316,Enrolled,2023,Female,Hispanic/Latino,English,02/14/2005,Algebra II,ALG ll,52,872,B,84,3,true,C,74,2,true,2021-2022
+11316,Enrolled,2023,Female,Hispanic/Latino,English,02/14/2005,Photography,PHOTO,54,813,C-,71.8,1.7,true,B+,89,3.3,true,2021-2022
+11316,Enrolled,2023,Female,Hispanic/Latino,English,02/14/2005,Bible III,BIB lll,9,787,C,73.3,2,true,A,95.3,4,true,2021-2022
+11316,Enrolled,2023,Female,Hispanic/Latino,English,02/14/2005,English III,ENG lll,89,800,D,62.3,1,true,B,85,3,true,2021-2022
+11316,Enrolled,2023,Female,Hispanic/Latino,English,02/14/2005,Spanish II,SPAN ll,89,876,D,0,1,true,A,97,4,true,2021-2022
+11316,Enrolled,2023,Female,Hispanic/Latino,English,02/14/2005,Yearbook,YRBK,89,841,B-,80,2.7,true,B,83.8,3,true,2021-2022
+11316,Enrolled,2023,Female,Hispanic/Latino,English,02/14/2005,U. S. History,US HIS,94,828,C-,0,1.7,true,B,0,3,true,2021-2022
+11330,Withdrawn,2023,Male,Asian/Pacific Island,English,09/29/2006,Bible I,BIB l,9,783,,0,0,false,A,100,4,true,2021-2022
+11330,Withdrawn,2025,Male,Asian/Pacific Island,English,09/29/2006,PE II,PE II,87,810,,0,0,false,A,97,4,true,2021-2022
+11330,Withdrawn,2025,Male,Asian/Pacific Island,English,09/29/2006,Geometry,GEOM,82,803,,0,0,false,A,97.1,4,true,2021-2022
+11330,Withdrawn,2025,Male,Asian/Pacific Island,English,09/29/2006,Graphic Design,GRAPHIC DES,54,850,,0,0,false,A,93.3,4,true,2021-2022
+11330,Withdrawn,2025,Male,Asian/Pacific Island,English,09/29/2006,Essential Living Skills,E LIV SKIL,75,894,,0,0,false,A,99,4,true,2021-2022
+11330,Withdrawn,2025,Male,Asian/Pacific Island,English,09/29/2006,English I,ENG l,55,795,,0,0,false,A,99,4,true,2021-2022
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
